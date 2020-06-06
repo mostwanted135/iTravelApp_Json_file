@@ -4,6 +4,10 @@
       "City": "Sydney"
    },
    {
+      "IATA": "MED",
+      "City": "Medalin"
+   },
+   {
       "IATA": "MEL",
       "City": "Melbourne"
    },
@@ -18,9 +22,5 @@
    {
       "IATA": "XSW",
       "City": "Xsw"
-   },
-   {
-      "IATA": "MED",
-      "City": "Medalin"
    }
 ]
