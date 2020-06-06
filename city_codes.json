@@ -10,5 +10,13 @@
    {
       "IATA": "TES",
       "City": "Test"
+   },
+   {
+      "IATA": "ZAQ",
+      "City": "Zaq"
+   },
+   {
+      "IATA": "XSW",
+      "City": "Xsw"
    }
 ]
