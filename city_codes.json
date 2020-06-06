@@ -18,5 +18,9 @@
    {
       "IATA": "XSW",
       "City": "Xsw"
+   },
+   {
+      "IATA": "MED",
+      "City": "Medalin"
    }
 ]
