@@ -1,30 +1,10038 @@
 [
-   {
-      "IATA": "SYD",
-      "City": "Sydney"
-   },
-   {
-      "IATA": "MED",
-      "City": "Medalin"
-   },
-   {
-      "IATA": "MEL",
-      "City": "Melbourne"
-   },
-   {
-      "IATA": "TES",
-      "City": "Test"
-   },
-   {
-      "IATA": "ZAQ",
-      "City": "Zaq"
-   },
-   {
-      "IATA": "XSW",
-      "City": "Xsw"
-   },
-   {
-      "IATA": "MAA",
-      "City": "Chennai"
-   }
+ {
+   "IATA": "AAL",
+   "City": "Aalborg, Denmark"
+ },
+ {
+   "IATA": "AES",
+   "City": "Aalesund, Norway"
+ },
+ {
+   "IATA": "ZID",
+   "City": "Aarhus, Denmark - Bus service"
+ },
+ {
+   "IATA": "AAR",
+   "City": "Aarhus, Denmark - Tirstrup"
+ },
+ {
+   "IATA": "JEG",
+   "City": "Aasiaat, Greenland"
+ },
+ {
+   "IATA": "ABD",
+   "City": "Abadan, Iran"
+ },
+ {
+   "IATA": "ABA",
+   "City": "Abakan, Russia"
+ },
+ {
+   "IATA": "ABZ",
+   "City": "Aberdeen, United Kingdom"
+ },
+ {
+   "IATA": "AHB",
+   "City": "Abha, Saudi Arabia"
+ },
+ {
+   "IATA": "ABJ",
+   "City": "Abidjan, Cote d'Ivoire"
+ },
+ {
+   "IATA": "AUH",
+   "City": "Abu Dhabi, United Arab Emirates"
+ },
+ {
+   "IATA": "ABS",
+   "City": "Abu Simbel, Egypt"
+ },
+ {
+   "IATA": "ABV",
+   "City": "Abuja, Nigeria"
+ },
+ {
+   "IATA": "ACA",
+   "City": "Acapulco, Mexico"
+ },
+ {
+   "IATA": "AGV",
+   "City": "Acarigua, Venezuela"
+ },
+ {
+   "IATA": "ACC",
+   "City": "Accra, Ghana"
+ },
+ {
+   "IATA": "ADA",
+   "City": "Adana, Turkey"
+ },
+ {
+   "IATA": "ADD",
+   "City": "Addis Ababa, Ethopia"
+ },
+ {
+   "IATA": "ADL",
+   "City": "Adelaide, Australia"
+ },
+ {
+   "IATA": "ADE",
+   "City": "Aden, Yemen"
+ },
+ {
+   "IATA": "AER",
+   "City": "Adler/Sochi, Russia"
+ },
+ {
+   "IATA": "AZR",
+   "City": "Adrar, Algeria"
+ },
+ {
+   "IATA": "AFT",
+   "City": "Afutara, Soloman Islands"
+ },
+ {
+   "IATA": "AGA",
+   "City": "Agadir, Morocco"
+ },
+ {
+   "IATA": "IXA",
+   "City": "Agartala, India"
+ },
+ {
+   "IATA": "AUP",
+   "City": "Agaun, Papua New Guinea"
+ },
+ {
+   "IATA": "AGF",
+   "City": "Agen, France"
+ },
+ {
+   "IATA": "AGR",
+   "City": "Agra, India"
+ },
+ {
+   "IATA": "AJI",
+   "City": "Agri, Turkey"
+ },
+ {
+   "IATA": "BQN",
+   "City": "Aguadilla, Puerto Rico"
+ },
+ {
+   "IATA": "AGU",
+   "City": "Aguascalientes, Mexico"
+ },
+ {
+   "IATA": "AGJ",
+   "City": "Aguni, Japan"
+ },
+ {
+   "IATA": "AMD",
+   "City": "Ahmedabad, India"
+ },
+ {
+   "IATA": "AWZ",
+   "City": "Ahwaz, Iran"
+ },
+ {
+   "IATA": "AIM",
+   "City": "Ailuk Island, Marshall Islands"
+ },
+ {
+   "IATA": "AEO",
+   "City": "Aioun El Atrouss, Mauritania"
+ },
+ {
+   "IATA": "AIC",
+   "City": "Airok, Marshall Islands"
+ },
+ {
+   "IATA": "AIT",
+   "City": "Aitutaki, Cook Islands"
+ },
+ {
+   "IATA": "AJL",
+   "City": "Aizawl, India"
+ },
+ {
+   "IATA": "AJA",
+   "City": "Ajaccio, France"
+ },
+ {
+   "IATA": "AXT",
+   "City": "Akita, Japan"
+ },
+ {
+   "IATA": "AKU",
+   "City": "Aksu, China"
+ },
+ {
+   "IATA": "AKX",
+   "City": "Aktyubinsk, Kazakhstan"
+ },
+ {
+   "IATA": "AEY",
+   "City": "Akureyri, Iceland"
+ },
+ {
+   "IATA": "AAN",
+   "City": "Al Ain, United Arab Emirates"
+ },
+ {
+   "IATA": "AAC",
+   "City": "Al Arish, Egypt"
+ },
+ {
+   "IATA": "AAY",
+   "City": "Al Ghaydah, Yemen"
+ },
+ {
+   "IATA": "AHU",
+   "City": "Al Hoceima, Morocco"
+ },
+ {
+   "IATA": "ABT",
+   "City": "Al-Baha, Saudi Arabia"
+ },
+ {
+   "IATA": "ABX",
+   "City": "Albury, Australia"
+ },
+ {
+   "IATA": "ACI",
+   "City": "Alderney, United Kingdom"
+ },
+ {
+   "IATA": "ALP",
+   "City": "Aleppo, Syrian Arab Republic"
+ },
+ {
+   "IATA": "ALJ",
+   "City": "Alexander Bay, South Africa"
+ },
+ {
+   "IATA": "ALY",
+   "City": "Alexandria, Egypt"
+ },
+ {
+   "IATA": "AXD",
+   "City": "Alexandroupolis, Greece"
+ },
+ {
+   "IATA": "FJR",
+   "City": "Al-Fujairah, United Arab Emirates"
+ },
+ {
+   "IATA": "AHO",
+   "City": "Alghero, Italy"
+ },
+ {
+   "IATA": "ALG",
+   "City": "Algiers, Algeria"
+ },
+ {
+   "IATA": "ALC",
+   "City": "Alicante, Spain"
+ },
+ {
+   "IATA": "ASP",
+   "City": "Alice Springs, Australia"
+ },
+ {
+   "IATA": "AKX",
+   "City": "Almaty, Kazakhstan"
+ },
+ {
+   "IATA": "LEI",
+   "City": "Almeria, Spain"
+ },
+ {
+   "IATA": "ARD",
+   "City": "Alor Island, Indonesia"
+ },
+ {
+   "IATA": "AOR",
+   "City": "Alorsetar, Malaysia"
+ },
+ {
+   "IATA": "GUR",
+   "City": "Alotau, Papua New Guinea"
+ },
+ {
+   "IATA": "ALF",
+   "City": "Alta, Norway"
+ },
+ {
+   "IATA": "ATM",
+   "City": "Altamira, Brazil"
+ },
+ {
+   "IATA": "AAT",
+   "City": "Altay, China"
+ },
+ {
+   "IATA": "ACH",
+   "City": "Altenrhein, Switzerland"
+ },
+ {
+   "IATA": "ARR",
+   "City": "Alto Rio Senguerr, Argentina"
+ },
+ {
+   "IATA": "ASJ",
+   "City": "Amami O Shima, Japan"
+ },
+ {
+   "IATA": "AZB",
+   "City": "Amazon Bay, Papua New Guinea"
+ },
+ {
+   "IATA": "IVA",
+   "City": "Ambanja, Madagascar"
+ },
+ {
+   "IATA": "AMY",
+   "City": "Ambatomainty, Madagascar"
+ },
+ {
+   "IATA": "WAM",
+   "City": "Ambatondrazaka, Madagascar"
+ },
+ {
+   "IATA": "AMQ",
+   "City": "Ambon, Indonesia"
+ },
+ {
+   "IATA": "ASV",
+   "City": "Amboseli, Kenya"
+ },
+ {
+   "IATA": "AMV",
+   "City": "Amderma, Russia"
+ },
+ {
+   "IATA": "ADJ",
+   "City": "Amman, Jordan - Civil/Marka Airport"
+ },
+ {
+   "IATA": "AMM",
+   "City": "Amman, Jordan - Queen Alia International"
+ },
+ {
+   "IATA": "ATQ",
+   "City": "Amritsar, India"
+ },
+ {
+   "IATA": "AMS",
+   "City": "Amsterdam, Netherlands"
+ },
+ {
+   "IATA": "DYR",
+   "City": "Anadyr, Russia"
+ },
+ {
+   "IATA": "HVA",
+   "City": "Analalava, Madagascar"
+ },
+ {
+   "IATA": "AAQ",
+   "City": "Anapa, Russia"
+ },
+ {
+   "IATA": "AOI",
+   "City": "Ancona, Italy"
+ },
+ {
+   "IATA": "ANX",
+   "City": "Andenes, Norway"
+ },
+ {
+   "IATA": "AZN",
+   "City": "Andizhan, Uzbekistan"
+ },
+ {
+   "IATA": "ASD",
+   "City": "Andros, Bahamas"
+ },
+ {
+   "IATA": "AUY",
+   "City": "Aneityum, Vanuatu"
+ },
+ {
+   "IATA": "JHE",
+   "City": "Angelholm/Helsingborg, Sweden"
+ },
+ {
+   "IATA": "ANE",
+   "City": "Angers, France - Marce"
+ },
+ {
+   "IATA": "QXG",
+   "City": "Angers, France - Rail service"
+ },
+ {
+   "IATA": "AGD",
+   "City": "Anggi, Indonesia"
+ },
+ {
+   "IATA": "AQG",
+   "City": "Anging, China"
+ },
+ {
+   "IATA": "ANG",
+   "City": "Angouleme, France"
+ },
+ {
+   "IATA": "AXA",
+   "City": "Anguilla, Anguilla"
+ },
+ {
+   "IATA": "AWD",
+   "City": "Aniwa, Vanuatu"
+ },
+ {
+   "IATA": "AKA",
+   "City": "Ankang, China"
+ },
+ {
+   "IATA": "ESB",
+   "City": "Ankara, Turkey - Esenboga"
+ },
+ {
+   "IATA": "ANK",
+   "City": "Ankara, Turkey - Etimesqut"
+ },
+ {
+   "IATA": "JVA",
+   "City": "Ankavandra, Madagascar"
+ },
+ {
+   "IATA": "AAE",
+   "City": "Annaba, Algeria"
+ },
+ {
+   "IATA": "NCY",
+   "City": "Annecy, France"
+ },
+ {
+   "IATA": "ANM",
+   "City": "Antalaha, Madagascar"
+ },
+ {
+   "IATA": "AYT",
+   "City": "Antalya, Turkey"
+ },
+ {
+   "IATA": "TNR",
+   "City": "Antaninvarivo, Madgascar"
+ },
+ {
+   "IATA": "ANU",
+   "City": "Antigua, Antigua and Barbuda"
+ },
+ {
+   "IATA": "ANF",
+   "City": "Antofagasta, Chile"
+ },
+ {
+   "IATA": "WAQ",
+   "City": "Antsalova, Madagascar"
+ },
+ {
+   "IATA": "DIE",
+   "City": "Antsiranana, Madagascar"
+ },
+ {
+   "IATA": "WAI",
+   "City": "Antsohihy, Madagascar"
+ },
+ {
+   "IATA": "ZAY",
+   "City": "Antwerp, Belgium - Bus service"
+ },
+ {
+   "IATA": "ANR",
+   "City": "Antwerp, Belgium - Deurne Airport"
+ },
+ {
+   "IATA": "AOJ",
+   "City": "Aomori, Japan"
+ },
+ {
+   "IATA": "AOT",
+   "City": "Aosta, Italy"
+ },
+ {
+   "IATA": "APO",
+   "City": "Apartado, Colombia"
+ },
+ {
+   "IATA": "APW",
+   "City": "Apia, Western Samoa"
+ },
+ {
+   "IATA": "FGI",
+   "City": "Apia, Western Samoa"
+ },
+ {
+   "IATA": "AQJ",
+   "City": "Aqaba, Jordan"
+ },
+ {
+   "IATA": "AJU",
+   "City": "Araca, Brazil"
+ },
+ {
+   "IATA": "ARU",
+   "City": "Aracatuba, Brazil"
+ },
+ {
+   "IATA": "ARW",
+   "City": "Arad, Romania"
+ },
+ {
+   "IATA": "ARP",
+   "City": "Aragip, Papua New Guinea"
+ },
+ {
+   "IATA": "AUX",
+   "City": "Araguaina, Brazil"
+ },
+ {
+   "IATA": "AAG",
+   "City": "Arapoti, Brazil"
+ },
+ {
+   "IATA": "RAE",
+   "City": "Arar, Saudi Arabia"
+ },
+ {
+   "IATA": "AUC",
+   "City": "Arauca, Colombia"
+ },
+ {
+   "IATA": "AMH",
+   "City": "Arba Mintch, Ethiopia"
+ },
+ {
+   "IATA": "ADU",
+   "City": "Ardabil, Iran"
+ },
+ {
+   "IATA": "AQP",
+   "City": "Arequipa, Peru"
+ },
+ {
+   "IATA": "AGH",
+   "City": "Argelholm/Helsingborg, Sweden"
+ },
+ {
+   "IATA": "GYL",
+   "City": "Argyle, Australia"
+ },
+ {
+   "IATA": "ARI",
+   "City": "Arica, Chile"
+ },
+ {
+   "IATA": "ARH",
+   "City": "Arkangelsk, Russia"
+ },
+ {
+   "IATA": "AXM",
+   "City": "Armenia, Colombia"
+ },
+ {
+   "IATA": "ARM",
+   "City": "Armidale, Australia"
+ },
+ {
+   "IATA": "ATC",
+   "City": "Arthur's Town, Bahamas"
+ },
+ {
+   "IATA": "RUA",
+   "City": "Arua, Uganda"
+ },
+ {
+   "IATA": "AUA",
+   "City": "Aruba, Aruba"
+ },
+ {
+   "IATA": "ARK",
+   "City": "Arusha, Tanzania"
+ },
+ {
+   "IATA": "AJR",
+   "City": "Arvidsjaur, Sweden"
+ },
+ {
+   "IATA": "AKJ",
+   "City": "Asahikawa, Japan"
+ },
+ {
+   "IATA": "ASB",
+   "City": "Ashgabat, Turkmenistan"
+ },
+ {
+   "IATA": "ASM",
+   "City": "Asmara, Eritrea"
+ },
+ {
+   "IATA": "ASO",
+   "City": "Asosa, Ethopia"
+ },
+ {
+   "IATA": "ATZ",
+   "City": "Assiut, Egypt"
+ },
+ {
+   "IATA": "TSE",
+   "City": "Astana, Kazakhstan"
+ },
+ {
+   "IATA": "ASF",
+   "City": "Astrakhan, Russia"
+ },
+ {
+   "IATA": "OVD",
+   "City": "Asturias, Spain and Canary Islands"
+ },
+ {
+   "IATA": "ASU",
+   "City": "Asuncion, Paraguay"
+ },
+ {
+   "IATA": "ASW",
+   "City": "Aswan, Egypt"
+ },
+ {
+   "IATA": "AXK",
+   "City": "Ataq, Yemen"
+ },
+ {
+   "IATA": "ATH",
+   "City": "Athens, Greece"
+ },
+ {
+   "IATA": "AIU",
+   "City": "Atiu Island, Cook Islands"
+ },
+ {
+   "IATA": "ATD",
+   "City": "Atoifi, Solomon Islands"
+ },
+ {
+   "IATA": "AUQ",
+   "City": "Atuona, French Polynesia"
+ },
+ {
+   "IATA": "GUW",
+   "City": "Atyrau, Kazakhstan"
+ },
+ {
+   "IATA": "AKL",
+   "City": "Auckland, New Zealand"
+ },
+ {
+   "IATA": "AGB",
+   "City": "Augsburg/Munich, Germany"
+ },
+ {
+   "IATA": "AKS",
+   "City": "Auki, Solomon Islands"
+ },
+ {
+   "IATA": "AUL",
+   "City": "Aur Island, Marshall Islands"
+ },
+ {
+   "IATA": "IXU",
+   "City": "Aurangabad, India"
+ },
+ {
+   "IATA": "AUR",
+   "City": "Aurillac, France"
+ },
+ {
+   "IATA": "AUU",
+   "City": "Aurukun, Australia"
+ },
+ {
+   "IATA": "AVN",
+   "City": "Avignon, France"
+ },
+ {
+   "IATA": "AYW",
+   "City": "Ayawaki, Indonesia"
+ },
+ {
+   "IATA": "AYQ",
+   "City": "Ayers Rock, Australia"
+ },
+ {
+   "IATA": "BXB",
+   "City": "Babo, Indonesia"
+ },
+ {
+   "IATA": "BCD",
+   "City": "Bacolod, Philippines"
+ },
+ {
+   "IATA": "BJZ",
+   "City": "Badajcz, Spain"
+ },
+ {
+   "IATA": "BXD",
+   "City": "Bade, Indonesia"
+ },
+ {
+   "IATA": "BDD",
+   "City": "Badu Island, Australia"
+ },
+ {
+   "IATA": "IXB",
+   "City": "Bagdogra, India"
+ },
+ {
+   "IATA": "BJR",
+   "City": "Baharpar, Ethiopia"
+ },
+ {
+   "IATA": "BHV",
+   "City": "Bahawalpur, Pakistan"
+ },
+ {
+   "IATA": "BHI",
+   "City": "Bahia Blanca, Argentina"
+ },
+ {
+   "IATA": "BFQ",
+   "City": "Bahia Pinas, Panama"
+ },
+ {
+   "IATA": "BSC",
+   "City": "Bahia Solano, Colombia"
+ },
+ {
+   "IATA": "BAH",
+   "City": "Bahrain, Bahrain"
+ },
+ {
+   "IATA": "BAY",
+   "City": "Baia Mare, Romania"
+ },
+ {
+   "IATA": "VMU",
+   "City": "Baimuru, Papua New Guinea"
+ },
+ {
+   "IATA": "BAK",
+   "City": "Baku, Azerbaijan"
+ },
+ {
+   "IATA": "BAS",
+   "City": "Balalae, Solomon Islands"
+ },
+ {
+   "IATA": "BZI",
+   "City": "Balikesir, Turkey"
+ },
+ {
+   "IATA": "BPN",
+   "City": "Balikpapan, Indonesia"
+ },
+ {
+   "IATA": "OPU",
+   "City": "Balimo, Papua New Guinea"
+ },
+ {
+   "IATA": "BNK",
+   "City": "Ballina, Australia"
+ },
+ {
+   "IATA": "BBA",
+   "City": "Balmaceda, Chile"
+ },
+ {
+   "IATA": "BXR",
+   "City": "Bam, Iran"
+ },
+ {
+   "IATA": "ABM",
+   "City": "Bamaga, Australia"
+ },
+ {
+   "IATA": "BKO",
+   "City": "Bamako, Mali"
+ },
+ {
+   "IATA": "BTJ",
+   "City": "Banda Aceh, Indonesia"
+ },
+ {
+   "IATA": "BND",
+   "City": "Bandar Abbas, Iran"
+ },
+ {
+   "IATA": "TKG",
+   "City": "Bandar Lampung, Indonesia - Branti"
+ },
+ {
+   "IATA": "BDH",
+   "City": "Bandar Lengeh, Iran"
+ },
+ {
+   "IATA": "BWN",
+   "City": "Bandar Seri Begawan, Brunei"
+ },
+ {
+   "IATA": "BDO",
+   "City": "Bandung, Indonesia"
+ },
+ {
+   "IATA": "BLR",
+   "City": "Bangalore, India"
+ },
+ {
+   "IATA": "BPX",
+   "City": "Bangda, China"
+ },
+ {
+   "IATA": "BKK",
+   "City": "Bangkok, Thailand"
+ },
+ {
+   "IATA": "BNX",
+   "City": "Banja Luka, Bosnia Herzegovina"
+ },
+ {
+   "IATA": "BDJ",
+   "City": "Banjarmasin, Indonesia"
+ },
+ {
+   "IATA": "BJL",
+   "City": "Banjul, Gambia"
+ },
+ {
+   "IATA": "BMV",
+   "City": "Banmethuot, Viet Nam - Phung-Doc"
+ },
+ {
+   "IATA": "BNP",
+   "City": "Bannu, Pakistan"
+ },
+ {
+   "IATA": "BGF",
+   "City": "Banqui, Central African Republic"
+ },
+ {
+   "IATA": "BSD",
+   "City": "Baoshan, China"
+ },
+ {
+   "IATA": "BAV",
+   "City": "Baotou, China"
+ },
+ {
+   "IATA": "BCA",
+   "City": "Baracoa, Cuba"
+ },
+ {
+   "IATA": "BCI",
+   "City": "Barcaldine, Australia"
+ },
+ {
+   "IATA": "BCN",
+   "City": "Barcelona, Spain"
+ },
+ {
+   "IATA": "BLA",
+   "City": "Barcelona, Venezuela"
+ },
+ {
+   "IATA": "BDU",
+   "City": "Bardufoss, Norway"
+ },
+ {
+   "IATA": "BRI",
+   "City": "Bari, Italy"
+ },
+ {
+   "IATA": "BNS",
+   "City": "Barinas, Venezuela"
+ },
+ {
+   "IATA": "BBN",
+   "City": "Bario, Malaysia"
+ },
+ {
+   "IATA": "BZL",
+   "City": "Barisal, Bangladesh"
+ },
+ {
+   "IATA": "BAX",
+   "City": "Barnaul, Russia"
+ },
+ {
+   "IATA": "BRM",
+   "City": "Barquisimeto, Venezuela"
+ },
+ {
+   "IATA": "BCL",
+   "City": "Barra Colorado, Costa Rica"
+ },
+ {
+   "IATA": "BRR",
+   "City": "Barra, United Kingdom"
+ },
+ {
+   "IATA": "EJA",
+   "City": "Barran Cabermeja, Colombia"
+ },
+ {
+   "IATA": "BAQ",
+   "City": "Barranquilla, Colombia"
+ },
+ {
+   "IATA": "BRA",
+   "City": "Barreiras, Brazil"
+ },
+ {
+   "IATA": "BSO",
+   "City": "Basco, Philippines"
+ },
+ {
+   "IATA": "BSL",
+   "City": "Basel, Switzerland"
+ },
+ {
+   "IATA": "ZDH",
+   "City": "Basel/Mulhouse Railway Station, Switzerland"
+ },
+ {
+   "IATA": "BUZ",
+   "City": "Bashehr, Iran"
+ },
+ {
+   "IATA": "BIA",
+   "City": "Bastia, France"
+ },
+ {
+   "IATA": "BTH",
+   "City": "Batam, Indonesia"
+ },
+ {
+   "IATA": "BRT",
+   "City": "Bathurst Island, Australia"
+ },
+ {
+   "IATA": "BHS",
+   "City": "Bathurst, Australia"
+ },
+ {
+   "IATA": "BAL",
+   "City": "Batman, Turkey"
+ },
+ {
+   "IATA": "BLJ",
+   "City": "Batna, Algeria"
+ },
+ {
+   "IATA": "BXM",
+   "City": "Batom, Indonesia"
+ },
+ {
+   "IATA": "BJF",
+   "City": "Batsfijord, Norway"
+ },
+ {
+   "IATA": "BBM",
+   "City": "Battambang, Cambodia"
+ },
+ {
+   "IATA": "BUS",
+   "City": "Batumi, Georgia"
+ },
+ {
+   "IATA": "BPF",
+   "City": "Batuna, Solomon Islands"
+ },
+ {
+   "IATA": "BAU",
+   "City": "Bauru, Brazil"
+ },
+ {
+   "IATA": "BYM",
+   "City": "Bayamo, Cuba"
+ },
+ {
+   "IATA": "BYU",
+   "City": "Bayreuth, Germany"
+ },
+ {
+   "IATA": "CBH",
+   "City": "Bechar, Algeria"
+ },
+ {
+   "IATA": "BEU",
+   "City": "Bedourie, Australia"
+ },
+ {
+   "IATA": "EIS",
+   "City": "Beef Island, British Virgin Islands"
+ },
+ {
+   "IATA": "BEI",
+   "City": "Beica, Ethiopia"
+ },
+ {
+   "IATA": "LAQ",
+   "City": "Beida, Libya - La Braq"
+ },
+ {
+   "IATA": "BHY",
+   "City": "Beihai, China"
+ },
+ {
+   "IATA": "PEK",
+   "City": "Beijing, China"
+ },
+ {
+   "IATA": "BEW",
+   "City": "Beira, Mozambique"
+ },
+ {
+   "IATA": "BEY",
+   "City": "Beirut, Lebanon"
+ },
+ {
+   "IATA": "BJA",
+   "City": "Bejaia, Algeria"
+ },
+ {
+   "IATA": "BLG",
+   "City": "Belaga, Mozambique"
+ },
+ {
+   "IATA": "BEL",
+   "City": "Belem, Brazil"
+ },
+ {
+   "IATA": "BMY",
+   "City": "Belep Island, New Caledonia"
+ },
+ {
+   "IATA": "BFS",
+   "City": "Belfast, Northern Ireland, United Kingdom"
+ },
+ {
+   "IATA": "BHD",
+   "City": "Belfast, United Kingdom"
+ },
+ {
+   "IATA": "EGO",
+   "City": "Belgorod, Russia"
+ },
+ {
+   "IATA": "BEG",
+   "City": "Belgrade, Serbia and Montenegro - Beograd"
+ },
+ {
+   "IATA": "BZE",
+   "City": "Belize City, Belize - International"
+ },
+ {
+   "IATA": "TZA",
+   "City": "Belize City, Belize - Municipal"
+ },
+ {
+   "IATA": "BNY",
+   "City": "Bellona, Solomon Islands"
+ },
+ {
+   "IATA": "PLU",
+   "City": "Belo Horizonte, Brazil - Pampulha"
+ },
+ {
+   "IATA": "CNF",
+   "City": "Belo Horizonte, Brazil - Tancredo Neves Intl."
+ },
+ {
+   "IATA": "BMD",
+   "City": "Belo, Madagascar"
+ },
+ {
+   "IATA": "BEB",
+   "City": "Benbecula, United Kingdom"
+ },
+ {
+   "IATA": "BEN",
+   "City": "Benghazi, Libya"
+ },
+ {
+   "IATA": "BKS",
+   "City": "Bengkulu, Indonesia"
+ },
+ {
+   "IATA": "BEJ",
+   "City": "Berau, Indonesia"
+ },
+ {
+   "IATA": "BBO",
+   "City": "Berbera, Somalia"
+ },
+ {
+   "IATA": "BGO",
+   "City": "Bergen, Norway"
+ },
+ {
+   "IATA": "EGC",
+   "City": "Bergerac, France"
+ },
+ {
+   "IATA": "BVG",
+   "City": "Berlevag, Norway"
+ },
+ {
+   "IATA": "BER",
+   "City": "Berlin, Germany - All airports"
+ },
+ {
+   "IATA": "SXF",
+   "City": "Berlin, Germany - Schoenefeld"
+ },
+ {
+   "IATA": "TXL",
+   "City": "Berlin, Germany - Tegel"
+ },
+ {
+   "IATA": "THF",
+   "City": "Berlin, Germany - Tempelhof"
+ },
+ {
+   "IATA": "BDA",
+   "City": "Bermuda, Bermuda"
+ },
+ {
+   "IATA": "BRN",
+   "City": "Berne, Switzerland - Belp Airport"
+ },
+ {
+   "IATA": "ZDJ",
+   "City": "Berne, Switzerland - Rail service"
+ },
+ {
+   "IATA": "BPY",
+   "City": "Besalampy, Madagascar"
+ },
+ {
+   "IATA": "BZR",
+   "City": "Beziers, France"
+ },
+ {
+   "IATA": "BDP",
+   "City": "Bhadrapur, Nepal"
+ },
+ {
+   "IATA": "BWA",
+   "City": "Bhairawa, Nepal"
+ },
+ {
+   "IATA": "BMO",
+   "City": "Bhamo, Myanmar"
+ },
+ {
+   "IATA": "BHR",
+   "City": "Bharatpur, Nepal"
+ },
+ {
+   "IATA": "BHU",
+   "City": "Bhavnagar, India"
+ },
+ {
+   "IATA": "BHO",
+   "City": "Bhopal, India"
+ },
+ {
+   "IATA": "BBI",
+   "City": "Bhubaneswar, India"
+ },
+ {
+   "IATA": "BHJ",
+   "City": "Bhuj, India"
+ },
+ {
+   "IATA": "BIK",
+   "City": "Biak, Indonesia"
+ },
+ {
+   "IATA": "BIQ",
+   "City": "Biarritz, France"
+ },
+ {
+   "IATA": "BII",
+   "City": "Bikini Atoll, Marshall Islands"
+ },
+ {
+   "IATA": "BIO",
+   "City": "Bilbao, Spain"
+ },
+ {
+   "IATA": "BLL",
+   "City": "Billund, Denmark"
+ },
+ {
+   "IATA": "BMU",
+   "City": "Bima, Indonesia"
+ },
+ {
+   "IATA": "BIM",
+   "City": "Bimini, Bahamas"
+ },
+ {
+   "IATA": "NSB",
+   "City": "Bimini, Bahamas"
+ },
+ {
+   "IATA": "BTU",
+   "City": "Bintulu, Malaysia"
+ },
+ {
+   "IATA": "NTI",
+   "City": "Bintuni, Indonesia"
+ },
+ {
+   "IATA": "BIR",
+   "City": "Biratragar, Nepal"
+ },
+ {
+   "IATA": "BVI",
+   "City": "Birdsville, Australia"
+ },
+ {
+   "IATA": "BHX",
+   "City": "Birmingham, United Kingdom"
+ },
+ {
+   "IATA": "BHH",
+   "City": "Bisha, Saudi Arabia"
+ },
+ {
+   "IATA": "FRU",
+   "City": "Bishkek, Kyrgyzstan"
+ },
+ {
+   "IATA": "BSK",
+   "City": "Biskra, Algeria"
+ },
+ {
+   "IATA": "OXB",
+   "City": "Bissau, Guinea-Bissau"
+ },
+ {
+   "IATA": "BKQ",
+   "City": "Blackall, Australia"
+ },
+ {
+   "IATA": "BLK",
+   "City": "Blackpool, United Kingdom"
+ },
+ {
+   "IATA": "BLT",
+   "City": "Blackwater, Australia"
+ },
+ {
+   "IATA": "BQS",
+   "City": "Blagoveschensk, Russia"
+ },
+ {
+   "IATA": "BLZ",
+   "City": "Blantyre, Malawi"
+ },
+ {
+   "IATA": "BHE",
+   "City": "Blenheim, New Zealand"
+ },
+ {
+   "IATA": "CNF",
+   "City": "Blo Horizonte, Brazil"
+ },
+ {
+   "IATA": "BFN",
+   "City": "Bloemfontein, South Africa"
+ },
+ {
+   "IATA": "BVC",
+   "City": "Boa Vista, Cape Verde"
+ },
+ {
+   "IATA": "BOV",
+   "City": "Boang, Papua New Guinea"
+ },
+ {
+   "IATA": "BVB",
+   "City": "Boavista, Brazil"
+ },
+ {
+   "IATA": "BOC",
+   "City": "Bocas Del Toro, Panama"
+ },
+ {
+   "IATA": "BOO",
+   "City": "Bodo, Norway"
+ },
+ {
+   "IATA": "BJV",
+   "City": "Bodrum, Turkey"
+ },
+ {
+   "IATA": "BOG",
+   "City": "Bogota, Colombia"
+ },
+ {
+   "IATA": "GIC",
+   "City": "Boiju Island, Australia"
+ },
+ {
+   "IATA": "BJB",
+   "City": "Bojnord, Iran"
+ },
+ {
+   "IATA": "BUI",
+   "City": "Bokondini, Indonesia"
+ },
+ {
+   "IATA": "BWK",
+   "City": "Bol, Croatia"
+ },
+ {
+   "IATA": "BZO",
+   "City": "Bolzano, Italy"
+ },
+ {
+   "IATA": "BOA",
+   "City": "Boma, Congo"
+ },
+ {
+   "IATA": "BOM",
+   "City": "Bombay, India"
+ },
+ {
+   "IATA": "BON",
+   "City": "Bonaire, Netherlands Antilles"
+ },
+ {
+   "IATA": "BNJ",
+   "City": "Bonn, Germany"
+ },
+ {
+   "IATA": "BOB",
+   "City": "Bora Bora, French Polynesia"
+ },
+ {
+   "IATA": "BOD",
+   "City": "Bordeaux, France"
+ },
+ {
+   "IATA": "HBE",
+   "City": "Borg El Arab, Egypt"
+ },
+ {
+   "IATA": "BMK",
+   "City": "Borkum, Germany"
+ },
+ {
+   "IATA": "BLE",
+   "City": "Borlange, Sweden"
+ },
+ {
+   "IATA": "RNN",
+   "City": "Bornholm, Denmark"
+ },
+ {
+   "IATA": "BOX",
+   "City": "Borroloola, Australia"
+ },
+ {
+   "IATA": "BSA",
+   "City": "Bossaro, Somalia"
+ },
+ {
+   "IATA": "BQL",
+   "City": "Boulia, Australia"
+ },
+ {
+   "IATA": "BOJ",
+   "City": "Bourgas, Bulgaria"
+ },
+ {
+   "IATA": "BRK",
+   "City": "Bourke, Australia"
+ },
+ {
+   "IATA": "BOH",
+   "City": "Bournemouth, United Kingdom"
+ },
+ {
+   "IATA": "BCQ",
+   "City": "Brack, Libya"
+ },
+ {
+   "IATA": "BMP",
+   "City": "Brampton Island, Australia"
+ },
+ {
+   "IATA": "BSB",
+   "City": "Brasilia, DF, Brazil"
+ },
+ {
+   "IATA": "BTS",
+   "City": "Bratislava, Slovakia"
+ },
+ {
+   "IATA": "BTK",
+   "City": "Bratsk, Russia"
+ },
+ {
+   "IATA": "BWE",
+   "City": "Braunschweig, Denmark"
+ },
+ {
+   "IATA": "BZV",
+   "City": "Brazzaville, Congo"
+ },
+ {
+   "IATA": "BRE",
+   "City": "Bremen, Germany"
+ },
+ {
+   "IATA": "BES",
+   "City": "Brest, France"
+ },
+ {
+   "IATA": "BWQ",
+   "City": "Brewarrina, Australia"
+ },
+ {
+   "IATA": "BGI",
+   "City": "Bridgetown, Barbados"
+ },
+ {
+   "IATA": "BDS",
+   "City": "Brindisi, Italy"
+ },
+ {
+   "IATA": "BNE",
+   "City": "Brisbane, Queensland, Australia"
+ },
+ {
+   "IATA": "BRS",
+   "City": "Bristol, United Kingdom"
+ },
+ {
+   "IATA": "BVE",
+   "City": "Brive-La-Gaillarde, France - Laroch"
+ },
+ {
+   "IATA": "ZDN",
+   "City": "Brno, Czech Republic - Bus service"
+ },
+ {
+   "IATA": "BRQ",
+   "City": "Brno, Czech Republic - Turany"
+ },
+ {
+   "IATA": "BHQ",
+   "City": "Broken Hill, Australia"
+ },
+ {
+   "IATA": "BNN",
+   "City": "Bronnoysund, Norway"
+ },
+ {
+   "IATA": "BME",
+   "City": "Broome, Australia"
+ },
+ {
+   "IATA": "BHG",
+   "City": "Brus Laguna, Honduras"
+ },
+ {
+   "IATA": "BRU",
+   "City": "Brussels, Belgium - National"
+ },
+ {
+   "IATA": "ZYR",
+   "City": "Brussels, Belgium - Rail service"
+ },
+ {
+   "IATA": "CRL",
+   "City": "Brussels, Belguim - Charleroi"
+ },
+ {
+   "IATA": "BGA",
+   "City": "Bucaramanga, Colombia"
+ },
+ {
+   "IATA": "BBU",
+   "City": "Bucharest, Romania - Baneasa"
+ },
+ {
+   "IATA": "OTP",
+   "City": "Bucharest, Romania - Otopeni International"
+ },
+ {
+   "IATA": "BUD",
+   "City": "Budapest, Hungary"
+ },
+ {
+   "IATA": "AEP",
+   "City": "Buenos Aires, Argentina - Jorge Newbery"
+ },
+ {
+   "IATA": "EZE",
+   "City": "Buenos Aires, Argentina - Ministro Pistarini"
+ },
+ {
+   "IATA": "UUA",
+   "City": "Bugulma, Russia"
+ },
+ {
+   "IATA": "BJM",
+   "City": "Bujumbura, Burundi"
+ },
+ {
+   "IATA": "BUA",
+   "City": "Buka, Papua New Guinea"
+ },
+ {
+   "IATA": "BHK",
+   "City": "Bukhara, Uzbekistan"
+ },
+ {
+   "IATA": "BKZ",
+   "City": "Bukoba, Malaysia"
+ },
+ {
+   "IATA": "BUQ",
+   "City": "Bulawayo, Zimbabwe"
+ },
+ {
+   "IATA": "UUA",
+   "City": "Bulgulma, Russia"
+ },
+ {
+   "IATA": "BDB",
+   "City": "Bundaberg, Australia"
+ },
+ {
+   "IATA": "BXZ",
+   "City": "Bunsil, Papua New Guinea"
+ },
+ {
+   "IATA": "BUO",
+   "City": "Burao, Somalia"
+ },
+ {
+   "IATA": "LEV",
+   "City": "Bureta, Fiji"
+ },
+ {
+   "IATA": "BFV",
+   "City": "Buri Ram, Thailand"
+ },
+ {
+   "IATA": "BUC",
+   "City": "Burketown, Australia"
+ },
+ {
+   "IATA": "BWT",
+   "City": "Burnie, Australia"
+ },
+ {
+   "IATA": "PUS",
+   "City": "Busan, South Korea - Gimhae"
+ },
+ {
+   "IATA": "BXU",
+   "City": "Butuan, Philippines"
+ },
+ {
+   "IATA": "BZG",
+   "City": "Bydgoszcz, Poland"
+ },
+ {
+   "IATA": "SJD",
+   "City": "Cabo San Lucas, 'Los Cabos', Mexico"
+ },
+ {
+   "IATA": "CFR",
+   "City": "Caen, France"
+ },
+ {
+   "IATA": "CGY",
+   "City": "Cagayan De Oro, Philippines - Lumbia"
+ },
+ {
+   "IATA": "CAG",
+   "City": "Cagliari, Italy"
+ },
+ {
+   "IATA": "CNS",
+   "City": "Cairns, Australia"
+ },
+ {
+   "IATA": "CAI",
+   "City": "Cairo, Egypt"
+ },
+ {
+   "IATA": "CJA",
+   "City": "Cajamarca, Peru"
+ },
+ {
+   "IATA": "CBQ",
+   "City": "Calabar, Nigeria"
+ },
+ {
+   "IATA": "CJC",
+   "City": "Calama, Chile"
+ },
+ {
+   "IATA": "CCU",
+   "City": "Calcutta, India"
+ },
+ {
+   "IATA": "CLO",
+   "City": "Cali, Colombia"
+ },
+ {
+   "IATA": "CLY",
+   "City": "Calvi, France"
+ },
+ {
+   "IATA": "CMW",
+   "City": "Camaguey, Cuba"
+ },
+ {
+   "IATA": "CBG",
+   "City": "Cambridge, United Kingdom"
+ },
+ {
+   "IATA": "CRD",
+   "City": "Camodoro, Argentina"
+ },
+ {
+   "IATA": "CAL",
+   "City": "Campbeltown, United Kingdom"
+ },
+ {
+   "IATA": "CPE",
+   "City": "Campeche, Mexico"
+ },
+ {
+   "IATA": "CPV",
+   "City": "Campina Grande, Brazil"
+ },
+ {
+   "IATA": "CPQ",
+   "City": "Campinas, Brazil"
+ },
+ {
+   "IATA": "CGR",
+   "City": "Campo Grande, Brazil"
+ },
+ {
+   "IATA": "CAW",
+   "City": "Campos, Brazil"
+ },
+ {
+   "IATA": "CAS",
+   "City": "Canaima, Venezuela"
+ },
+ {
+   "IATA": "CBR",
+   "City": "Canberra, Australia"
+ },
+ {
+   "IATA": "CUN",
+   "City": "Cancun, Mexico"
+ },
+ {
+   "IATA": "JCA",
+   "City": "Cannes, France - Coisette Heliport"
+ },
+ {
+   "IATA": "CEQ",
+   "City": "Cannes, France - Mandelieu"
+ },
+ {
+   "IATA": "QYW",
+   "City": "Cannes, France - Vieux Port"
+ },
+ {
+   "IATA": "CIW",
+   "City": "Canouan, Saint Vincent and the Grenadines"
+ },
+ {
+   "IATA": "CAP",
+   "City": "Cap Haitien, Haiti"
+ },
+ {
+   "IATA": "CPI",
+   "City": "Cape Orford, Papua New Guinea"
+ },
+ {
+   "IATA": "CPT",
+   "City": "Cape Town, South Africa"
+ },
+ {
+   "IATA": "CVL",
+   "City": "Cape Vogel, Papua New Guinea"
+ },
+ {
+   "IATA": "CCS",
+   "City": "Caracas, Venezuela"
+ },
+ {
+   "IATA": "CKS",
+   "City": "Carajas, Brazil"
+ },
+ {
+   "IATA": "CCF",
+   "City": "Carcassonne, France"
+ },
+ {
+   "IATA": "CWL",
+   "City": "Cardiff, United Kingdom"
+ },
+ {
+   "IATA": "CVQ",
+   "City": "Carnarvon, Australia"
+ },
+ {
+   "IATA": "RIK",
+   "City": "Carrillo, Costa Rica"
+ },
+ {
+   "IATA": "CTG",
+   "City": "Cartagena, Colombia"
+ },
+ {
+   "IATA": "CUP",
+   "City": "Carupani, Venezuela"
+ },
+ {
+   "IATA": "CAS",
+   "City": "Casablanca, Morocco - Anfa"
+ },
+ {
+   "IATA": "CMN",
+   "City": "Casablanca, Morocco - Mohamed V"
+ },
+ {
+   "IATA": "CAC",
+   "City": "Cascavel, Brazil"
+ },
+ {
+   "IATA": "CSI",
+   "City": "Casino, Australia"
+ },
+ {
+   "IATA": "CST",
+   "City": "Castaway, Fiji"
+ },
+ {
+   "IATA": "DCM",
+   "City": "Castres, France"
+ },
+ {
+   "IATA": "CTC",
+   "City": "Catamarca, Argentina"
+ },
+ {
+   "IATA": "CTA",
+   "City": "Catania, Italy"
+ },
+ {
+   "IATA": "CAQ",
+   "City": "Caucasia, Colombia"
+ },
+ {
+   "IATA": "CXJ",
+   "City": "Caxias Do Sul, Brazil"
+ },
+ {
+   "IATA": "CAY",
+   "City": "Cayenne, French Guiana"
+ },
+ {
+   "IATA": "CYB",
+   "City": "Cayman Brac Is, Cambodia"
+ },
+ {
+   "IATA": "CYO",
+   "City": "Cayo Largo Del Sur, Cuba"
+ },
+ {
+   "IATA": "CEB",
+   "City": "Cebu, Philippines - Matan International"
+ },
+ {
+   "IATA": "CED",
+   "City": "Cedun, Australia"
+ },
+ {
+   "IATA": "JCU",
+   "City": "Ceuta, Spain and Canary Islands"
+ },
+ {
+   "IATA": "ZBR",
+   "City": "Chah-Bahar, Iran"
+ },
+ {
+   "IATA": "CMF",
+   "City": "Chambery, France"
+ },
+ {
+   "IATA": "IXC",
+   "City": "Chandigarh, India"
+ },
+ {
+   "IATA": "CGQ",
+   "City": "Changchun, China"
+ },
+ {
+   "IATA": "CGD",
+   "City": "Changde, China"
+ },
+ {
+   "IATA": "CHX",
+   "City": "Changuinda, Panama"
+ },
+ {
+   "IATA": "CZX",
+   "City": "Changzhou, China"
+ },
+ {
+   "IATA": "CHQ",
+   "City": "Chania, Greece"
+ },
+ {
+   "IATA": "CHG",
+   "City": "Chaoyang, China"
+ },
+ {
+   "IATA": "XAP",
+   "City": "Chapeco, Brazil"
+ },
+ {
+   "IATA": "CTL",
+   "City": "Charleville, Australia"
+ },
+ {
+   "IATA": "CHT",
+   "City": "Chatham Island, New Zealand"
+ },
+ {
+   "IATA": "CSY",
+   "City": "Cheboksary, Russia"
+ },
+ {
+   "IATA": "CEK",
+   "City": "Chelybinsk, Russia"
+ },
+ {
+   "IATA": "MAA",
+   "City": "Chennai, India"
+ },
+ {
+   "IATA": "CJJ",
+   "City": "Cheongju, South Korea"
+ },
+ {
+   "IATA": "CEE",
+   "City": "Cherepovets, Russia"
+ },
+ {
+   "IATA": "CTU",
+   "City": "Chergdu, China"
+ },
+ {
+   "IATA": "CEG",
+   "City": "Chester, United Kingdom"
+ },
+ {
+   "IATA": "CTM",
+   "City": "Chetumal, Mexico"
+ },
+ {
+   "IATA": "CEE",
+   "City": "Chevepovets, Russia"
+ },
+ {
+   "IATA": "CMJ",
+   "City": "Chi Mei, Taiwan"
+ },
+ {
+   "IATA": "CNX",
+   "City": "Chiang Mai, Thailand"
+ },
+ {
+   "IATA": "CEI",
+   "City": "Chiang Rai, Thailand"
+ },
+ {
+   "IATA": "CYI",
+   "City": "Chiayi, Taiwan"
+ },
+ {
+   "IATA": "CIX",
+   "City": "Chicayo, Peru"
+ },
+ {
+   "IATA": "CIF",
+   "City": "Chifeng, China"
+ },
+ {
+   "IATA": "CUU",
+   "City": "Chihuahua, Mexico"
+ },
+ {
+   "IATA": "YAI",
+   "City": "Chillan, Chile"
+ },
+ {
+   "IATA": "CIP",
+   "City": "Chipata, Zambia"
+ },
+ {
+   "IATA": "KIV",
+   "City": "Chisinau, Republic of Moldova"
+ },
+ {
+   "IATA": "HTA",
+   "City": "Chita, Russia"
+ },
+ {
+   "IATA": "CJL",
+   "City": "Chitral, Pakistan"
+ },
+ {
+   "IATA": "CTD",
+   "City": "Chitre, Panama"
+ },
+ {
+   "IATA": "CGP",
+   "City": "Chittagong, Bangladesh"
+ },
+ {
+   "IATA": "CHY",
+   "City": "Choiseul Bay, Solomon Islands"
+ },
+ {
+   "IATA": "CKG",
+   "City": "Chongqing, China"
+ },
+ {
+   "IATA": "CHC",
+   "City": "Christchurch, New Zealand"
+ },
+ {
+   "IATA": "XCH",
+   "City": "Christmas Island, Christmas Island"
+ },
+ {
+   "IATA": "ICI",
+   "City": "Cicia, Fiji"
+ },
+ {
+   "IATA": "AVI",
+   "City": "Ciego De Avila, Cuba"
+ },
+ {
+   "IATA": "CBL",
+   "City": "Ciudad Bolivar, Venezuela"
+ },
+ {
+   "IATA": "CME",
+   "City": "Ciudad Del Carmen, Mexico"
+ },
+ {
+   "IATA": "AGT",
+   "City": "Ciudad del Este, Paraguay"
+ },
+ {
+   "IATA": "CJS",
+   "City": "Ciudad Juarez, Mexico"
+ },
+ {
+   "IATA": "CEN",
+   "City": "Ciudad Obregon, Mexico"
+ },
+ {
+   "IATA": "CVM",
+   "City": "Ciudad Victoria, Mexico"
+ },
+ {
+   "IATA": "CFE",
+   "City": "Clermont-ferrand, France"
+ },
+ {
+   "IATA": "CVC",
+   "City": "Cleve, Australia"
+ },
+ {
+   "IATA": "CNJ",
+   "City": "Cloncurry, Australia"
+ },
+ {
+   "IATA": "CMK",
+   "City": "Club Makokola, Malawi"
+ },
+ {
+   "IATA": "CLJ",
+   "City": "Cluj, Romania"
+ },
+ {
+   "IATA": "CAZ",
+   "City": "Cobar, Australia"
+ },
+ {
+   "IATA": "CIJ",
+   "City": "Cobija, Bolivia"
+ },
+ {
+   "IATA": "CBB",
+   "City": "Cochabamba, Bolivia"
+ },
+ {
+   "IATA": "COK",
+   "City": "Cochin, India"
+ },
+ {
+   "IATA": "CNC",
+   "City": "Coconut Island, Australia"
+ },
+ {
+   "IATA": "CCK",
+   "City": "Cocos Islands, Cocos (Keeling) Islands"
+ },
+ {
+   "IATA": "CUQ",
+   "City": "Coen, Australia"
+ },
+ {
+   "IATA": "CFS",
+   "City": "Coffs Harbor, Australia"
+ },
+ {
+   "IATA": "CJB",
+   "City": "Coimbatore, India"
+ },
+ {
+   "IATA": "CLQ",
+   "City": "Colima, Mexico"
+ },
+ {
+   "IATA": "CGN",
+   "City": "Cologne, Germany - Cologne/Bonn"
+ },
+ {
+   "IATA": "QKL",
+   "City": "Cologne, Germany - Rail service"
+ },
+ {
+   "IATA": "CMB",
+   "City": "Colombo, Sri Lanka"
+ },
+ {
+   "IATA": "ONX",
+   "City": "Colon, Panama"
+ },
+ {
+   "IATA": "CKY",
+   "City": "Conakry, Guinea"
+ },
+ {
+   "IATA": "CCP",
+   "City": "Concepcion, Chile"
+ },
+ {
+   "IATA": "COC",
+   "City": "Concordia, Argentina"
+ },
+ {
+   "IATA": "COG",
+   "City": "Condoto, Colombia"
+ },
+ {
+   "IATA": "CND",
+   "City": "Constanta, Romania"
+ },
+ {
+   "IATA": "CZL",
+   "City": "Constantine, Algeria"
+ },
+ {
+   "IATA": "OTD",
+   "City": "Contadora, Panama"
+ },
+ {
+   "IATA": "CPD",
+   "City": "Coober Pedy, Australia"
+ },
+ {
+   "IATA": "CTN",
+   "City": "Cooktown, Australia"
+ },
+ {
+   "IATA": "OOM",
+   "City": "Cooma, NS, Australia"
+ },
+ {
+   "IATA": "CNB",
+   "City": "Coonamble, Australia"
+ },
+ {
+   "IATA": "CPH",
+   "City": "Copenhagen, Denmark"
+ },
+ {
+   "IATA": "CPO",
+   "City": "Copiapo, Chile"
+ },
+ {
+   "IATA": "COR",
+   "City": "Cordoba, Argentina"
+ },
+ {
+   "IATA": "ORK",
+   "City": "Cork, Ireland"
+ },
+ {
+   "IATA": "CZE",
+   "City": "Coro, Venezuela"
+ },
+ {
+   "IATA": "CZH",
+   "City": "Corozal, Belize"
+ },
+ {
+   "IATA": "CNQ",
+   "City": "Corrientes, Argentina"
+ },
+ {
+   "IATA": "CMG",
+   "City": "Corumba, Brazil"
+ },
+ {
+   "IATA": "CVU",
+   "City": "Corvo Island, Portugal"
+ },
+ {
+   "IATA": "CBO",
+   "City": "Cotabato, Philippines"
+ },
+ {
+   "IATA": "COC",
+   "City": "Cotarou, Benin"
+ },
+ {
+   "IATA": "CXB",
+   "City": "Cox's Bazar, Bangladesh"
+ },
+ {
+   "IATA": "CZM",
+   "City": "Cozumel, Mexico"
+ },
+ {
+   "IATA": "CCV",
+   "City": "Craig Cove, Vanuatu"
+ },
+ {
+   "IATA": "CCM",
+   "City": "Criciuma, Brazil"
+ },
+ {
+   "IATA": "CKI",
+   "City": "Croker Island, Australia"
+ },
+ {
+   "IATA": "CRI",
+   "City": "Crooked Island, Bahamas"
+ },
+ {
+   "IATA": "CRV",
+   "City": "Crotone, Italy"
+ },
+ {
+   "IATA": "CZS",
+   "City": "Cruzeiro Do Sul, Brazil"
+ },
+ {
+   "IATA": "CUC",
+   "City": "Cucata, Colombia"
+ },
+ {
+   "IATA": "CUE",
+   "City": "Cuenca, Ecuador"
+ },
+ {
+   "IATA": "CVJ",
+   "City": "Cuernavaca, Mexico"
+ },
+ {
+   "IATA": "CGB",
+   "City": "Cuiaba, Brazil"
+ },
+ {
+   "IATA": "CUL",
+   "City": "Culiacan, Mexico"
+ },
+ {
+   "IATA": "CUM",
+   "City": "Cumana, Venezuela"
+ },
+ {
+   "IATA": "CMA",
+   "City": "Cunnamulla, Australia"
+ },
+ {
+   "IATA": "CUR",
+   "City": "Curacao, Netherlands Antilles"
+ },
+ {
+   "IATA": "CWB",
+   "City": "Curitiba, Brazil"
+ },
+ {
+   "IATA": "CUZ",
+   "City": "Cuzco, Peru"
+ },
+ {
+   "IATA": "DAD",
+   "City": "Da Nang, Viet Nam"
+ },
+ {
+   "IATA": "DRH",
+   "City": "Dabra, Indonesia"
+ },
+ {
+   "IATA": "TAE",
+   "City": "Daegu, South Korea"
+ },
+ {
+   "IATA": "DKR",
+   "City": "Dakar, Senegal"
+ },
+ {
+   "IATA": "VIL",
+   "City": "Dakhla, Morocco"
+ },
+ {
+   "IATA": "DLM",
+   "City": "Dalaman, Turkey"
+ },
+ {
+   "IATA": "DLI",
+   "City": "Dalat, Viet Nam - Lienkhan"
+ },
+ {
+   "IATA": "DLU",
+   "City": "Dali City, China"
+ },
+ {
+   "IATA": "DLC",
+   "City": "Dalian, China"
+ },
+ {
+   "IATA": "DAM",
+   "City": "Damascus, Syrian Arab Republic"
+ },
+ {
+   "IATA": "DMM",
+   "City": "Dammam, Saudi Arabia"
+ },
+ {
+   "IATA": "DGA",
+   "City": "Dangriga, Belize"
+ },
+ {
+   "IATA": "DAR",
+   "City": "Dar Es Salaam, Tanzania"
+ },
+ {
+   "IATA": "NLF",
+   "City": "Darnley Island, QL, Australia"
+ },
+ {
+   "IATA": "DAU",
+   "City": "Daru, Papua New Guinea"
+ },
+ {
+   "IATA": "DRW",
+   "City": "Darwin, Northern Territory, Australia"
+ },
+ {
+   "IATA": "DTD",
+   "City": "Datadawai, Indonesia"
+ },
+ {
+   "IATA": "DVO",
+   "City": "Davao, Philipines - Mati"
+ },
+ {
+   "IATA": "DAV",
+   "City": "David, Panama"
+ },
+ {
+   "IATA": "TVY",
+   "City": "Dawe, Myanmar"
+ },
+ {
+   "IATA": "DAX",
+   "City": "Daxian, China"
+ },
+ {
+   "IATA": "DYG",
+   "City": "Dayang, China"
+ },
+ {
+   "IATA": "DDI",
+   "City": "Daydream Is, Australia"
+ },
+ {
+   "IATA": "DOL",
+   "City": "Deauville, France"
+ },
+ {
+   "IATA": "DBM",
+   "City": "Debra Marcos, Ethiopia"
+ },
+ {
+   "IATA": "DBT",
+   "City": "Debra Tabor, Ethiopia"
+ },
+ {
+   "IATA": "DEZ",
+   "City": "Deirezzor, Syria - Al Jafrah"
+ },
+ {
+   "IATA": "DEL",
+   "City": "Delhi, India"
+ },
+ {
+   "IATA": "DEM",
+   "City": "Dembidollo, Ethiopia"
+ },
+ {
+   "IATA": "DNM",
+   "City": "Denham, Australia"
+ },
+ {
+   "IATA": "DNZ",
+   "City": "Denizli, Turkey"
+ },
+ {
+   "IATA": "DPS",
+   "City": "Denpasar Bali, Indonesia"
+ },
+ {
+   "IATA": "DEA",
+   "City": "Dera Ghazi, Pakistan"
+ },
+ {
+   "IATA": "DSK",
+   "City": "Dera Ismail Khan, Pakistan"
+ },
+ {
+   "IATA": "DRB",
+   "City": "Derby, Australia"
+ },
+ {
+   "IATA": "DER",
+   "City": "Derim, Papua New Guinea"
+ },
+ {
+   "IATA": "DSE",
+   "City": "Dessie, Ethiopia"
+ },
+ {
+   "IATA": "DPO",
+   "City": "Devonport, Australia"
+ },
+ {
+   "IATA": "DAC",
+   "City": "Dhaka, Bangledesh - Zia International"
+ },
+ {
+   "IATA": "DIB",
+   "City": "Dibrugarn, India"
+ },
+ {
+   "IATA": "DIN",
+   "City": "Dien Bien Phu, Viet Nam - Gialam"
+ },
+ {
+   "IATA": "DIJ",
+   "City": "Dijon, France"
+ },
+ {
+   "IATA": "DIL",
+   "City": "Dili, Indonesia"
+ },
+ {
+   "IATA": "DLY",
+   "City": "Dillons Bay, Vanuata"
+ },
+ {
+   "IATA": "DMU",
+   "City": "Dimapur, India"
+ },
+ {
+   "IATA": "DNR",
+   "City": "Dinard, France"
+ },
+ {
+   "IATA": "DPL",
+   "City": "Dipolog, Philippines"
+ },
+ {
+   "IATA": "DIR",
+   "City": "Dire Dawa, Ethiopia"
+ },
+ {
+   "IATA": "DIU",
+   "City": "Div, India"
+ },
+ {
+   "IATA": "DIY",
+   "City": "Diyarbakir, Turkey"
+ },
+ {
+   "IATA": "DJG",
+   "City": "Djanet, Algeria"
+ },
+ {
+   "IATA": "DJE",
+   "City": "Djerba, Tunisia"
+ },
+ {
+   "IATA": "JIB",
+   "City": "Djibouti, Djibouti"
+ },
+ {
+   "IATA": "DNK",
+   "City": "Dnepropetrovsk, Ukraine"
+ },
+ {
+   "IATA": "DOB",
+   "City": "Dobo, Indonesia"
+ },
+ {
+   "IATA": "DDM",
+   "City": "Dodoima, Papua New Guinea"
+ },
+ {
+   "IATA": "DOD",
+   "City": "Dodoma, Tanzania"
+ },
+ {
+   "IATA": "DOH",
+   "City": "Doha, Qatar"
+ },
+ {
+   "IATA": "DCF",
+   "City": "Dominica, Dominica - Cane Field"
+ },
+ {
+   "IATA": "DOM",
+   "City": "Dominica, Dominica - Melville Hall"
+ },
+ {
+   "IATA": "CFN",
+   "City": "Donegal, Ireland"
+ },
+ {
+   "IATA": "DOK",
+   "City": "Donetsk, Ukraine"
+ },
+ {
+   "IATA": "DOG",
+   "City": "Dongola, Sudan"
+ },
+ {
+   "IATA": "DMD",
+   "City": "Doomadgee, Australia"
+ },
+ {
+   "IATA": "DTM",
+   "City": "Dortmund, Germany"
+ },
+ {
+   "IATA": "DOU",
+   "City": "Dourados, Brazil"
+ },
+ {
+   "IATA": "DLA",
+   "City": "Dovala, Cameroon"
+ },
+ {
+   "IATA": "DRS",
+   "City": "Dresden, Germany"
+ },
+ {
+   "IATA": "DXB",
+   "City": "Dubai, United Arab Emirates"
+ },
+ {
+   "IATA": "DBO",
+   "City": "Dubbo, Australia"
+ },
+ {
+   "IATA": "DUB",
+   "City": "Dublin, Ireland"
+ },
+ {
+   "IATA": "DBV",
+   "City": "Dubrovnik, Croatia"
+ },
+ {
+   "IATA": "DGT",
+   "City": "Dumaguete, Philippines"
+ },
+ {
+   "IATA": "DUM",
+   "City": "Dumai, Indonesia"
+ },
+ {
+   "IATA": "DND",
+   "City": "Dundee, United Kingdom"
+ },
+ {
+   "IATA": "DUD",
+   "City": "Dunedin, New Zealand"
+ },
+ {
+   "IATA": "DNH",
+   "City": "Dunhuang, China"
+ },
+ {
+   "IATA": "DKI",
+   "City": "Dunk Island, Australia"
+ },
+ {
+   "IATA": "DGO",
+   "City": "Durango, Mexico"
+ },
+ {
+   "IATA": "DUR",
+   "City": "Durban, South Africa"
+ },
+ {
+   "IATA": "DYU",
+   "City": "Dushanbe, Tajikistan"
+ },
+ {
+   "IATA": "DUS",
+   "City": "Dusseldorf, Germany - International"
+ },
+ {
+   "IATA": "MGL",
+   "City": "Dusseldorf, Germany - Moenchen-Gl."
+ },
+ {
+   "IATA": "QDU",
+   "City": "Dusseldorf, Germany - Rail service"
+ },
+ {
+   "IATA": "DZA",
+   "City": "Dzaoudzi, Mayotte"
+ },
+ {
+   "IATA": "ELS",
+   "City": "East London, South Africa"
+ },
+ {
+   "IATA": "EBO",
+   "City": "Ebon, Marshall Islands"
+ },
+ {
+   "IATA": "EOI",
+   "City": "Eday, United Kingdom"
+ },
+ {
+   "IATA": "EDI",
+   "City": "Edinburgh, United Kingdom"
+ },
+ {
+   "IATA": "EDO",
+   "City": "Edremit, Turkey"
+ },
+ {
+   "IATA": "EDR",
+   "City": "Edward River, Australia"
+ },
+ {
+   "IATA": "EGS",
+   "City": "Egilsstadir, Iceland"
+ },
+ {
+   "IATA": "EIN",
+   "City": "Eindhoven, Netherlands"
+ },
+ {
+   "IATA": "EIB",
+   "City": "Eisenach, Germany"
+ },
+ {
+   "IATA": "SVX",
+   "City": "Ekaterinburg, Russia"
+ },
+ {
+   "IATA": "EHL",
+   "City": "El Bolsan, Argentina"
+ },
+ {
+   "IATA": "ELF",
+   "City": "El Fasher, Sudan"
+ },
+ {
+   "IATA": "EMX",
+   "City": "El Maiten, Argentina"
+ },
+ {
+   "IATA": "EBD",
+   "City": "El Obeid, Sudan"
+ },
+ {
+   "IATA": "ELU",
+   "City": "El Oved, Algeria"
+ },
+ {
+   "IATA": "EPS",
+   "City": "El Portillo/Samana, Dominician Republic - El Portill"
+ },
+ {
+   "IATA": "ELE",
+   "City": "El Real, Panama"
+ },
+ {
+   "IATA": "ESR",
+   "City": "El Salvador, Chile"
+ },
+ {
+   "IATA": "VIG",
+   "City": "El Vigia, Venezuela"
+ },
+ {
+   "IATA": "EYP",
+   "City": "El Yopal, Colombia"
+ },
+ {
+   "IATA": "ETH",
+   "City": "Elat, Italy"
+ },
+ {
+   "IATA": "EZS",
+   "City": "Elazig, Turkey"
+ },
+ {
+   "IATA": "EBA",
+   "City": "Elba Island, Italy"
+ },
+ {
+   "IATA": "ELC",
+   "City": "Elcho Island, Australia"
+ },
+ {
+   "IATA": "EDL",
+   "City": "Eldoret, Kenya"
+ },
+ {
+   "IATA": "ELH",
+   "City": "Eleuthera Island, Bahamas"
+ },
+ {
+   "IATA": "ESL",
+   "City": "Elista, Russia"
+ },
+ {
+   "IATA": "EAE",
+   "City": "Emae, Vanuata"
+ },
+ {
+   "IATA": "EMS",
+   "City": "Embessa, Papua New Guinea"
+ },
+ {
+   "IATA": "EMD",
+   "City": "Emerald, Australia"
+ },
+ {
+   "IATA": "EMO",
+   "City": "Emo, Papua New Guinea"
+ },
+ {
+   "IATA": "EWI",
+   "City": "Enarotali, Indonesia"
+ },
+ {
+   "IATA": "ENE",
+   "City": "Ende, Indonesia"
+ },
+ {
+   "IATA": "ENT",
+   "City": "Enewetak Island, Marshall Islands"
+ },
+ {
+   "IATA": "ENF",
+   "City": "Enontekio, Finland"
+ },
+ {
+   "IATA": "ENH",
+   "City": "Enshi, China"
+ },
+ {
+   "IATA": "EBB",
+   "City": "Entebbe, Uganda"
+ },
+ {
+   "IATA": "ENU",
+   "City": "Enugu, Nigeria"
+ },
+ {
+   "IATA": "EPL",
+   "City": "Epinal, France"
+ },
+ {
+   "IATA": "ECN",
+   "City": "Ercan, Cyprus"
+ },
+ {
+   "IATA": "ERF",
+   "City": "Erfurt, Germany"
+ },
+ {
+   "IATA": "ERC",
+   "City": "Erzincan, Turkey"
+ },
+ {
+   "IATA": "ERZ",
+   "City": "Erzurum, Turkey"
+ },
+ {
+   "IATA": "EBJ",
+   "City": "Esbjerg, Denmark - Esbjerg Airport"
+ },
+ {
+   "IATA": "ZBB",
+   "City": "Esbjerg, Denmark - Rail service"
+ },
+ {
+   "IATA": "ESM",
+   "City": "Esmeraldas, Ecuador"
+ },
+ {
+   "IATA": "EPR",
+   "City": "Esperance, Australia"
+ },
+ {
+   "IATA": "SON",
+   "City": "Espiritu Santo, Vanuatu"
+ },
+ {
+   "IATA": "EQS",
+   "City": "Esquel, Argentina"
+ },
+ {
+   "IATA": "EXT",
+   "City": "Eveter, United Kingdom"
+ },
+ {
+   "IATA": "EWE",
+   "City": "Ewer, Indonesia"
+ },
+ {
+   "IATA": "EXM",
+   "City": "Exmouth Gulf, Australia"
+ },
+ {
+   "IATA": "VDB",
+   "City": "Fagernes, Norway"
+ },
+ {
+   "IATA": "FIE",
+   "City": "Fair Isle, United Kingdom"
+ },
+ {
+   "IATA": "LYP",
+   "City": "Faisalabad, Pakistan"
+ },
+ {
+   "IATA": "FAJ",
+   "City": "Fajard, Puerto Rico"
+ },
+ {
+   "IATA": "FKQ",
+   "City": "Fak Fak, Indonesia"
+ },
+ {
+   "IATA": "FAV",
+   "City": "Fakarava, French Polynesia"
+ },
+ {
+   "IATA": "RVA",
+   "City": "Farafangana, Madagascar"
+ },
+ {
+   "IATA": "FAO",
+   "City": "Faro, Portugal"
+ },
+ {
+   "IATA": "FAE",
+   "City": "Faroe Islands, Faroe Islands"
+ },
+ {
+   "IATA": "FRE",
+   "City": "Fera Island, Solomon Islands"
+ },
+ {
+   "IATA": "FEG",
+   "City": "Fergana, Uzbekistan"
+ },
+ {
+   "IATA": "FEN",
+   "City": "Fernando De Noronha, Brazil"
+ },
+ {
+   "IATA": "FEZ",
+   "City": "Fez, Morocco"
+ },
+ {
+   "IATA": "WFI",
+   "City": "Fianarantsoa, Madagascar"
+ },
+ {
+   "IATA": "FSC",
+   "City": "Figari, France"
+ },
+ {
+   "IATA": "FZO",
+   "City": "Filton, United Kingdom"
+ },
+ {
+   "IATA": "XFW",
+   "City": "Finkenwerder, Germany"
+ },
+ {
+   "IATA": "FIZ",
+   "City": "Fitzroy Crossing, Australia"
+ },
+ {
+   "IATA": "FLF",
+   "City": "Flensburg, Germany"
+ },
+ {
+   "IATA": "PSA",
+   "City": "Florence, Italy - Gal Galilei"
+ },
+ {
+   "IATA": "FLR",
+   "City": "Florence, Italy - Peretola"
+ },
+ {
+   "IATA": "FLA",
+   "City": "Florencia, Colombia"
+ },
+ {
+   "IATA": "FLW",
+   "City": "Flores Island, Portugal"
+ },
+ {
+   "IATA": "FRS",
+   "City": "Flores, Guatemala"
+ },
+ {
+   "IATA": "FLN",
+   "City": "Florianopolis, Brazil"
+ },
+ {
+   "IATA": "FRO",
+   "City": "Floro, Norway"
+ },
+ {
+   "IATA": "FOG",
+   "City": "Foggia, Italy"
+ },
+ {
+   "IATA": "FDE",
+   "City": "Forde, Norway"
+ },
+ {
+   "IATA": "FMA",
+   "City": "Formosa, Argentina"
+ },
+ {
+   "IATA": "FTU",
+   "City": "Fort Dauphin, Madagascar"
+ },
+ {
+   "IATA": "FDF",
+   "City": "Fort De France, Martinique"
+ },
+ {
+   "IATA": "FOR",
+   "City": "Fortaleza, Brazil"
+ },
+ {
+   "IATA": "FRC",
+   "City": "Franca, Brazil"
+ },
+ {
+   "IATA": "MVB",
+   "City": "Franceville, Gabon"
+ },
+ {
+   "IATA": "FRW",
+   "City": "Francistown, Botswana"
+ },
+ {
+   "IATA": "HHN",
+   "City": "Frankfurt, Germany - Hahn"
+ },
+ {
+   "IATA": "FRA",
+   "City": "Frankfurt, Germany - International"
+ },
+ {
+   "IATA": "ZBJ",
+   "City": "Fredericia, Denmark"
+ },
+ {
+   "IATA": "FPO",
+   "City": "Freeport, Bahamas"
+ },
+ {
+   "IATA": "FNA",
+   "City": "Freetown, Sierra Leone - Lungi Intl"
+ },
+ {
+   "IATA": "FDH",
+   "City": "Friedrichshafer, Germany"
+ },
+ {
+   "IATA": "FUE",
+   "City": "Fuerteventura, Spain"
+ },
+ {
+   "IATA": "FUJ",
+   "City": "Fukue, Japan"
+ },
+ {
+   "IATA": "FUK",
+   "City": "Fukuoka, Japan"
+ },
+ {
+   "IATA": "FKS",
+   "City": "Fukushima, Japan"
+ },
+ {
+   "IATA": "FUN",
+   "City": "Funafuti Atol, Tuvalu"
+ },
+ {
+   "IATA": "FNC",
+   "City": "Funchal, Portugal"
+ },
+ {
+   "IATA": "FTA",
+   "City": "Futuna Island, Vanuatu"
+ },
+ {
+   "IATA": "FUT",
+   "City": "Futuna Island, Wallis and Futuna Islands"
+ },
+ {
+   "IATA": "FUG",
+   "City": "Fuyang, China"
+ },
+ {
+   "IATA": "FOC",
+   "City": "Fuzhou, China"
+ },
+ {
+   "IATA": "GBE",
+   "City": "Gaborone, Botswana"
+ },
+ {
+   "IATA": "GAF",
+   "City": "Gafsa, Tunisia"
+ },
+ {
+   "IATA": "GGN",
+   "City": "Gagnoa, Cote D'Ivoire"
+ },
+ {
+   "IATA": "GPS",
+   "City": "Galapagos, Ecuador"
+ },
+ {
+   "IATA": "GEV",
+   "City": "Gallivare, Sweden"
+ },
+ {
+   "IATA": "GWY",
+   "City": "Galway, Ireland"
+ },
+ {
+   "IATA": "GAX",
+   "City": "Gamba, Gabon"
+ },
+ {
+   "IATA": "GMB",
+   "City": "Gambela, Ethiopia"
+ },
+ {
+   "IATA": "GAN",
+   "City": "Gan Island, Maldives"
+ },
+ {
+   "IATA": "KAG",
+   "City": "Gangneung, South Korea"
+ },
+ {
+   "IATA": "GHE",
+   "City": "Garachine, Panama"
+ },
+ {
+   "IATA": "GAR",
+   "City": "Garaina, Papua New Guinea"
+ },
+ {
+   "IATA": "GRL",
+   "City": "Garasa, Papua New Guinea"
+ },
+ {
+   "IATA": "GPN",
+   "City": "Garden Point, Australia"
+ },
+ {
+   "IATA": "GOV",
+   "City": "Garoua, Cameroon"
+ },
+ {
+   "IATA": "ELQ",
+   "City": "Gassim, Saudi Arabia"
+ },
+ {
+   "IATA": "ZGU",
+   "City": "Gaua, Vanuatu"
+ },
+ {
+   "IATA": "GAU",
+   "City": "Gawahati, India"
+ },
+ {
+   "IATA": "GZA",
+   "City": "Gaza City, Occupied Palestinian Territory"
+ },
+ {
+   "IATA": "GZT",
+   "City": "Gaziatep, Turkey"
+ },
+ {
+   "IATA": "GDN",
+   "City": "Gdansk, Poland"
+ },
+ {
+   "IATA": "GEB",
+   "City": "Gebe, Indonesia"
+ },
+ {
+   "IATA": "GDZ",
+   "City": "Gelendzik, Russia"
+ },
+ {
+   "IATA": "EGN",
+   "City": "Geneina, Sudan"
+ },
+ {
+   "IATA": "GES",
+   "City": "General Santos, Philippines"
+ },
+ {
+   "IATA": "GVA",
+   "City": "Geneva, Switzerland"
+ },
+ {
+   "IATA": "GOA",
+   "City": "Genoa, Italy"
+ },
+ {
+   "IATA": "GGT",
+   "City": "George Town, Bahamas"
+ },
+ {
+   "IATA": "GRJ",
+   "City": "George, South Africa"
+ },
+ {
+   "IATA": "GEO",
+   "City": "Georgetown, Guyana"
+ },
+ {
+   "IATA": "GET",
+   "City": "Geraldton, Australia,"
+ },
+ {
+   "IATA": "GRO",
+   "City": "Gerona, Spain"
+ },
+ {
+   "IATA": "LTD",
+   "City": "Ghadames, Libya"
+ },
+ {
+   "IATA": "GHA",
+   "City": "Ghardala, Algeria"
+ },
+ {
+   "IATA": "GHT",
+   "City": "Ghat, Libya"
+ },
+ {
+   "IATA": "GIB",
+   "City": "Gibraltar, Gibraltar"
+ },
+ {
+   "IATA": "GIL",
+   "City": "Gilgit, Pakistan"
+ },
+ {
+   "IATA": "GIS",
+   "City": "Gisborne, New Zealand"
+ },
+ {
+   "IATA": "GIZ",
+   "City": "Gizan, Saudi Arabia"
+ },
+ {
+   "IATA": "GZO",
+   "City": "Gizo, Solomon Islands"
+ },
+ {
+   "IATA": "GLT",
+   "City": "Gladstone, Australia"
+ },
+ {
+   "IATA": "GLA",
+   "City": "Glasgow, United Kingdom - Glasgow International"
+ },
+ {
+   "IATA": "PIK",
+   "City": "Glasgow, United Kingdom - Prestwick"
+ },
+ {
+   "IATA": "GLI",
+   "City": "Glen Innes, Australia"
+ },
+ {
+   "IATA": "GOI",
+   "City": "Goa, India"
+ },
+ {
+   "IATA": "GOB",
+   "City": "Goba, Ethiopia"
+ },
+ {
+   "IATA": "GGS",
+   "City": "Gobernador Gregores, Argentina"
+ },
+ {
+   "IATA": "GDE",
+   "City": "Gode/Iddidole, Ethopia"
+ },
+ {
+   "IATA": "GYN",
+   "City": "Goiania, Brazil"
+ },
+ {
+   "IATA": "OOL",
+   "City": "Gold Coast, QL, Australia"
+ },
+ {
+   "IATA": "GLF",
+   "City": "Golfito, Costa Rica"
+ },
+ {
+   "IATA": "GOQ",
+   "City": "Golmud, China"
+ },
+ {
+   "IATA": "GOE",
+   "City": "Gonalia, Papua New Guinea"
+ },
+ {
+   "IATA": "GDQ",
+   "City": "Gondari, Ethiopia"
+ },
+ {
+   "IATA": "GOR",
+   "City": "Gore, Ethiopia"
+ },
+ {
+   "IATA": "GKA",
+   "City": "Goroka, Papua New Guinea"
+ },
+ {
+   "IATA": "GTO",
+   "City": "Gorontalo, Indonesia"
+ },
+ {
+   "IATA": "GOT",
+   "City": "Gothenburg, Sweden - Landvetter"
+ },
+ {
+   "IATA": "GSE",
+   "City": "Gothenburg, Sweden - Saeve"
+ },
+ {
+   "IATA": "GBL",
+   "City": "Goulburn Island, Australia"
+ },
+ {
+   "IATA": "GUD",
+   "City": "Goundam, Mali"
+ },
+ {
+   "IATA": "GOV",
+   "City": "Gove, Australia"
+ },
+ {
+   "IATA": "GVR",
+   "City": "Governador Valadares, Brazil"
+ },
+ {
+   "IATA": "GHB",
+   "City": "Governors Harbour, Bahamas"
+ },
+ {
+   "IATA": "OYA",
+   "City": "Goya, CR, Argentina"
+ },
+ {
+   "IATA": "GZM",
+   "City": "Gozo, Malta"
+ },
+ {
+   "IATA": "GRW",
+   "City": "Graciosa Island, Portugal"
+ },
+ {
+   "IATA": "GFN",
+   "City": "Grafton, Australia"
+ },
+ {
+   "IATA": "GRX",
+   "City": "Granada, Spain"
+ },
+ {
+   "IATA": "GCM",
+   "City": "Grand Cayman, Cayman Islands"
+ },
+ {
+   "IATA": "GDT",
+   "City": "Grand Turk Island, Turks and Caicos Islands"
+ },
+ {
+   "IATA": "GRZ",
+   "City": "Graz, Austria"
+ },
+ {
+   "IATA": "GND",
+   "City": "Grenada, Grenada,"
+ },
+ {
+   "IATA": "GNB",
+   "City": "Grenoble, France"
+ },
+ {
+   "IATA": "GFF",
+   "City": "Griffith, Australia"
+ },
+ {
+   "IATA": "GRY",
+   "City": "Grimsey, Iceland"
+ },
+ {
+   "IATA": "JGR",
+   "City": "Groennedal, Greenland"
+ },
+ {
+   "IATA": "GRQ",
+   "City": "Groningen, Netherlands"
+ },
+ {
+   "IATA": "GTE",
+   "City": "Groofe Eylandt, Australia"
+ },
+ {
+   "IATA": "GDL",
+   "City": "Guadalajara, Mexico"
+ },
+ {
+   "IATA": "GUM",
+   "City": "Guam"
+ },
+ {
+   "IATA": "GJA",
+   "City": "Guanaja, Honduras"
+ },
+ {
+   "IATA": "BJX",
+   "City": "Guanajuato, Mexico"
+ },
+ {
+   "IATA": "CAN",
+   "City": "Guangzhou, China"
+ },
+ {
+   "IATA": "GAO",
+   "City": "Guantanamo, Cuba"
+ },
+ {
+   "IATA": "GUA",
+   "City": "Guatemala City, Guatemala"
+ },
+ {
+   "IATA": "GYE",
+   "City": "Guayaquil, Ecuador"
+ },
+ {
+   "IATA": "GYA",
+   "City": "Guayaramerin, Bolivia"
+ },
+ {
+   "IATA": "GYM",
+   "City": "Guaymas, Mexico"
+ },
+ {
+   "IATA": "GCI",
+   "City": "Guernsey, United Kingdom"
+ },
+ {
+   "IATA": "GUB",
+   "City": "Guerrero Negro, Mexico"
+ },
+ {
+   "IATA": "KWL",
+   "City": "Guilin, China"
+ },
+ {
+   "IATA": "GUI",
+   "City": "Guiria, Venezuela"
+ },
+ {
+   "IATA": "ULU",
+   "City": "Gulu, Uganda"
+ },
+ {
+   "IATA": "KWE",
+   "City": "Gulyang, China"
+ },
+ {
+   "IATA": "KUV",
+   "City": "Gunsan, South Korea"
+ },
+ {
+   "IATA": "URY",
+   "City": "Gurayat, Saudi Arabia"
+ },
+ {
+   "IATA": "GWD",
+   "City": "Gwadar, Pakistan"
+ },
+ {
+   "IATA": "GWL",
+   "City": "Gwalior, India"
+ },
+ {
+   "IATA": "KWJ",
+   "City": "Gwangju, South Korea"
+ },
+ {
+   "IATA": "KVD",
+   "City": "Gyandzha, Azerbaijan"
+ },
+ {
+   "IATA": "LWN",
+   "City": "Gyourmri, Armenia"
+ },
+ {
+   "IATA": "HPA",
+   "City": "HaApa, Tonga"
+ },
+ {
+   "IATA": "HAC",
+   "City": "Hachijo Jima, Japan"
+ },
+ {
+   "IATA": "HFS",
+   "City": "Hagfors, Sweden"
+ },
+ {
+   "IATA": "HFA",
+   "City": "Haifa, Israel"
+ },
+ {
+   "IATA": "HAK",
+   "City": "Haikou, China"
+ },
+ {
+   "IATA": "HAS",
+   "City": "Hail, Saudi Arabia"
+ },
+ {
+   "IATA": "HLD",
+   "City": "Hailar, China"
+ },
+ {
+   "IATA": "HPH",
+   "City": "Haiphong, Viet Nam - Catbi"
+ },
+ {
+   "IATA": "HKD",
+   "City": "Hakodate, Japan"
+ },
+ {
+   "IATA": "ZHQ",
+   "City": "Halberstadt, Germany"
+ },
+ {
+   "IATA": "HCQ",
+   "City": "Halls Creek, Australia"
+ },
+ {
+   "IATA": "HAD",
+   "City": "Halmstad, Sweden"
+ },
+ {
+   "IATA": "HAM",
+   "City": "Hamburg, Germany - Fuhisbuettel"
+ },
+ {
+   "IATA": "LBC",
+   "City": "Hamburg, Germany - Luebeck"
+ },
+ {
+   "IATA": "HTI",
+   "City": "Hamilton Island, Australia"
+ },
+ {
+   "IATA": "BDA",
+   "City": "Hamilton, Bermuda"
+ },
+ {
+   "IATA": "HLZ",
+   "City": "Hamilton, New Zealand"
+ },
+ {
+   "IATA": "HFT",
+   "City": "Hammerfest, Norway"
+ },
+ {
+   "IATA": "HGH",
+   "City": "Hangzhou, China"
+ },
+ {
+   "IATA": "HAQ",
+   "City": "Hanimaadhoo, Maldives"
+ },
+ {
+   "IATA": "HAN",
+   "City": "Hanoi, Viet Nam - Noibai"
+ },
+ {
+   "IATA": "HAJ",
+   "City": "Hanover, Germany"
+ },
+ {
+   "IATA": "HZG",
+   "City": "Hanzhang, China"
+ },
+ {
+   "IATA": "HRE",
+   "City": "Harare, Zimbabwe"
+ },
+ {
+   "IATA": "HRB",
+   "City": "Harbin, China"
+ },
+ {
+   "IATA": "HGA",
+   "City": "Hargeisa, Somolia"
+ },
+ {
+   "IATA": "EVE",
+   "City": "Harstad-Narvik, Norway"
+ },
+ {
+   "IATA": "HME",
+   "City": "Hassi Messaoud, Algeria"
+ },
+ {
+   "IATA": "HAA",
+   "City": "Hasvik, Norway"
+ },
+ {
+   "IATA": "HDY",
+   "City": "Hat Yai, Thailand"
+ },
+ {
+   "IATA": "HTR",
+   "City": "Hateruma, Japan"
+ },
+ {
+   "IATA": "HAU",
+   "City": "Haugesund, Norway"
+ },
+ {
+   "IATA": "HAV",
+   "City": "Havana, Cuba"
+ },
+ {
+   "IATA": "HIS",
+   "City": "Hayman Island, Australia"
+ },
+ {
+   "IATA": "HFE",
+   "City": "Hefei, China"
+ },
+ {
+   "IATA": "HDB",
+   "City": "Heidelberg, Germany"
+ },
+ {
+   "IATA": "HGL",
+   "City": "Helgoland, Germany"
+ },
+ {
+   "IATA": "HEL",
+   "City": "Helsinki, Finland"
+ },
+ {
+   "IATA": "HEH",
+   "City": "Heno, Myanmar"
+ },
+ {
+   "IATA": "HER",
+   "City": "Heraklian, Greece"
+ },
+ {
+   "IATA": "HDF",
+   "City": "Heringsdorf, Germany"
+ },
+ {
+   "IATA": "HMV",
+   "City": "Hermavan, Sweden"
+ },
+ {
+   "IATA": "HMO",
+   "City": "Hermosillo, Mexico"
+ },
+ {
+   "IATA": "XAK",
+   "City": "Herning, Denmark"
+ },
+ {
+   "IATA": "HVB",
+   "City": "Hervey Bay, Australia"
+ },
+ {
+   "IATA": "HIW",
+   "City": "Hiroshima, Japan - Hiroshima West"
+ },
+ {
+   "IATA": "HIJ",
+   "City": "Hiroshima, Japan - International"
+ },
+ {
+   "IATA": "HIT",
+   "City": "Hivaro, Papua New Guinea"
+ },
+ {
+   "IATA": "SGN",
+   "City": "Ho Chi Minh City, Viet Nam"
+ },
+ {
+   "IATA": "HBA",
+   "City": "Hobart, Australia"
+ },
+ {
+   "IATA": "HOD",
+   "City": "Hodeidah, Yemen"
+ },
+ {
+   "IATA": "HDS",
+   "City": "Hoedspruit, South Africa"
+ },
+ {
+   "IATA": "HOQ",
+   "City": "Hof, Germany"
+ },
+ {
+   "IATA": "HOF",
+   "City": "Hofuf, Saudi Arabia"
+ },
+ {
+   "IATA": "HET",
+   "City": "Hohhot, China"
+ },
+ {
+   "IATA": "HKK",
+   "City": "Hokitika, New Zealand"
+ },
+ {
+   "IATA": "HOG",
+   "City": "Holguin, Cuba"
+ },
+ {
+   "IATA": "HKG",
+   "City": "Hong Kong, Hong Kong"
+ },
+ {
+   "IATA": "HIR",
+   "City": "Honiara, Solomon Islands"
+ },
+ {
+   "IATA": "HVG",
+   "City": "Honningsvag, Norway"
+ },
+ {
+   "IATA": "HOK",
+   "City": "Hooker, Australia"
+ },
+ {
+   "IATA": "HID",
+   "City": "Horn Island Australia"
+ },
+ {
+   "IATA": "HFN",
+   "City": "Hornafjordur, Iceland"
+ },
+ {
+   "IATA": "HOR",
+   "City": "Horta, Portugal"
+ },
+ {
+   "IATA": "HKN",
+   "City": "Hoskins, Papua New Guinea"
+ },
+ {
+   "IATA": "HTN",
+   "City": "Hotan, China"
+ },
+ {
+   "IATA": "HOE",
+   "City": "Houeisay, Laos"
+ },
+ {
+   "IATA": "HUQ",
+   "City": "Houn, Libya"
+ },
+ {
+   "IATA": "HUH",
+   "City": "Huahine, French Polynesia"
+ },
+ {
+   "IATA": "HUN",
+   "City": "Hualien, Taiwan - Phi Bai"
+ },
+ {
+   "IATA": "HHQ",
+   "City": "Hualtin, Thailand"
+ },
+ {
+   "IATA": "HUU",
+   "City": "Huanuco, French Polynesia"
+ },
+ {
+   "IATA": "HYN",
+   "City": "Huargyan, China"
+ },
+ {
+   "IATA": "HUX",
+   "City": "Huatulco, Mexico"
+ },
+ {
+   "IATA": "HUV",
+   "City": "Hudiksvall, Sweden"
+ },
+ {
+   "IATA": "HUI",
+   "City": "Hue, Viet Nam"
+ },
+ {
+   "IATA": "HGD",
+   "City": "Hughenden, Australia"
+ },
+ {
+   "IATA": "HLF",
+   "City": "Hultsfred, Sweden"
+ },
+ {
+   "IATA": "HUY",
+   "City": "Humberside, United Kingdom"
+ },
+ {
+   "IATA": "HRG",
+   "City": "Hurghada, Egypt"
+ },
+ {
+   "IATA": "HWN",
+   "City": "Hwange Nat Park, Zimbabwe"
+ },
+ {
+   "IATA": "HYD",
+   "City": "Hyderabad, India"
+ },
+ {
+   "IATA": "IAS",
+   "City": "Iasi, Romania"
+ },
+ {
+   "IATA": "IBE",
+   "City": "Ibague, Colombia"
+ },
+ {
+   "IATA": "IBZ",
+   "City": "Ibiza, Spain"
+ },
+ {
+   "IATA": "IAA",
+   "City": "Igarka, Russia"
+ },
+ {
+   "IATA": "IGU",
+   "City": "Iguassu Falls, PR, Brazil"
+ },
+ {
+   "IATA": "IGR",
+   "City": "Iguazu, Argentina"
+ },
+ {
+   "IATA": "IHU",
+   "City": "Ihu, Papua New Guinea"
+ },
+ {
+   "IATA": "ILP",
+   "City": "Ile Des Pins, New Caledonia"
+ },
+ {
+   "IATA": "IOS",
+   "City": "Ilheus, Brazil"
+ },
+ {
+   "IATA": "ILA",
+   "City": "Illaga, Indonesia"
+ },
+ {
+   "IATA": "ILO",
+   "City": "Iloilo, Philippines - Mandurriao"
+ },
+ {
+   "IATA": "IUL",
+   "City": "Ilu, Indonesia"
+ },
+ {
+   "IATA": "JAV",
+   "City": "Ilulissat, Greenland"
+ },
+ {
+   "IATA": "IMP",
+   "City": "Imperatriz, Brazil"
+ },
+ {
+   "IATA": "IMF",
+   "City": "Imphal, India"
+ },
+ {
+   "IATA": "IAM",
+   "City": "In Amenas, Algeria"
+ },
+ {
+   "IATA": "IGA",
+   "City": "Inagua, Bahamas"
+ },
+ {
+   "IATA": "INX",
+   "City": "Inanwatan, Indonesia"
+ },
+ {
+   "IATA": "IDN",
+   "City": "Indagen, Papua New Guinea"
+ },
+ {
+   "IATA": "IDR",
+   "City": "Indore, India"
+ },
+ {
+   "IATA": "INN",
+   "City": "Innsbruck, Austria"
+ },
+ {
+   "IATA": "INA",
+   "City": "Inta, Russia"
+ },
+ {
+   "IATA": "IVC",
+   "City": "Invercargill, New Zealand"
+ },
+ {
+   "IATA": "IVR",
+   "City": "Inverell, Australia"
+ },
+ {
+   "IATA": "INV",
+   "City": "Inverness, United Kingdom"
+ },
+ {
+   "IATA": "IOA",
+   "City": "Ioannina, Greece"
+ },
+ {
+   "IATA": "IOP",
+   "City": "Ioma, Papua New Guinea"
+ },
+ {
+   "IATA": "IPN",
+   "City": "Ipatinga, Brazil"
+ },
+ {
+   "IATA": "IPI",
+   "City": "Ipiales, Colombia"
+ },
+ {
+   "IATA": "IPE",
+   "City": "Ipil, Philippines"
+ },
+ {
+   "IATA": "IPH",
+   "City": "Ipoh, Malaysia"
+ },
+ {
+   "IATA": "IPA",
+   "City": "Ipota, Vanuatu"
+ },
+ {
+   "IATA": "IQQ",
+   "City": "Iquique, Chile"
+ },
+ {
+   "IATA": "IQT",
+   "City": "Iquitos, Peru"
+ },
+ {
+   "IATA": "IKT",
+   "City": "Irkutsk, Russia"
+ },
+ {
+   "IATA": "IFJ",
+   "City": "Isafjordur, Iceland"
+ },
+ {
+   "IATA": "IFN",
+   "City": "Isfahan, Iran"
+ },
+ {
+   "IATA": "ISG",
+   "City": "Ishigakij, Japan"
+ },
+ {
+   "IATA": "ISB",
+   "City": "Islamabad, Pakistan"
+ },
+ {
+   "IATA": "YIV",
+   "City": "Island Lake/Garden Hill, Canada"
+ },
+ {
+   "IATA": "ILY",
+   "City": "Islay, United Kingdom"
+ },
+ {
+   "IATA": "IOM",
+   "City": "Isle of Man, United Kingdom"
+ },
+ {
+   "IATA": "ISC",
+   "City": "Isles of Scilly, United Kingdom - St Marys"
+ },
+ {
+   "IATA": "TSO",
+   "City": "Isles of Scilly, United Kingdom - Tresco"
+ },
+ {
+   "IATA": "IST",
+   "City": "Istanbul, Turkey"
+ },
+ {
+   "IATA": "ITB",
+   "City": "Itaituba, Brazil"
+ },
+ {
+   "IATA": "ITK",
+   "City": "Itokama, Papua New Guinea"
+ },
+ {
+   "IATA": "IVL",
+   "City": "Ivalo, Finland"
+ },
+ {
+   "IATA": "IFO",
+   "City": "Ivano-Frankovsk, Ukraine"
+ },
+ {
+   "IATA": "IWJ",
+   "City": "Iwami, Japan"
+ },
+ {
+   "IATA": "ZIH",
+   "City": "Ixtapa, Mexico"
+ },
+ {
+   "IATA": "IZT",
+   "City": "Ixtepec, Mexico"
+ },
+ {
+   "IATA": "ADB",
+   "City": "Izmir, Turkey"
+ },
+ {
+   "IATA": "IZO",
+   "City": "Izumo, Japan"
+ },
+ {
+   "IATA": "JAT",
+   "City": "Jabor, Marshall Islands"
+ },
+ {
+   "IATA": "JCR",
+   "City": "Jacareacanga, Brazil"
+ },
+ {
+   "IATA": "JAG",
+   "City": "Jacobabad, Pakistan"
+ },
+ {
+   "IATA": "JAQ",
+   "City": "Jacquinot Bay, Papua New Guinea"
+ },
+ {
+   "IATA": "JAI",
+   "City": "Jaipur, India"
+ },
+ {
+   "IATA": "CGK",
+   "City": "Jakarta, Indonesia"
+ },
+ {
+   "IATA": "JAL",
+   "City": "Jalapa, Mexico"
+ },
+ {
+   "IATA": "UIT",
+   "City": "Jaluit Island, Marshall Islands"
+ },
+ {
+   "IATA": "DJB",
+   "City": "Jambi. Indonesia"
+ },
+ {
+   "IATA": "JGA",
+   "City": "Jamnagar, India"
+ },
+ {
+   "IATA": "JKR",
+   "City": "Janakpur, Nepal"
+ },
+ {
+   "IATA": "JQE",
+   "City": "Jaque, Panama"
+ },
+ {
+   "IATA": "DJJ",
+   "City": "Jayapura, Indonesia"
+ },
+ {
+   "IATA": "JED",
+   "City": "Jeddah, Saudi Arabia"
+ },
+ {
+   "IATA": "JEJ",
+   "City": "Jeh, Marshall Islands"
+ },
+ {
+   "IATA": "CJU",
+   "City": "Jeju, South Korea - Jeju Airport, metro area"
+ },
+ {
+   "IATA": "XRY",
+   "City": "Jerez De La Frontere, Spain"
+ },
+ {
+   "IATA": "JER",
+   "City": "Jersey, United Kingdom"
+ },
+ {
+   "IATA": "JSR",
+   "City": "Jessore, Bangladesh"
+ },
+ {
+   "IATA": "JMU",
+   "City": "Jiamusi, China"
+ },
+ {
+   "IATA": "JGN",
+   "City": "Jiayuguan, China"
+ },
+ {
+   "IATA": "GJL",
+   "City": "Jijel, Algeria"
+ },
+ {
+   "IATA": "JIJ",
+   "City": "Jijiga, Ethiopia"
+ },
+ {
+   "IATA": "JIM",
+   "City": "Jimma, Ethiopia"
+ },
+ {
+   "IATA": "TNA",
+   "City": "Jinan, China"
+ },
+ {
+   "IATA": "JDZ",
+   "City": "Jingdezhen, China"
+ },
+ {
+   "IATA": "JHG",
+   "City": "Jinghong, China"
+ },
+ {
+   "IATA": "JIN",
+   "City": "Jinja, Uganda"
+ },
+ {
+   "IATA": "JJN",
+   "City": "Jinjiang, China"
+ },
+ {
+   "IATA": "HIN",
+   "City": "Jinju, South Korea - Sancheon"
+ },
+ {
+   "IATA": "BCO",
+   "City": "Jinka, Ethiopia"
+ },
+ {
+   "IATA": "JNZ",
+   "City": "Jinzhou, China"
+ },
+ {
+   "IATA": "JPR",
+   "City": "Ji-Parana, Brazil"
+ },
+ {
+   "IATA": "JIW",
+   "City": "Jiwani, Pakistan"
+ },
+ {
+   "IATA": "JPA",
+   "City": "Joao Pessoa, Brazil"
+ },
+ {
+   "IATA": "JDH",
+   "City": "Jodhpur, India"
+ },
+ {
+   "IATA": "JOE",
+   "City": "Joensuu, Finland"
+ },
+ {
+   "IATA": "JNB",
+   "City": "Johannesburg, South Africa"
+ },
+ {
+   "IATA": "JON",
+   "City": "Johnston Island, US Minor Outlying Islands"
+ },
+ {
+   "IATA": "JHB",
+   "City": "Johor, Malaysia"
+ },
+ {
+   "IATA": "JOI",
+   "City": "Joinville, Brazil"
+ },
+ {
+   "IATA": "IXJ",
+   "City": "Jommu, India"
+ },
+ {
+   "IATA": "JMO",
+   "City": "Jomsom, Nepal"
+ },
+ {
+   "IATA": "JKG",
+   "City": "Jonkoping, Sweden"
+ },
+ {
+   "IATA": "JRH",
+   "City": "Jorhat, India"
+ },
+ {
+   "IATA": "JSM",
+   "City": "Jose De San Martin, Argentina"
+ },
+ {
+   "IATA": "AJF",
+   "City": "Jouf, Saudi Arabia"
+ },
+ {
+   "IATA": "JDO",
+   "City": "Juazeiro Do Norte, Brazil"
+ },
+ {
+   "IATA": "JUI",
+   "City": "Juist, Germany"
+ },
+ {
+   "IATA": "JDF",
+   "City": "Juiz De Fora, Brazil"
+ },
+ {
+   "IATA": "JUJ",
+   "City": "Jujuy, Argentina"
+ },
+ {
+   "IATA": "JCK",
+   "City": "Julia Creek, Australia"
+ },
+ {
+   "IATA": "JUL",
+   "City": "Juliaca, Peru"
+ },
+ {
+   "IATA": "JUZ",
+   "City": "Juzha, China"
+ },
+ {
+   "IATA": "JYV",
+   "City": "Jyvaskyla, Finland"
+ },
+ {
+   "IATA": "KDM",
+   "City": "Kaadedhdhoo, Maldives"
+ },
+ {
+   "IATA": "KBT",
+   "City": "Kaben, Marshall Islands"
+ },
+ {
+   "IATA": "ABK",
+   "City": "Kabri Dar, Ethiopia"
+ },
+ {
+   "IATA": "KBL",
+   "City": "Kabul, Afghanistan"
+ },
+ {
+   "IATA": "KBM",
+   "City": "Kabwun, Papua New Guinea"
+ },
+ {
+   "IATA": "KCF",
+   "City": "Kadanwari, Pakistan"
+ },
+ {
+   "IATA": "KDO",
+   "City": "Kadhonoo, Maldives"
+ },
+ {
+   "IATA": "KCM",
+   "City": "Kahramanmaras, Turkey"
+ },
+ {
+   "IATA": "KZF",
+   "City": "Kaintiba, Papua New Guinea"
+ },
+ {
+   "IATA": "KAT",
+   "City": "Kaitaia, New Zealand"
+ },
+ {
+   "IATA": "KAJ",
+   "City": "Kajaani, Finland"
+ },
+ {
+   "IATA": "KAX",
+   "City": "Kalbarri, Australia"
+ },
+ {
+   "IATA": "KGD",
+   "City": "Kaliningrad, Russia"
+ },
+ {
+   "IATA": "KBX",
+   "City": "Kambuaya, Indonesia"
+ },
+ {
+   "IATA": "KAC",
+   "City": "Kameshli, Syrian Arab Republic"
+ },
+ {
+   "IATA": "KCD",
+   "City": "Kamur, Indonesia"
+ },
+ {
+   "IATA": "KUY",
+   "City": "Kamusi, Papua New Guinea"
+ },
+ {
+   "IATA": "KAN",
+   "City": "Kano, Nigeria"
+ },
+ {
+   "IATA": "KHI",
+   "City": "Karachi, Pakistan - Quaid-E-Azam International"
+ },
+ {
+   "IATA": "KDL",
+   "City": "Kardia, Estonia"
+ },
+ {
+   "IATA": "KAB",
+   "City": "Kariba, Zimbabwe"
+ },
+ {
+   "IATA": "FKB",
+   "City": "Karlsruhe/Badern Baden, Germany"
+ },
+ {
+   "IATA": "AOK",
+   "City": "Karpathos, Greece"
+ },
+ {
+   "IATA": "KBF",
+   "City": "Karubaga, Indonesia"
+ },
+ {
+   "IATA": "ZKB",
+   "City": "Kasaba Bay, Zambia"
+ },
+ {
+   "IATA": "KAA",
+   "City": "Kasama, Zambia"
+ },
+ {
+   "IATA": "BBK",
+   "City": "Kasane, Botswana"
+ },
+ {
+   "IATA": "KTR",
+   "City": "Katherine, NT, Australia"
+ },
+ {
+   "IATA": "KTM",
+   "City": "Kathmandu, Nepal"
+ },
+ {
+   "IATA": "KTW",
+   "City": "Katowice, Poland"
+ },
+ {
+   "IATA": "KUN",
+   "City": "Kaunas, Lithuania"
+ },
+ {
+   "IATA": "KVA",
+   "City": "Kavala, Greece"
+ },
+ {
+   "IATA": "KVG",
+   "City": "Kavieng, Papua New Guinea"
+ },
+ {
+   "IATA": "KAW",
+   "City": "Kawthaung, Myanmar"
+ },
+ {
+   "IATA": "ASR",
+   "City": "Kayseri, Turkey"
+ },
+ {
+   "IATA": "KZN",
+   "City": "Kazan,, Russia"
+ },
+ {
+   "IATA": "EFL",
+   "City": "Kefallinia, Greece"
+ },
+ {
+   "IATA": "KDI",
+   "City": "Kendari, Indonesia"
+ },
+ {
+   "IATA": "CFU",
+   "City": "Kerkyra, Greece"
+ },
+ {
+   "IATA": "HJR",
+   "City": "Khajuraho, India"
+ },
+ {
+   "IATA": "UVL",
+   "City": "Kharga, Egypt"
+ },
+ {
+   "IATA": "HRK",
+   "City": "Kharkov, Ukraine"
+ },
+ {
+   "IATA": "LBD",
+   "City": "Khudzhand, Tajikistan"
+ },
+ {
+   "IATA": "KDD",
+   "City": "Khuzdar, Pakistan"
+ },
+ {
+   "IATA": "KBP",
+   "City": "Kiev, Ukraine - Borispol"
+ },
+ {
+   "IATA": "IEV",
+   "City": "Kiev, Ukraine - Zhulhany"
+ },
+ {
+   "IATA": "KGL",
+   "City": "Kigali, Rwanda"
+ },
+ {
+   "IATA": "TKQ",
+   "City": "Kigoma, Tanzania"
+ },
+ {
+   "IATA": "JRO",
+   "City": "Kilimanjaro, Tanzania"
+ },
+ {
+   "IATA": "YLC",
+   "City": "Kimmirut/Lake Harbour, Canada"
+ },
+ {
+   "IATA": "KIN",
+   "City": "Kingston, Jamaica - Norman Manley"
+ },
+ {
+   "IATA": "KTP",
+   "City": "Kingston, Jamaica - Tinson"
+ },
+ {
+   "IATA": "FIH",
+   "City": "Kinshasa, Congo"
+ },
+ {
+   "IATA": "IRA",
+   "City": "Kirakira, Solomon Islands"
+ },
+ {
+   "IATA": "KTD",
+   "City": "Kitadaito, Japan"
+ },
+ {
+   "IATA": "KTT",
+   "City": "Kittila, Finland"
+ },
+ {
+   "IATA": "UNG",
+   "City": "Kiunga, Papua New Guinea"
+ },
+ {
+   "IATA": "KWY",
+   "City": "Kiwayu, Kenya"
+ },
+ {
+   "IATA": "NOC",
+   "City": "Knock, Ireland"
+ },
+ {
+   "IATA": "KCZ",
+   "City": "Kochi, Japan"
+ },
+ {
+   "IATA": "USM",
+   "City": "Koh Samui, Thailand"
+ },
+ {
+   "IATA": "CCU",
+   "City": "Kolkata, India"
+ },
+ {
+   "IATA": "QJY",
+   "City": "Kolobrzeg, Poland"
+ },
+ {
+   "IATA": "KXK",
+   "City": "Komsomolsk Na Amure, Russia"
+ },
+ {
+   "IATA": "KYA",
+   "City": "Konya, Turkey"
+ },
+ {
+   "IATA": "ROR",
+   "City": "Koror, Palau"
+ },
+ {
+   "IATA": "OSZ",
+   "City": "Koszalin, Poland"
+ },
+ {
+   "IATA": "KBR",
+   "City": "Kota Bharu, Malaysia"
+ },
+ {
+   "IATA": "BKI",
+   "City": "Kota Kinabalu, Malaysia"
+ },
+ {
+   "IATA": "KWM",
+   "City": "Kowanyama, QL, Australia"
+ },
+ {
+   "IATA": "CCJ",
+   "City": "Kozhikode, India"
+ },
+ {
+   "IATA": "KBV",
+   "City": "Krabi, Thailand"
+ },
+ {
+   "IATA": "KRK",
+   "City": "Krakow, Poland"
+ },
+ {
+   "IATA": "KWG",
+   "City": "Krivoy Rog, Ukraine"
+ },
+ {
+   "IATA": "KUL",
+   "City": "Kuala Lumpur, Malaysia"
+ },
+ {
+   "IATA": "TGG",
+   "City": "Kuala Terengganu, Malaysia"
+ },
+ {
+   "IATA": "KUA",
+   "City": "Kuantan, Malaysia"
+ },
+ {
+   "IATA": "KUG",
+   "City": "Kubin Island, QL, Australia"
+ },
+ {
+   "IATA": "KCH",
+   "City": "Kuching, Malaysia"
+ },
+ {
+   "IATA": "KUD",
+   "City": "Kudat, Malaysia"
+ },
+ {
+   "IATA": "AKF",
+   "City": "Kufrah, Libya"
+ },
+ {
+   "IATA": "KUS",
+   "City": "Kulusuk, Greenland"
+ },
+ {
+   "IATA": "UEO",
+   "City": "Kumejima, Japan"
+ },
+ {
+   "IATA": "CMU",
+   "City": "Kundiawa, Papau New Guinea"
+ },
+ {
+   "IATA": "KUO",
+   "City": "Kuopio, Finland"
+ },
+ {
+   "IATA": "KUQ",
+   "City": "Kuri, Papua New Guinea"
+ },
+ {
+   "IATA": "KUH",
+   "City": "Kushiro, Japan"
+ },
+ {
+   "IATA": "KUT",
+   "City": "Kutaisi, Georgia"
+ },
+ {
+   "IATA": "KAO",
+   "City": "Kuusamo, Finland"
+ },
+ {
+   "IATA": "KWI",
+   "City": "Kuwait, Kuwait"
+ },
+ {
+   "IATA": "KWA",
+   "City": "Kwajalein, Marshall Islands"
+ },
+ {
+   "IATA": "KYZ",
+   "City": "Kyzyl, Russia"
+ },
+ {
+   "IATA": "LCE",
+   "City": "La Ceiba, Honduras"
+ },
+ {
+   "IATA": "LCG",
+   "City": "La Coruna, Spain"
+ },
+ {
+   "IATA": "PLP",
+   "City": "La Palma, Panama"
+ },
+ {
+   "IATA": "LPB",
+   "City": "La Paz, Bolivia"
+ },
+ {
+   "IATA": "LAP",
+   "City": "La Paz, Mexico"
+ },
+ {
+   "IATA": "IRJ",
+   "City": "La Rioja, Argentina"
+ },
+ {
+   "IATA": "LRM",
+   "City": "La Romana, Dominican Republic"
+ },
+ {
+   "IATA": "LSC",
+   "City": "La Serena, Chile"
+ },
+ {
+   "IATA": "EUN",
+   "City": "Laayoune, Morocco"
+ },
+ {
+   "IATA": "LBS",
+   "City": "Labasa, Fiji"
+ },
+ {
+   "IATA": "LAB",
+   "City": "Lablab, Papua New Guinea"
+ },
+ {
+   "IATA": "LBJ",
+   "City": "Labuan Bajo, Indonesia"
+ },
+ {
+   "IATA": "LBU",
+   "City": "Labuan, Malaysia"
+ },
+ {
+   "IATA": "LML",
+   "City": "Lae Island, Marshall Islands"
+ },
+ {
+   "IATA": "LAE",
+   "City": "Lae, Papua New Guinea"
+ },
+ {
+   "IATA": "LAJ",
+   "City": "Lages, SC, Brazil"
+ },
+ {
+   "IATA": "LGQ",
+   "City": "Lago Agrio, Ecuador"
+ },
+ {
+   "IATA": "ING",
+   "City": "Lago Argentina, Argentina"
+ },
+ {
+   "IATA": "LOS",
+   "City": "Lagos, Nigeria"
+ },
+ {
+   "IATA": "LDU",
+   "City": "Lahadbatu, Malaysia"
+ },
+ {
+   "IATA": "LHE",
+   "City": "Lahore, Pakistan"
+ },
+ {
+   "IATA": "LKB",
+   "City": "Lakeba, Fiji"
+ },
+ {
+   "IATA": "LKL",
+   "City": "Lakselv, Norway"
+ },
+ {
+   "IATA": "LLI",
+   "City": "Lalibela, Ethiopia"
+ },
+ {
+   "IATA": "LPM",
+   "City": "Lamap, Vanuatu"
+ },
+ {
+   "IATA": "LNB",
+   "City": "Lamen Bay, Vanuatu"
+ },
+ {
+   "IATA": "SUF",
+   "City": "Lamezia-Terme, Italy"
+ },
+ {
+   "IATA": "LPI",
+   "City": "Lampang, Thailand"
+ },
+ {
+   "IATA": "LMP",
+   "City": "Lampedusa, Italy"
+ },
+ {
+   "IATA": "LAU",
+   "City": "Lamu, Kenya"
+ },
+ {
+   "IATA": "LEQ",
+   "City": "Lands End, United Kingdom"
+ },
+ {
+   "IATA": "LUV",
+   "City": "Langguri, Indonesia"
+ },
+ {
+   "IATA": "LGK",
+   "City": "Langkawi, Malaysia"
+ },
+ {
+   "IATA": "LAI",
+   "City": "Lannion, France"
+ },
+ {
+   "IATA": "ACE",
+   "City": "Lanzarote, Spain"
+ },
+ {
+   "IATA": "LHW",
+   "City": "Lanzhau, Guinea"
+ },
+ {
+   "IATA": "ZGC",
+   "City": "Lanzhou, China"
+ },
+ {
+   "IATA": "LAO",
+   "City": "Laoag, Philippines"
+ },
+ {
+   "IATA": "LPP",
+   "City": "Lappeenranta, Finland"
+ },
+ {
+   "IATA": "LKA",
+   "City": "Larantuka, Indonesia"
+ },
+ {
+   "IATA": "LCA",
+   "City": "Larnaca, Cyprus"
+ },
+ {
+   "IATA": "LRH",
+   "City": "Larochelle, France"
+ },
+ {
+   "IATA": "LPA",
+   "City": "Las Palmas, Spain"
+ },
+ {
+   "IATA": "LSP",
+   "City": "Las Piedras, Venezuela"
+ },
+ {
+   "IATA": "LTK",
+   "City": "Latakia, Syria"
+ },
+ {
+   "IATA": "LUC",
+   "City": "Laucala Island, Fiji"
+ },
+ {
+   "IATA": "LST",
+   "City": "Launceston, TS, Australia"
+ },
+ {
+   "IATA": "LVO",
+   "City": "Laverton, WA, Australia"
+ },
+ {
+   "IATA": "LWY",
+   "City": "Lawas, Malaysia"
+ },
+ {
+   "IATA": "LEH",
+   "City": "Le Havre, France"
+ },
+ {
+   "IATA": "ZLN",
+   "City": "Le Mans, France"
+ },
+ {
+   "IATA": "LPY",
+   "City": "Le Puy, France"
+ },
+ {
+   "IATA": "LTQ",
+   "City": "Le Touquet, France"
+ },
+ {
+   "IATA": "LEA",
+   "City": "Learmonth, WA, Australia"
+ },
+ {
+   "IATA": "LBA",
+   "City": "Leeds, United Kingdom"
+ },
+ {
+   "IATA": "LGP",
+   "City": "Legaspi, Philippines"
+ },
+ {
+   "IATA": "IXL",
+   "City": "Leh, India"
+ },
+ {
+   "IATA": "LER",
+   "City": "Leinster, WA, Australia"
+ },
+ {
+   "IATA": "LEJ",
+   "City": "Leipzig, Germany"
+ },
+ {
+   "IATA": "LKN",
+   "City": "Leknes, Norway"
+ },
+ {
+   "IATA": "LXS",
+   "City": "Lemnos, Greece"
+ },
+ {
+   "IATA": "BJX",
+   "City": "Leon, Mexico"
+ },
+ {
+   "IATA": "LNO",
+   "City": "Leonora, WA, Australia"
+ },
+ {
+   "IATA": "LET",
+   "City": "Leticia, Colombia"
+ },
+ {
+   "IATA": "LXA",
+   "City": "Lhasa, China"
+ },
+ {
+   "IATA": "LYG",
+   "City": "Lianyungang, China"
+ },
+ {
+   "IATA": "LIR",
+   "City": "Liberia, Costa Rica"
+ },
+ {
+   "IATA": "LBV",
+   "City": "Libreville, Gabon"
+ },
+ {
+   "IATA": "VXC",
+   "City": "Lichinga, Mozambique"
+ },
+ {
+   "IATA": "LGG",
+   "City": "Liege, Belgium"
+ },
+ {
+   "IATA": "LIF",
+   "City": "Lifa, New Caledonia"
+ },
+ {
+   "IATA": "LHG",
+   "City": "Lightning Ridge, NS, Australia"
+ },
+ {
+   "IATA": "LNV",
+   "City": "Lihir Island, Papua New Guinea"
+ },
+ {
+   "IATA": "LJG",
+   "City": "Lijiang City, China"
+ },
+ {
+   "IATA": "LIK",
+   "City": "Likiep Island, Marshall Islands"
+ },
+ {
+   "IATA": "LIL",
+   "City": "Lille, France - Lesquin"
+ },
+ {
+   "IATA": "XDB",
+   "City": "Lille, France - Rail service"
+ },
+ {
+   "IATA": "LLW",
+   "City": "Lilongwe, Malawi"
+ },
+ {
+   "IATA": "LIM",
+   "City": "Lima, Peru"
+ },
+ {
+   "IATA": "LMN",
+   "City": "Limbang, Malaysia"
+ },
+ {
+   "IATA": "LIG",
+   "City": "Limoges, France"
+ },
+ {
+   "IATA": "LDC",
+   "City": "Lindeman Island, QL, Australia"
+ },
+ {
+   "IATA": "LDI",
+   "City": "Lindi, Tanzania"
+ },
+ {
+   "IATA": "LPI",
+   "City": "Linkoping, Sweden"
+ },
+ {
+   "IATA": "LYI",
+   "City": "Linyi, China"
+ },
+ {
+   "IATA": "LNZ",
+   "City": "Linz, Austria"
+ },
+ {
+   "IATA": "LIS",
+   "City": "Lisbon, Portugal"
+ },
+ {
+   "IATA": "LSY",
+   "City": "Lismore, NS, Australia"
+ },
+ {
+   "IATA": "LZH",
+   "City": "Liuzhou, China"
+ },
+ {
+   "IATA": "LPL",
+   "City": "Liverpool, United Kingdom"
+ },
+ {
+   "IATA": "LVI",
+   "City": "Livingstone, Zambia"
+ },
+ {
+   "IATA": "LZR",
+   "City": "Lizard Island, QL, Australia"
+ },
+ {
+   "IATA": "LJU",
+   "City": "Ljubliana, Slovenia"
+ },
+ {
+   "IATA": "IRG",
+   "City": "Lockhart River, Australia"
+ },
+ {
+   "IATA": "LOF",
+   "City": "Loen, Marshall Islands"
+ },
+ {
+   "IATA": "LOH",
+   "City": "Loja, Ecuador"
+ },
+ {
+   "IATA": "LFW",
+   "City": "Lome, Togo"
+ },
+ {
+   "IATA": "LON",
+   "City": "London, United Kingdom - All airports"
+ },
+ {
+   "IATA": "BQH",
+   "City": "London, United Kingdom - Biggin Hill"
+ },
+ {
+   "IATA": "LGW",
+   "City": "London, United Kingdom - Gatwick"
+ },
+ {
+   "IATA": "LHR",
+   "City": "London, United Kingdom - Heathrow"
+ },
+ {
+   "IATA": "LCY",
+   "City": "London, United Kingdom - London City"
+ },
+ {
+   "IATA": "LTN",
+   "City": "London, United Kingdom - Luton"
+ },
+ {
+   "IATA": "STN",
+   "City": "London, United Kingdom - Stansted"
+ },
+ {
+   "IATA": "LDY",
+   "City": "Londonderry, United Kingdom"
+ },
+ {
+   "IATA": "QQP",
+   "City": "London-Paddington, United Kingdom - Rail service"
+ },
+ {
+   "IATA": "LDB",
+   "City": "Londrina, PR, Brazil"
+ },
+ {
+   "IATA": "LPU",
+   "City": "Long Apung, Indonesia"
+ },
+ {
+   "IATA": "LBP",
+   "City": "Long Banga, Malaysia"
+ },
+ {
+   "IATA": "LBW",
+   "City": "Long Bawan, Indonesia"
+ },
+ {
+   "IATA": "HAP",
+   "City": "Long Island, Australia"
+ },
+ {
+   "IATA": "LGI",
+   "City": "Long Island/Deadmans Cay, Bahamas"
+ },
+ {
+   "IATA": "LGL",
+   "City": "Long Lellang, Malaysia"
+ },
+ {
+   "IATA": "ODN",
+   "City": "Long Seridan, Malaysia"
+ },
+ {
+   "IATA": "LOD",
+   "City": "Longana, Vanuatu"
+ },
+ {
+   "IATA": "LRE",
+   "City": "Longreach, QL, Australia"
+ },
+ {
+   "IATA": "LYR",
+   "City": "Longyearbyen, Svalbard & Jan Mayen Island"
+ },
+ {
+   "IATA": "LNE",
+   "City": "Lonorore, Vanuatu"
+ },
+ {
+   "IATA": "LDH",
+   "City": "Lord Howe Island, NS, Australia"
+ },
+ {
+   "IATA": "LTO",
+   "City": "Loreto, Mexico"
+ },
+ {
+   "IATA": "LRT",
+   "City": "Lorient, France"
+ },
+ {
+   "IATA": "SJD",
+   "City": "Los Cabos, Mexico"
+ },
+ {
+   "IATA": "LMM",
+   "City": "Los Mochis, Mexico"
+ },
+ {
+   "IATA": "LSA",
+   "City": "Losuia, Papua New Guinea"
+ },
+ {
+   "IATA": "LDE",
+   "City": "Lourdes/Tarbes, France"
+ },
+ {
+   "IATA": "LZC",
+   "City": "Lozaro Cardenas, Mexico"
+ },
+ {
+   "IATA": "LAD",
+   "City": "Luanda, Angola"
+ },
+ {
+   "IATA": "LAD",
+   "City": "Luanda, Angola"
+ },
+ {
+   "IATA": "LXG",
+   "City": "Luang Namtha, Laos"
+ },
+ {
+   "IATA": "LPQ",
+   "City": "Luang Prabang, Laos"
+ },
+ {
+   "IATA": "LKO",
+   "City": "Lucknow, India"
+ },
+ {
+   "IATA": "LUD",
+   "City": "Luderitz, Namibia"
+ },
+ {
+   "IATA": "LUG",
+   "City": "Lugano, Switzerland"
+ },
+ {
+   "IATA": "VSG",
+   "City": "Lugansk, Uganda"
+ },
+ {
+   "IATA": "LUA",
+   "City": "Lukla, Nepal"
+ },
+ {
+   "IATA": "LLA",
+   "City": "Lulea, Sweden"
+ },
+ {
+   "IATA": "FBM",
+   "City": "Lumbashi, Congo"
+ },
+ {
+   "IATA": "LYA",
+   "City": "Luoyang, China"
+ },
+ {
+   "IATA": "LUN",
+   "City": "Lusaka, Zambia"
+ },
+ {
+   "IATA": "LUW",
+   "City": "Luwuk, Indonesia"
+ },
+ {
+   "IATA": "LUX",
+   "City": "Luxembourg, Luxembourg"
+ },
+ {
+   "IATA": "LUM",
+   "City": "Luxi, China"
+ },
+ {
+   "IATA": "LXR",
+   "City": "Luxor, Egypt"
+ },
+ {
+   "IATA": "LZO",
+   "City": "Luzhou, China"
+ },
+ {
+   "IATA": "LWO",
+   "City": "Lvov, Ukraine"
+ },
+ {
+   "IATA": "LYC",
+   "City": "Lyoksele, Sweden"
+ },
+ {
+   "IATA": "XYD",
+   "City": "Lyon, France - Lyon Part-Dieu Rail service"
+ },
+ {
+   "IATA": "LYS",
+   "City": "Lyon, France - Satolas"
+ },
+ {
+   "IATA": "MST",
+   "City": "Maastricht, Netherlands"
+ },
+ {
+   "IATA": "UBB",
+   "City": "Mabuiag Island, QL, Australia"
+ },
+ {
+   "IATA": "MCP",
+   "City": "Macapa, AP, Brazil"
+ },
+ {
+   "IATA": "XMS",
+   "City": "Macas, Ecuador"
+ },
+ {
+   "IATA": "MFM",
+   "City": "Macau, China"
+ },
+ {
+   "IATA": "MCZ",
+   "City": "Maceio, AL, Brazil"
+ },
+ {
+   "IATA": "MCH",
+   "City": "Machala, Ecuador"
+ },
+ {
+   "IATA": "MKY",
+   "City": "Mackay, QL, Australia"
+ },
+ {
+   "IATA": "MAG",
+   "City": "Madang, Papua New Guinea"
+ },
+ {
+   "IATA": "MED",
+   "City": "Madinah, Saudi Arabia"
+ },
+ {
+   "IATA": "MAD",
+   "City": "Madrid, Spain"
+ },
+ {
+   "IATA": "IXM",
+   "City": "Madurai, India"
+ },
+ {
+   "IATA": "HGN",
+   "City": "Mae Hong Son, Thailand"
+ },
+ {
+   "IATA": "MAQ",
+   "City": "Mae Sot, Thailand"
+ },
+ {
+   "IATA": "MWF",
+   "City": "Maewo, Vanuatu"
+ },
+ {
+   "IATA": "MFA",
+   "City": "Mafia, Tanzania"
+ },
+ {
+   "IATA": "GDX",
+   "City": "Magadan, Russia"
+ },
+ {
+   "IATA": "MQF",
+   "City": "Magnitogorsk, Russia"
+ },
+ {
+   "IATA": "VVB",
+   "City": "Mahanoro, Madagascar"
+ },
+ {
+   "IATA": "SEZ",
+   "City": "Mahe Island, Seychelles"
+ },
+ {
+   "IATA": "MXT",
+   "City": "Maintirano, Madagascar"
+ },
+ {
+   "IATA": "MMO",
+   "City": "Maio, Cape Verde"
+ },
+ {
+   "IATA": "MJE",
+   "City": "Majkin, Marshall Islands"
+ },
+ {
+   "IATA": "MJN",
+   "City": "Majunga, Madagascar"
+ },
+ {
+   "IATA": "MAJ",
+   "City": "Majuro, Marshall Islands"
+ },
+ {
+   "IATA": "MQX",
+   "City": "Makale, Ethiopia"
+ },
+ {
+   "IATA": "MCX",
+   "City": "Makhachkala, Russia"
+ },
+ {
+   "IATA": "MKU",
+   "City": "Makokou, Gabon"
+ },
+ {
+   "IATA": "MZG",
+   "City": "Makung, Taiwan"
+ },
+ {
+   "IATA": "SSG",
+   "City": "Malabo, Equatorial Guinea"
+ },
+ {
+   "IATA": "MKZ",
+   "City": "Malacca, Malaysia"
+ },
+ {
+   "IATA": "AGP",
+   "City": "Malaga, Spain"
+ },
+ {
+   "IATA": "MAK",
+   "City": "Malakai, Sudan"
+ },
+ {
+   "IATA": "LGS",
+   "City": "Malargue, MD, Argentina"
+ },
+ {
+   "IATA": "MLX",
+   "City": "Malatya, Turkey"
+ },
+ {
+   "IATA": "MLE",
+   "City": "Male, Maldives"
+ },
+ {
+   "IATA": "MYD",
+   "City": "Malindi, Kenya"
+ },
+ {
+   "IATA": "MMX",
+   "City": "Malmo, Sweden"
+ },
+ {
+   "IATA": "MAV",
+   "City": "Maloelap Island, Marshall Islands"
+ },
+ {
+   "IATA": "PTF",
+   "City": "Malololailai, Fiji"
+ },
+ {
+   "IATA": "MLA",
+   "City": "Malta, Malta"
+ },
+ {
+   "IATA": "WMP",
+   "City": "Mampikony, Madagascar"
+ },
+ {
+   "IATA": "MNF",
+   "City": "Mana Island, Fiji"
+ },
+ {
+   "IATA": "MDC",
+   "City": "Manado, Indonesia"
+ },
+ {
+   "IATA": "MGA",
+   "City": "Managua, Nicaragua"
+ },
+ {
+   "IATA": "WVK",
+   "City": "Manakara, Madagascar"
+ },
+ {
+   "IATA": "WMR",
+   "City": "Mananara, Madagascar"
+ },
+ {
+   "IATA": "NGX",
+   "City": "Manang, Nepal"
+ },
+ {
+   "IATA": "MNJ",
+   "City": "Mananjary, Madagascar"
+ },
+ {
+   "IATA": "MAO",
+   "City": "Manaus, AM, Brazil"
+ },
+ {
+   "IATA": "MAN",
+   "City": "Manchester, United Kingdom"
+ },
+ {
+   "IATA": "MDL",
+   "City": "Mandalay, Myanmar"
+ },
+ {
+   "IATA": "WMA",
+   "City": "Mandritsara, Madagascar"
+ },
+ {
+   "IATA": "MGS",
+   "City": "Mangaia Island, Cook Islands"
+ },
+ {
+   "IATA": "IXE",
+   "City": "Mangalore, India"
+ },
+ {
+   "IATA": "MAY",
+   "City": "Mangrove Cay, Bahamas"
+ },
+ {
+   "IATA": "MNR",
+   "City": "Mangu, Zambia"
+ },
+ {
+   "IATA": "MFO",
+   "City": "Manguna, Papua New Guinea"
+ },
+ {
+   "IATA": "XMH",
+   "City": "Manihi, French Polynesia"
+ },
+ {
+   "IATA": "MHX",
+   "City": "Manihiki Island, Cook Islands"
+ },
+ {
+   "IATA": "MNL",
+   "City": "Manila, Philippines"
+ },
+ {
+   "IATA": "MNG",
+   "City": "Maningrioa, NT, Australia"
+ },
+ {
+   "IATA": "MZL",
+   "City": "Manizales, Colombia"
+ },
+ {
+   "IATA": "MJA",
+   "City": "Manja, Madagascar"
+ },
+ {
+   "IATA": "MHG",
+   "City": "Mannheim, Germany"
+ },
+ {
+   "IATA": "MKW",
+   "City": "Manokwari, Indonesia"
+ },
+ {
+   "IATA": "MSE",
+   "City": "Manston, United Kingdom"
+ },
+ {
+   "IATA": "MEC",
+   "City": "Manta, Ecuador"
+ },
+ {
+   "IATA": "MAS",
+   "City": "Manus Island, Papua New Guinea"
+ },
+ {
+   "IATA": "MZO",
+   "City": "Manzanillo, Cuba"
+ },
+ {
+   "IATA": "ZLO",
+   "City": "Manzanillo, Mexico"
+ },
+ {
+   "IATA": "MTS",
+   "City": "Manzini, Swaziland"
+ },
+ {
+   "IATA": "AMO",
+   "City": "Mao, Chad"
+ },
+ {
+   "IATA": "MXS",
+   "City": "Maota Savaii Is, Western Samoa"
+ },
+ {
+   "IATA": "MPM",
+   "City": "Maputo, Mozambique"
+ },
+ {
+   "IATA": "MDQ",
+   "City": "Mar Del Plata, BA, Argentina"
+ },
+ {
+   "IATA": "MRE",
+   "City": "Mara Lodges, Kenya"
+ },
+ {
+   "IATA": "MAB",
+   "City": "Maraba, PA, Brazil"
+ },
+ {
+   "IATA": "MAR",
+   "City": "Maracaibo, Venezuela"
+ },
+ {
+   "IATA": "MYC",
+   "City": "Maracay, Venezuela"
+ },
+ {
+   "IATA": "MEE",
+   "City": "Mare, New Caledonia"
+ },
+ {
+   "IATA": "MGH",
+   "City": "Margate, South Africa"
+ },
+ {
+   "IATA": "MBX",
+   "City": "Maribor, Slovenia"
+ },
+ {
+   "IATA": "MHQ",
+   "City": "Mariehamn, Finland"
+ },
+ {
+   "IATA": "JSU",
+   "City": "Mariitsoq, Greenland"
+ },
+ {
+   "IATA": "MII",
+   "City": "Marilia, SP, Brazil"
+ },
+ {
+   "IATA": "MGF",
+   "City": "Maringa, PR, Brazil"
+ },
+ {
+   "IATA": "MPW",
+   "City": "Mariupol, Ukraine"
+ },
+ {
+   "IATA": "WMN",
+   "City": "Maroantsetra, Madagascar"
+ },
+ {
+   "IATA": "MVR",
+   "City": "Marova, Cameroon"
+ },
+ {
+   "IATA": "MRS",
+   "City": "Marseille, France"
+ },
+ {
+   "IATA": "MHH",
+   "City": "Marsh Harbour, Bahamas"
+ },
+ {
+   "IATA": "MUR",
+   "City": "Marudi, Malaysia"
+ },
+ {
+   "IATA": "MBH",
+   "City": "Maryborough, QL, Australia"
+ },
+ {
+   "IATA": "MBT",
+   "City": "Masbate, Philippines"
+ },
+ {
+   "IATA": "MSU",
+   "City": "Maseru, Lesotho"
+ },
+ {
+   "IATA": "MHD",
+   "City": "Mashad, Iran"
+ },
+ {
+   "IATA": "MAM",
+   "City": "Matamoros, Mexico"
+ },
+ {
+   "IATA": "AMI",
+   "City": "Mataram, Indonesia"
+ },
+ {
+   "IATA": "MMJ",
+   "City": "Matsumoto, Japan"
+ },
+ {
+   "IATA": "MYJ",
+   "City": "Matsuyama, Japan"
+ },
+ {
+   "IATA": "MUN",
+   "City": "Maturin, Venezuela"
+ },
+ {
+   "IATA": "MUK",
+   "City": "Mauke Island, Cook Islands"
+ },
+ {
+   "IATA": "MNU",
+   "City": "Maulmyine, Myanmar"
+ },
+ {
+   "IATA": "MOF",
+   "City": "Maumere, Indonesia"
+ },
+ {
+   "IATA": "MUB",
+   "City": "Maun, Botswana"
+ },
+ {
+   "IATA": "MAU",
+   "City": "Maupiti, French Polynesia"
+ },
+ {
+   "IATA": "MRU",
+   "City": "Mauritius, Mauritius"
+ },
+ {
+   "IATA": "MYG",
+   "City": "Mayaguana, Bahamas"
+ },
+ {
+   "IATA": "MAZ",
+   "City": "Mayaguez, Puerto Rico"
+ },
+ {
+   "IATA": "MZT",
+   "City": "Mazatlan, Mexico"
+ },
+ {
+   "IATA": "MDK",
+   "City": "Mbandaka, Congo"
+ },
+ {
+   "IATA": "MJM",
+   "City": "Mbuji Mayi, Congo"
+ },
+ {
+   "IATA": "MCV",
+   "City": "Mcarthur River, NT, Australia"
+ },
+ {
+   "IATA": "MES",
+   "City": "Medan, Indonesia"
+ },
+ {
+   "IATA": "EOH",
+   "City": "Medellin, Colombia - Enrique Olaya Herrera"
+ },
+ {
+   "IATA": "MDE",
+   "City": "Medellin, Colombia - Jose Marie Cordova"
+ },
+ {
+   "IATA": "MKR",
+   "City": "Meekatharra, WA, Australia"
+ },
+ {
+   "IATA": "MEH",
+   "City": "Mehamn, Norway"
+ },
+ {
+   "IATA": "MXZ",
+   "City": "Meixian, China"
+ },
+ {
+   "IATA": "MJB",
+   "City": "Mejit Island, Marshall Islands"
+ },
+ {
+   "IATA": "MKS",
+   "City": "Mekane Selam, Ethiopia"
+ },
+ {
+   "IATA": "MEL",
+   "City": "Melbourne, Victoria, Australia"
+ },
+ {
+   "IATA": "MLN",
+   "City": "Melilla, Spain"
+ },
+ {
+   "IATA": "MMB",
+   "City": "Memanbetsu, Japan"
+ },
+ {
+   "IATA": "NDM",
+   "City": "Mendi, Ethiopia"
+ },
+ {
+   "IATA": "MDU",
+   "City": "Mendi, Papua New Guinea"
+ },
+ {
+   "IATA": "MDZ",
+   "City": "Mendoza, MD, Argentina"
+ },
+ {
+   "IATA": "MAH",
+   "City": "Menorca, Spain"
+ },
+ {
+   "IATA": "MYX",
+   "City": "Menyamya, Papua New Guinea"
+ },
+ {
+   "IATA": "MKQ",
+   "City": "Merauke, Indonesia"
+ },
+ {
+   "IATA": "MWE",
+   "City": "Merave, Sudan"
+ },
+ {
+   "IATA": "RDE",
+   "City": "Merdey, Indonesia"
+ },
+ {
+   "IATA": "MID",
+   "City": "Merida, Mexico"
+ },
+ {
+   "IATA": "MRD",
+   "City": "Merida, Venezuela"
+ },
+ {
+   "IATA": "MIM",
+   "City": "Merimbula, NS, Australia"
+ },
+ {
+   "IATA": "MUH",
+   "City": "Mersa Matruh, Egypt"
+ },
+ {
+   "IATA": "ETZ",
+   "City": "Metz/Nancy, France"
+ },
+ {
+   "IATA": "MXL",
+   "City": "Mexicali, Mexico"
+ },
+ {
+   "IATA": "MEX",
+   "City": "Mexico City, Mexico"
+ },
+ {
+   "IATA": "MFU",
+   "City": "Mfume, Zambia"
+ },
+ {
+   "IATA": "ZVA",
+   "City": "Miandrivazo, Madagascar"
+ },
+ {
+   "IATA": "MDS",
+   "City": "Middle Caicos, Turks and Caicos"
+ },
+ {
+   "IATA": "MDY",
+   "City": "Midway Island, US Minor Outlying Islands"
+ },
+ {
+   "IATA": "MIK",
+   "City": "Mikkeli, Finland"
+ },
+ {
+   "IATA": "JMK",
+   "City": "Mikonos, Greece"
+ },
+ {
+   "IATA": "LIN",
+   "City": "Milan, Italy - Linate"
+ },
+ {
+   "IATA": "MXP",
+   "City": "Milan, Italy - Malpensa"
+ },
+ {
+   "IATA": "BGY",
+   "City": "Milan, Italy - Orio Al Serio"
+ },
+ {
+   "IATA": "PMF",
+   "City": "Milan, Italy - Parma"
+ },
+ {
+   "IATA": "MQL",
+   "City": "Mildura, VI, Australia"
+ },
+ {
+   "IATA": "MIJ",
+   "City": "Mili Island, Marshall Islands"
+ },
+ {
+   "IATA": "MGT",
+   "City": "Milingimbi, NT, Australia"
+ },
+ {
+   "IATA": "MMD",
+   "City": "Minami Daito, Japan"
+ },
+ {
+   "IATA": "MTT",
+   "City": "Minatitla, Mexico"
+ },
+ {
+   "IATA": "MDP",
+   "City": "Mindiptana, Indonesia"
+ },
+ {
+   "IATA": "MRV",
+   "City": "Mineralnye Vody, Russia"
+ },
+ {
+   "IATA": "MHP",
+   "City": "Minsk, Belarus - Minsk International 1"
+ },
+ {
+   "IATA": "MSQ",
+   "City": "Minsk, Belarus - Minsk International 2"
+ },
+ {
+   "IATA": "MYY",
+   "City": "Miri, Malaysia"
+ },
+ {
+   "IATA": "MJZ",
+   "City": "Mirnyj, Russia"
+ },
+ {
+   "IATA": "MSJ",
+   "City": "Misawa, Japan"
+ },
+ {
+   "IATA": "MIS",
+   "City": "Misima Island, Papua New Guinea"
+ },
+ {
+   "IATA": "MRA",
+   "City": "Misurata, Libya"
+ },
+ {
+   "IATA": "MOI",
+   "City": "Mitiaro Island, Cook Islands"
+ },
+ {
+   "IATA": "MYE",
+   "City": "MiyakeJima, Japan"
+ },
+ {
+   "IATA": "MMY",
+   "City": "Miyako Jima, Japan"
+ },
+ {
+   "IATA": "MTF",
+   "City": "Mizan Teferi, Ethiopia"
+ },
+ {
+   "IATA": "MQN",
+   "City": "Mo I Rana, Norway"
+ },
+ {
+   "IATA": "MOA",
+   "City": "Moa, Cuba"
+ },
+ {
+   "IATA": "MFJ",
+   "City": "Moala, Fiji"
+ },
+ {
+   "IATA": "ONI",
+   "City": "Moanamani, Indonesia"
+ },
+ {
+   "IATA": "MNB",
+   "City": "Moanda, Congo"
+ },
+ {
+   "IATA": "MFF",
+   "City": "Moanda, Gabon"
+ },
+ {
+   "IATA": "MGQ",
+   "City": "Mogadishu, Somalia"
+ },
+ {
+   "IATA": "MJD",
+   "City": "Mohenjodaro, Denmark"
+ },
+ {
+   "IATA": "MPK",
+   "City": "Mokpo, South Korea"
+ },
+ {
+   "IATA": "OKU",
+   "City": "Mokuti Lodge, Namibia"
+ },
+ {
+   "IATA": "MOL",
+   "City": "Molde, Norway"
+ },
+ {
+   "IATA": "MBA",
+   "City": "Mombasa, Kenya"
+ },
+ {
+   "IATA": "MIR",
+   "City": "Monastir, Tunisia"
+ },
+ {
+   "IATA": "MBE",
+   "City": "Monbetsu, Japan"
+ },
+ {
+   "IATA": "LOV",
+   "City": "Monclova, Mexico"
+ },
+ {
+   "IATA": "MJK",
+   "City": "Monkey Mia, WA, Australia"
+ },
+ {
+   "IATA": "MNY",
+   "City": "Mono, Solomon Islands"
+ },
+ {
+   "IATA": "ROB",
+   "City": "Monrovia, Liberia"
+ },
+ {
+   "IATA": "MCM",
+   "City": "Monte Carlo, Monaco"
+ },
+ {
+   "IATA": "MEU",
+   "City": "Monte Dourado, PA, Brazil"
+ },
+ {
+   "IATA": "MBJ",
+   "City": "Montego Bay, Jamaica"
+ },
+ {
+   "IATA": "MTR",
+   "City": "Monteria, Colombia"
+ },
+ {
+   "IATA": "MTY",
+   "City": "Monterrey, Mexico"
+ },
+ {
+   "IATA": "MOC",
+   "City": "Montes Claros, MG, Brazil"
+ },
+ {
+   "IATA": "MVD",
+   "City": "Montevideo, Uruguay"
+ },
+ {
+   "IATA": "MPL",
+   "City": "Montpellier, France"
+ },
+ {
+   "IATA": "MNI",
+   "City": "Montserrat, Montserrat"
+ },
+ {
+   "IATA": "MOZ",
+   "City": "Moorea, French Polynesia"
+ },
+ {
+   "IATA": "MZI",
+   "City": "Mopti, Mali"
+ },
+ {
+   "IATA": "MXX",
+   "City": "Mora, Sweden"
+ },
+ {
+   "IATA": "TVA",
+   "City": "Morafenobe, Madagascar"
+ },
+ {
+   "IATA": "MXM",
+   "City": "Morambe, Madagascar"
+ },
+ {
+   "IATA": "MOV",
+   "City": "Moranbah, QL, Australia"
+ },
+ {
+   "IATA": "MRZ",
+   "City": "Moree, NS, Australia"
+ },
+ {
+   "IATA": "MLM",
+   "City": "Morelia, Mexico"
+ },
+ {
+   "IATA": "HNA",
+   "City": "Morioka, Japan"
+ },
+ {
+   "IATA": "ONG",
+   "City": "Mornington, QL, Australia"
+ },
+ {
+   "IATA": "MXH",
+   "City": "Moro, Papua New Guinea"
+ },
+ {
+   "IATA": "MOQ",
+   "City": "Morondava, Madagascar"
+ },
+ {
+   "IATA": "HAH",
+   "City": "Moroni, Comoros"
+ },
+ {
+   "IATA": "MYA",
+   "City": "Moruya, NS, Australia"
+ },
+ {
+   "IATA": "MOW",
+   "City": "Moscow, Russia - all locations"
+ },
+ {
+   "IATA": "BKA",
+   "City": "Moscow, Russia - Bykovo"
+ },
+ {
+   "IATA": "DME",
+   "City": "Moscow, Russia - Domodedovo"
+ },
+ {
+   "IATA": "SVO",
+   "City": "Moscow, Russia - Sheremetyevo"
+ },
+ {
+   "IATA": "VKO",
+   "City": "Moscow, Russia - Vnukovo"
+ },
+ {
+   "IATA": "MJF",
+   "City": "Mosjoen, Norway"
+ },
+ {
+   "IATA": "OMO",
+   "City": "Mostar, Bosnia and Herzegovina"
+ },
+ {
+   "IATA": "MTV",
+   "City": "Mota Lava, Vanuatu"
+ },
+ {
+   "IATA": "MJL",
+   "City": "Mouila, Gabon"
+ },
+ {
+   "IATA": "MON",
+   "City": "Mount Cook, New Zealand"
+ },
+ {
+   "IATA": "MGB",
+   "City": "Mount Gambier, SA, Australia"
+ },
+ {
+   "IATA": "HGU",
+   "City": "Mount Hagen, Papua New Guinea"
+ },
+ {
+   "IATA": "MHU",
+   "City": "Mount Hotham, VI, Australia"
+ },
+ {
+   "IATA": "ISA",
+   "City": "Mount Isa, Australia"
+ },
+ {
+   "IATA": "WME",
+   "City": "Mount Keith, WA, Australia"
+ },
+ {
+   "IATA": "MMG",
+   "City": "Mount Magnet, WA, Australia"
+ },
+ {
+   "IATA": "MPN",
+   "City": "Mount Pleasant, Falkland Islands"
+ },
+ {
+   "IATA": "MPA",
+   "City": "Mpacha, Namibia"
+ },
+ {
+   "IATA": "MYW",
+   "City": "Mtwara, Tanzania"
+ },
+ {
+   "IATA": "MVS",
+   "City": "Mucuri, BA, Brazil"
+ },
+ {
+   "IATA": "MDG",
+   "City": "Mudanjiang, China"
+ },
+ {
+   "IATA": "DGE",
+   "City": "Mudgee, Australia"
+ },
+ {
+   "IATA": "FMO",
+   "City": "Muenster, Germany"
+ },
+ {
+   "IATA": "MKM",
+   "City": "Mukan, Malaysia"
+ },
+ {
+   "IATA": "MLH",
+   "City": "Mulhouse, France"
+ },
+ {
+   "IATA": "LII",
+   "City": "Mulia, Indonesia"
+ },
+ {
+   "IATA": "MUX",
+   "City": "Multan, Pakistan"
+ },
+ {
+   "IATA": "MZV",
+   "City": "Mulu, Malaysia"
+ },
+ {
+   "IATA": "BOM",
+   "City": "Mumbai, India"
+ },
+ {
+   "IATA": "MUA",
+   "City": "Munda, Solomon Islands"
+ },
+ {
+   "IATA": "MUC",
+   "City": "Munich, Germany"
+ },
+ {
+   "IATA": "MJV",
+   "City": "Murcia, Spain"
+ },
+ {
+   "IATA": "MMK",
+   "City": "Murmansk, Russia"
+ },
+ {
+   "IATA": "MYI",
+   "City": "Murray Island, QL, Australia"
+ },
+ {
+   "IATA": "MSR",
+   "City": "Mus, Turkey"
+ },
+ {
+   "IATA": "MCT",
+   "City": "Muscat, Oman"
+ },
+ {
+   "IATA": "MUZ",
+   "City": "Musoma, Tanzania"
+ },
+ {
+   "IATA": "MFG",
+   "City": "Muzaffarabad, Pakistan"
+ },
+ {
+   "IATA": "MWZ",
+   "City": "Mwanza, Tanzania"
+ },
+ {
+   "IATA": "MGZ",
+   "City": "Myeik, Myanmar"
+ },
+ {
+   "IATA": "MYT",
+   "City": "Myitkyina, Myanmar"
+ },
+ {
+   "IATA": "MJT",
+   "City": "Mytilene, Greece"
+ },
+ {
+   "IATA": "ZZU",
+   "City": "Mzuzu, Malawi"
+ },
+ {
+   "IATA": "NBX",
+   "City": "Nabire, Indonesia"
+ },
+ {
+   "IATA": "MNC",
+   "City": "Nacala, Mozambique"
+ },
+ {
+   "IATA": "NDR",
+   "City": "Nadar, Morocco"
+ },
+ {
+   "IATA": "NAN",
+   "City": "Nadi, Fiji"
+ },
+ {
+   "IATA": "NYM",
+   "City": "Nadym, Russia"
+ },
+ {
+   "IATA": "WNP",
+   "City": "Naga, Philippines"
+ },
+ {
+   "IATA": "NGS",
+   "City": "Nagasaki, Japan"
+ },
+ {
+   "IATA": "NGO",
+   "City": "Nagoya, Japan"
+ },
+ {
+   "IATA": "NAG",
+   "City": "Nagpur, India"
+ },
+ {
+   "IATA": "NBO",
+   "City": "Nairobi, Kenya - Jomo Kenyatta Intl"
+ },
+ {
+   "IATA": "WIL",
+   "City": "Nairobi, Kenya - Wilson"
+ },
+ {
+   "IATA": "NAJ",
+   "City": "Nakhichevan, Azerbaijan"
+ },
+ {
+   "IATA": "NAK",
+   "City": "Nakhon Ratchosima, Thailand"
+ },
+ {
+   "IATA": "NST",
+   "City": "Nakhon Si Thammarat, Thailand"
+ },
+ {
+   "IATA": "NAL",
+   "City": "Nalchik, Russia"
+ },
+ {
+   "IATA": "NMA",
+   "City": "Namangan, Uzbekistan"
+ },
+ {
+   "IATA": "ATN",
+   "City": "Namatana, Papua New Guinea"
+ },
+ {
+   "IATA": "NDK",
+   "City": "Namorik Island, Marshall Islands"
+ },
+ {
+   "IATA": "APL",
+   "City": "Nampula, Mozambique"
+ },
+ {
+   "IATA": "OSY",
+   "City": "Namsos, Norway"
+ },
+ {
+   "IATA": "NDI",
+   "City": "Namudi, Papua New Guinea"
+ },
+ {
+   "IATA": "NNT",
+   "City": "Nan, Thailand"
+ },
+ {
+   "IATA": "NAO",
+   "City": "Nanchong, China"
+ },
+ {
+   "IATA": "NKG",
+   "City": "Nanking/Nanjing, China"
+ },
+ {
+   "IATA": "NNG",
+   "City": "Nanning, China"
+ },
+ {
+   "IATA": "JNN",
+   "City": "Nanortalik, Greenland"
+ },
+ {
+   "IATA": "NTE",
+   "City": "Nantes, France - Nantes Atlantique"
+ },
+ {
+   "IATA": "QJZ",
+   "City": "Nantes, France - Rail service"
+ },
+ {
+   "IATA": "NTG",
+   "City": "Nantong, China"
+ },
+ {
+   "IATA": "NNY",
+   "City": "Nanyang, China"
+ },
+ {
+   "IATA": "NYK",
+   "City": "Nanyuki, Kenya"
+ },
+ {
+   "IATA": "NPE",
+   "City": "Napier-Hastings, New Zealand"
+ },
+ {
+   "IATA": "NAP",
+   "City": "Naples, Italy"
+ },
+ {
+   "IATA": "NAW",
+   "City": "Narathiwat, Thailand"
+ },
+ {
+   "IATA": "NAA",
+   "City": "Narrabri, NS, Australia"
+ },
+ {
+   "IATA": "JNS",
+   "City": "Narsaq, Greenland"
+ },
+ {
+   "IATA": "UAK",
+   "City": "Narsarsuaq, Greenland"
+ },
+ {
+   "IATA": "NVK",
+   "City": "Narvik, Norway"
+ },
+ {
+   "IATA": "NNM",
+   "City": "Naryan-Mar, Russia"
+ },
+ {
+   "IATA": "NAS",
+   "City": "Nassau, Bahamas - International"
+ },
+ {
+   "IATA": "PID",
+   "City": "Nassau, Bahamas - Paradise Island"
+ },
+ {
+   "IATA": "MAT",
+   "City": "Natadi, Congo"
+ },
+ {
+   "IATA": "NAT",
+   "City": "Natal, RN, Brazil"
+ },
+ {
+   "IATA": "INU",
+   "City": "Nauru Island, Nauru"
+ },
+ {
+   "IATA": "NVT",
+   "City": "Navegantes, SC, Brazil"
+ },
+ {
+   "IATA": "WNS",
+   "City": "Nawabshah, Pakistan"
+ },
+ {
+   "IATA": "NUX",
+   "City": "NayUrengoy, Russia"
+ },
+ {
+   "IATA": "NDJ",
+   "City": "Ndjamena, Chad"
+ },
+ {
+   "IATA": "NLA",
+   "City": "Ndola, Zambia"
+ },
+ {
+   "IATA": "CNP",
+   "City": "Neerlerit Inaat, Greenland"
+ },
+ {
+   "IATA": "NFG",
+   "City": "Nefteyugansk, Russia"
+ },
+ {
+   "IATA": "EGL",
+   "City": "Neghelli, Ethiopia"
+ },
+ {
+   "IATA": "NEG",
+   "City": "Negril, Jamaica"
+ },
+ {
+   "IATA": "NVA",
+   "City": "Neiva, Colombia"
+ },
+ {
+   "IATA": "EAM",
+   "City": "Nejran, Saudi Arabia"
+ },
+ {
+   "IATA": "NSN",
+   "City": "Nelso, New Zealand"
+ },
+ {
+   "IATA": "NLP",
+   "City": "Nelspruit, South Africa"
+ },
+ {
+   "IATA": "EMN",
+   "City": "Nema, Mauritania"
+ },
+ {
+   "IATA": "NER",
+   "City": "Neryjungri, Russia"
+ },
+ {
+   "IATA": "NQN",
+   "City": "Neuquen, NE, Argentina"
+ },
+ {
+   "IATA": "NEV",
+   "City": "Nevis, St. Kitts and Nevis"
+ },
+ {
+   "IATA": "GON",
+   "City": "New London/Groton"
+ },
+ {
+   "IATA": "NPL",
+   "City": "New Plymouth, New Zealand"
+ },
+ {
+   "IATA": "BEO",
+   "City": "Newcastle, New South Wales, Australia - Belmont"
+ },
+ {
+   "IATA": "NTL",
+   "City": "Newcastle, New South Wales, Australia"
+ },
+ {
+   "IATA": "NCL",
+   "City": "Newcastle, United Kingdom"
+ },
+ {
+   "IATA": "ZNE",
+   "City": "Newman, WA, Australia"
+ },
+ {
+   "IATA": "NQY",
+   "City": "Newquay, United Kingdom"
+ },
+ {
+   "IATA": "NGE",
+   "City": "Ngaoundere, Cameroon"
+ },
+ {
+   "IATA": "NGI",
+   "City": "Ngau Island, Fiji"
+ },
+ {
+   "IATA": "RPM",
+   "City": "Ngukurr, NT, Australia"
+ },
+ {
+   "IATA": "NHA",
+   "City": "Nha Trang, Viet Nam"
+ },
+ {
+   "IATA": "NIM",
+   "City": "Niamey, Niger"
+ },
+ {
+   "IATA": "NCE",
+   "City": "Nice, France"
+ },
+ {
+   "IATA": "NIC",
+   "City": "Nicosia, Cyprus"
+ },
+ {
+   "IATA": "FNI",
+   "City": "Nimes, France"
+ },
+ {
+   "IATA": "NGB",
+   "City": "Ningbo, China"
+ },
+ {
+   "IATA": "NIX",
+   "City": "Nioko, Congo"
+ },
+ {
+   "IATA": "NFO",
+   "City": "Niuafo'ou, Tonga"
+ },
+ {
+   "IATA": "NTT",
+   "City": "Niuatoputapu, Tonga"
+ },
+ {
+   "IATA": "IUE",
+   "City": "Niue Island, Niue"
+ },
+ {
+   "IATA": "NJC",
+   "City": "Nizhnevartovsk, Russia"
+ },
+ {
+   "IATA": "GOJ",
+   "City": "Nizhniy Novgorod, Russia"
+ },
+ {
+   "IATA": "NOJ",
+   "City": "Nojabrxsk, Russia"
+ },
+ {
+   "IATA": "NRD",
+   "City": "Norderney, Germany"
+ },
+ {
+   "IATA": "NDZ",
+   "City": "Nordholz-Speika, Germany"
+ },
+ {
+   "IATA": "NLK",
+   "City": "Norfolk Island, Norfolk Island"
+ },
+ {
+   "IATA": "NSK",
+   "City": "Noril'sk, Russia"
+ },
+ {
+   "IATA": "NTN",
+   "City": "Normanton, QL, Australia"
+ },
+ {
+   "IATA": "NRK",
+   "City": "Norrkoping, Sweden"
+ },
+ {
+   "IATA": "NUS",
+   "City": "Norsup, Vanuatu"
+ },
+ {
+   "IATA": "NCA",
+   "City": "North Caicos, Turks and Caicos Islands"
+ },
+ {
+   "IATA": "ELH",
+   "City": "North Eleuthera, Bahamas"
+ },
+ {
+   "IATA": "NRL",
+   "City": "North Ronaldsay, United Kingdom"
+ },
+ {
+   "IATA": "NWI",
+   "City": "Norwich, United Kingdom"
+ },
+ {
+   "IATA": "NOB",
+   "City": "Nosara Beach, Costa Rica"
+ },
+ {
+   "IATA": "NOS",
+   "City": "Nossi-be, Madagascar"
+ },
+ {
+   "IATA": "EMA",
+   "City": "Nottingham, United Kingdom"
+ },
+ {
+   "IATA": "NDB",
+   "City": "Nouadhiba, Mauritania"
+ },
+ {
+   "IATA": "NKC",
+   "City": "Nouakchott, Mauritania"
+ },
+ {
+   "IATA": "GEA",
+   "City": "Noumea, New Caledonia - Magenta"
+ },
+ {
+   "IATA": "NOU",
+   "City": "Noumea, New Caledonia - Tontouta"
+ },
+ {
+   "IATA": "NVR",
+   "City": "Novgorod, Russia"
+ },
+ {
+   "IATA": "NOZ",
+   "City": "Novokuznetsk, Russia"
+ },
+ {
+   "IATA": "OVB",
+   "City": "Novosibirsk, Russia - Tolmachevo"
+ },
+ {
+   "IATA": "GER",
+   "City": "Nueva Gerona, Cuba"
+ },
+ {
+   "IATA": "NLD",
+   "City": "Nuevo Laredo, Mexico"
+ },
+ {
+   "IATA": "NHV",
+   "City": "Nuku Hiva, French Polynesia"
+ },
+ {
+   "IATA": "TBU",
+   "City": "Nuku'Alofa, Tonga"
+ },
+ {
+   "IATA": "NCU",
+   "City": "Nukus, Uzbekistan"
+ },
+ {
+   "IATA": "NUB",
+   "City": "Numbulwar, NT, Australia"
+ },
+ {
+   "IATA": "NNX",
+   "City": "Nunukan, Indonesia"
+ },
+ {
+   "IATA": "ZAQ",
+   "City": "Nuremberg, Germany - Rail service"
+ },
+ {
+   "IATA": "NUE",
+   "City": "Nuremberg, Germany"
+ },
+ {
+   "IATA": "GOH",
+   "City": "Nuuk, Greenland"
+ },
+ {
+   "IATA": "UYL",
+   "City": "Nyala, Sudan"
+ },
+ {
+   "IATA": "NYU",
+   "City": "Nyaung, Myanmar"
+ },
+ {
+   "IATA": "NYN",
+   "City": "Nyngan, NS, Australia"
+ },
+ {
+   "IATA": "OAX",
+   "City": "Oaxaca, Mexico"
+ },
+ {
+   "IATA": "OBD",
+   "City": "Obano, Indonesia"
+ },
+ {
+   "IATA": "OBO",
+   "City": "Obihiro, Japan"
+ },
+ {
+   "IATA": "OCJ",
+   "City": "Ocho Rios, Jamaica"
+ },
+ {
+   "IATA": "ZBQ",
+   "City": "Odense, Denmark"
+ },
+ {
+   "IATA": "ODS",
+   "City": "Odessa, Ukraine"
+ },
+ {
+   "IATA": "OHD",
+   "City": "Ohrid, Macedonia"
+ },
+ {
+   "IATA": "OIT",
+   "City": "Oita, Japan"
+ },
+ {
+   "IATA": "OKQ",
+   "City": "Okaba, Indonedia"
+ },
+ {
+   "IATA": "OKJ",
+   "City": "Okayama, Japan"
+ },
+ {
+   "IATA": "OHO",
+   "City": "Okhotsk, Russia"
+ },
+ {
+   "IATA": "OKA",
+   "City": "Okinawa, Japan"
+ },
+ {
+   "IATA": "OIR",
+   "City": "Okoshiri, Japan"
+ },
+ {
+   "IATA": "OKL",
+   "City": "Oksibil, Indonesia"
+ },
+ {
+   "IATA": "OLB",
+   "City": "Olbia, Italy"
+ },
+ {
+   "IATA": "OLJ",
+   "City": "Olpoi, Vanuatu"
+ },
+ {
+   "IATA": "OLP",
+   "City": "Olympic Dam, SA, Australia"
+ },
+ {
+   "IATA": "OMB",
+   "City": "Omboue, Gabon"
+ },
+ {
+   "IATA": "OMS",
+   "City": "Omsk, Russia"
+ },
+ {
+   "IATA": "OND",
+   "City": "Ondangwa, Namibia"
+ },
+ {
+   "IATA": "OMR",
+   "City": "Oradea, Romania"
+ },
+ {
+   "IATA": "ORN",
+   "City": "Oran, Algeria"
+ },
+ {
+   "IATA": "OAG",
+   "City": "Orange, New South Wales, Australia"
+ },
+ {
+   "IATA": "OMD",
+   "City": "Oranjemund, Namibia"
+ },
+ {
+   "IATA": "ORB",
+   "City": "Orebro, Sweeden - Obrebro-Bofors"
+ },
+ {
+   "IATA": "REN",
+   "City": "Orenburg, Russia"
+ },
+ {
+   "IATA": "ORW",
+   "City": "Ormara, Pakistan"
+ },
+ {
+   "IATA": "OER",
+   "City": "Ornskoldsvik, Sweden"
+ },
+ {
+   "IATA": "OSW",
+   "City": "Orsk, Russia"
+ },
+ {
+   "IATA": "HOV",
+   "City": "Orsta-Volda, Norway"
+ },
+ {
+   "IATA": "OSA",
+   "City": "Osaka, Japan - all airports"
+ },
+ {
+   "IATA": "ITM",
+   "City": "Osaka, Japan - Itami"
+ },
+ {
+   "IATA": "KIX",
+   "City": "Osaka, Japan - Kansai Intl"
+ },
+ {
+   "IATA": "OIM",
+   "City": "Oshima, Japan"
+ },
+ {
+   "IATA": "OSI",
+   "City": "Osijek, Croatia"
+ },
+ {
+   "IATA": "OSK",
+   "City": "Oskarshamn, Sweden"
+ },
+ {
+   "IATA": "TRF",
+   "City": "Oslo, Norway - Sandefjord"
+ },
+ {
+   "IATA": "OSL",
+   "City": "Oslo, Norway"
+ },
+ {
+   "IATA": "OSD",
+   "City": "Ostersund, Sweden"
+ },
+ {
+   "IATA": "OSR",
+   "City": "Ostrava, Czech Republic"
+ },
+ {
+   "IATA": "OTU",
+   "City": "Otu, Colombia"
+ },
+ {
+   "IATA": "OUA",
+   "City": "Ouagadougou, Burkina Faso"
+ },
+ {
+   "IATA": "OGX",
+   "City": "Ouargla, Algeria"
+ },
+ {
+   "IATA": "OZZ",
+   "City": "Ouarzazate, Morocco"
+ },
+ {
+   "IATA": "ODY",
+   "City": "Oudomxay, Laos"
+ },
+ {
+   "IATA": "OUD",
+   "City": "Oujda, Morocco"
+ },
+ {
+   "IATA": "OUL",
+   "City": "Oulu, Finland"
+ },
+ {
+   "IATA": "UVE",
+   "City": "Ouvea, New Caledonia"
+ },
+ {
+   "IATA": "VDA",
+   "City": "Ovda, Israel"
+ },
+ {
+   "IATA": "OYE",
+   "City": "Oyem, Gabon"
+ },
+ {
+   "IATA": "PBJ",
+   "City": "Paama, Vanuatu"
+ },
+ {
+   "IATA": "JFR",
+   "City": "Paamiut, Greenland"
+ },
+ {
+   "IATA": "PDG",
+   "City": "Padang, Indonesia"
+ },
+ {
+   "IATA": "PAD",
+   "City": "Paderborn, Germany"
+ },
+ {
+   "IATA": "PPG",
+   "City": "Pago Pago, American Samoa"
+ },
+ {
+   "IATA": "PKZ",
+   "City": "Pakse, Laos"
+ },
+ {
+   "IATA": "PAF",
+   "City": "Pakuba, Uganda"
+ },
+ {
+   "IATA": "PCH",
+   "City": "Palacios, Honduras"
+ },
+ {
+   "IATA": "PKY",
+   "City": "Palang Karaya, Indonesia"
+ },
+ {
+   "IATA": "PLQ",
+   "City": "Palanga, Lithuania"
+ },
+ {
+   "IATA": "PLM",
+   "City": "Palembang, Indonesia"
+ },
+ {
+   "IATA": "PQM",
+   "City": "Palenque, Mexico"
+ },
+ {
+   "IATA": "PMO",
+   "City": "Palermo, Sicily, Italy"
+ },
+ {
+   "IATA": "PMI",
+   "City": "Palma Mallorca, Spain and Canary Islands"
+ },
+ {
+   "IATA": "PMZ",
+   "City": "Palmar, Costa Rica"
+ },
+ {
+   "IATA": "PMW",
+   "City": "Palmas, TO, Brazil"
+ },
+ {
+   "IATA": "PMR",
+   "City": "Palmerston North, New Zealand"
+ },
+ {
+   "IATA": "PLW",
+   "City": "Palu, Indonesia"
+ },
+ {
+   "IATA": "PNA",
+   "City": "Pamplona, Spain"
+ },
+ {
+   "IATA": "PAC",
+   "City": "Panama City, Panama - Paitilla"
+ },
+ {
+   "IATA": "PTY",
+   "City": "Panama City, Panama - Tocumen Intl"
+ },
+ {
+   "IATA": "PKN",
+   "City": "Pangkalanboun, Indonesia"
+ },
+ {
+   "IATA": "PGK",
+   "City": "Pangkalpinang, Indonesia"
+ },
+ {
+   "IATA": "PJG",
+   "City": "Panjger, Pakistan"
+ },
+ {
+   "IATA": "PNL",
+   "City": "Pantelleria, Italy"
+ },
+ {
+   "IATA": "PPW",
+   "City": "Papa Westray, United Kingdom"
+ },
+ {
+   "IATA": "PPT",
+   "City": "Papeete, French Polynesia"
+ },
+ {
+   "IATA": "PFO",
+   "City": "Paphos, Cyprus"
+ },
+ {
+   "IATA": "PAJ",
+   "City": "Para Chinar, Pakistan"
+ },
+ {
+   "IATA": "PBO",
+   "City": "Paraburdoo, WA, Australia"
+ },
+ {
+   "IATA": "PID",
+   "City": "Paradise Island, Bahamas"
+ },
+ {
+   "IATA": "PBM",
+   "City": "Paramaribo, Suriname - Zanderij Intl"
+ },
+ {
+   "IATA": "ORG",
+   "City": "Paramaribo, Suriname - Zorg En Hoop"
+ },
+ {
+   "IATA": "PRA",
+   "City": "Parana, ER, Argentina"
+ },
+ {
+   "IATA": "PRS",
+   "City": "Parasi, Solomon Islands"
+ },
+ {
+   "IATA": "PAR",
+   "City": "Paris, France - All airports"
+ },
+ {
+   "IATA": "BVA",
+   "City": "Paris, France - Beauvais-Tille"
+ },
+ {
+   "IATA": "CDG",
+   "City": "Paris, France - Charles Degaulle"
+ },
+ {
+   "IATA": "ORY",
+   "City": "Paris, France - Orly"
+ },
+ {
+   "IATA": "PMF",
+   "City": "Parma/Milan, Italy"
+ },
+ {
+   "IATA": "PHB",
+   "City": "Parnaiba, PI, Brazil"
+ },
+ {
+   "IATA": "PBH",
+   "City": "Paro, Bhutan"
+ },
+ {
+   "IATA": "PSI",
+   "City": "Pasni, Pakistan"
+ },
+ {
+   "IATA": "AOL",
+   "City": "Paso de Los Libres, Argentina"
+ },
+ {
+   "IATA": "PFB",
+   "City": "Passo Fundo, RS, Brazil"
+ },
+ {
+   "IATA": "PSO",
+   "City": "Pasto, Colombia"
+ },
+ {
+   "IATA": "PAT",
+   "City": "Patna, India"
+ },
+ {
+   "IATA": "GPA",
+   "City": "Patras, Greece"
+ },
+ {
+   "IATA": "PUF",
+   "City": "Pau, France"
+ },
+ {
+   "IATA": "PWQ",
+   "City": "Pavlodar, Kazakhstan"
+ },
+ {
+   "IATA": "PEX",
+   "City": "Pechora, Russia"
+ },
+ {
+   "IATA": "PKU",
+   "City": "Pekanbaru, Indonesia"
+ },
+ {
+   "IATA": "PET",
+   "City": "Pelotas, RS, Brazil"
+ },
+ {
+   "IATA": "POL",
+   "City": "Pemba, Mozambique"
+ },
+ {
+   "IATA": "PMA",
+   "City": "Pemba, Tanzania - Wawi"
+ },
+ {
+   "IATA": "PEN",
+   "City": "Penang, Malaysia"
+ },
+ {
+   "IATA": "PYE",
+   "City": "Penrhyn Island, Cook Islands"
+ },
+ {
+   "IATA": "PZE",
+   "City": "Penzance, United Kingdom"
+ },
+ {
+   "IATA": "PEI",
+   "City": "Pereira, Colombia"
+ },
+ {
+   "IATA": "PGX",
+   "City": "Perigueux, France"
+ },
+ {
+   "IATA": "PMQ",
+   "City": "Perito Moreno, SC, Argentina"
+ },
+ {
+   "IATA": "PEE",
+   "City": "Perm, Russia"
+ },
+ {
+   "IATA": "PGF",
+   "City": "Perpignan, France"
+ },
+ {
+   "IATA": "PER",
+   "City": "Perth, Western Australia, Australia"
+ },
+ {
+   "IATA": "PEG",
+   "City": "Perugia, Italy"
+ },
+ {
+   "IATA": "PSR",
+   "City": "Pescara, Italy"
+ },
+ {
+   "IATA": "PEW",
+   "City": "Peshawar, Pakistan"
+ },
+ {
+   "IATA": "PNZ",
+   "City": "Petrolina, PE, Brazil"
+ },
+ {
+   "IATA": "PKC",
+   "City": "Petropaulousk-Kamchats, Russia"
+ },
+ {
+   "IATA": "PES",
+   "City": "Petrozavodsk, Russia"
+ },
+ {
+   "IATA": "PHW",
+   "City": "Phalaborwa, South Africa"
+ },
+ {
+   "IATA": "PHS",
+   "City": "Phitsanulok, Thailand"
+ },
+ {
+   "IATA": "PNH",
+   "City": "Phnom Penh, Cambodia"
+ },
+ {
+   "IATA": "PRH",
+   "City": "Phrae, Thailand"
+ },
+ {
+   "IATA": "PQC",
+   "City": "Phu Quoc, Viet Nam - Duong Dang"
+ },
+ {
+   "IATA": "HKT",
+   "City": "Phuket, Thailand"
+ },
+ {
+   "IATA": "PIX",
+   "City": "Pico Island, Portugal"
+ },
+ {
+   "IATA": "PDS",
+   "City": "Piedras Negras, Mexico"
+ },
+ {
+   "IATA": "PZB",
+   "City": "Pietermaritzburg, South Africa"
+ },
+ {
+   "IATA": "PTG",
+   "City": "Pietersburb, South Africa"
+ },
+ {
+   "IATA": "PIF",
+   "City": "Pingtung, Taiwan"
+ },
+ {
+   "IATA": "PSA",
+   "City": "Pisa, Italy - Gal Galilei"
+ },
+ {
+   "IATA": "THU",
+   "City": "Pituffik, Greenland"
+ },
+ {
+   "IATA": "PIU",
+   "City": "Piura, Peru"
+ },
+ {
+   "IATA": "PLJ",
+   "City": "Placencia, Belize"
+ },
+ {
+   "IATA": "PXU",
+   "City": "Pleiku, Viet Nam"
+ },
+ {
+   "IATA": "PBZ",
+   "City": "Plettenburg Bay, South Africa"
+ },
+ {
+   "IATA": "PLH",
+   "City": "Plymouth, United Kingdom"
+ },
+ {
+   "IATA": "TGD",
+   "City": "Podgoriea, Serbia and Montenegro - Golubovci"
+ },
+ {
+   "IATA": "PNI",
+   "City": "Pohnpei, Micronesia"
+ },
+ {
+   "IATA": "PNR",
+   "City": "Pointe Noire, Congo"
+ },
+ {
+   "IATA": "PTP",
+   "City": "Pointe-a-Pitre, Guadeloupe"
+ },
+ {
+   "IATA": "PIS",
+   "City": "Poitiers, France - Biard"
+ },
+ {
+   "IATA": "XOP",
+   "City": "Poitiers, France - Rail service"
+ },
+ {
+   "IATA": "PKR",
+   "City": "Pokhara, Nepal"
+ },
+ {
+   "IATA": "PLV",
+   "City": "Poltava, Ukraine"
+ },
+ {
+   "IATA": "PYJ",
+   "City": "Polyarnyj, Russia"
+ },
+ {
+   "IATA": "PSE",
+   "City": "Ponce, Puerto Rico"
+ },
+ {
+   "IATA": "PDL",
+   "City": "Ponta Delgada, Portugal"
+ },
+ {
+   "IATA": "PMG",
+   "City": "Ponta Pora, MS, Brazil"
+ },
+ {
+   "IATA": "PNK",
+   "City": "Pontianak, Indonesia"
+ },
+ {
+   "IATA": "PNP",
+   "City": "Popondetta, Papua New Guinea"
+ },
+ {
+   "IATA": "TAT",
+   "City": "Popraol/Tatry, Slovakia"
+ },
+ {
+   "IATA": "PBD",
+   "City": "Porbandar, India"
+ },
+ {
+   "IATA": "POR",
+   "City": "Pori, Finland"
+ },
+ {
+   "IATA": "PMV",
+   "City": "Porlamar, Venezuela"
+ },
+ {
+   "IATA": "POT",
+   "City": "Port Antonio, Jamaica"
+ },
+ {
+   "IATA": "PAP",
+   "City": "Port Au Prince, Haiti"
+ },
+ {
+   "IATA": "PUG",
+   "City": "Port Augusta, SA, Australia"
+ },
+ {
+   "IATA": "WPB",
+   "City": "Port Berge, Madagascar"
+ },
+ {
+   "IATA": "IXZ",
+   "City": "Port Blair, India"
+ },
+ {
+   "IATA": "PLZ",
+   "City": "Port Elizabeth, South Africa"
+ },
+ {
+   "IATA": "POG",
+   "City": "Port Gentil, Gabon"
+ },
+ {
+   "IATA": "PHC",
+   "City": "Port Harcourt, Nigeria"
+ },
+ {
+   "IATA": "PHE",
+   "City": "Port Headland, WA, Australia"
+ },
+ {
+   "IATA": "PLO",
+   "City": "Port Lincoln, SA, Australia"
+ },
+ {
+   "IATA": "PQQ",
+   "City": "Port Macquarie, NS, Australia"
+ },
+ {
+   "IATA": "POM",
+   "City": "Port Moresby, Papua New Guinea"
+ },
+ {
+   "IATA": "POS",
+   "City": "Port of Spain, Trinidad"
+ },
+ {
+   "IATA": "PSY",
+   "City": "Port Stanley, Falkland Islands"
+ },
+ {
+   "IATA": "PZU",
+   "City": "Port Sudan, Sudan"
+ },
+ {
+   "IATA": "VLI",
+   "City": "Port Vila, Vanuatu"
+ },
+ {
+   "IATA": "PTJ",
+   "City": "Portland, VI, Australia"
+ },
+ {
+   "IATA": "POA",
+   "City": "Porto Alegre, RS, Brazil"
+ },
+ {
+   "IATA": "PXO",
+   "City": "Porto Santo, Portugal"
+ },
+ {
+   "IATA": "BPS",
+   "City": "Porto Seguro, Brazil"
+ },
+ {
+   "IATA": "PVH",
+   "City": "Porto Velho, RO, Brazil"
+ },
+ {
+   "IATA": "OPO",
+   "City": "Porto, Portugal"
+ },
+ {
+   "IATA": "PVO",
+   "City": "Portoviejo, Ecuador"
+ },
+ {
+   "IATA": "PSS",
+   "City": "Posadas, MI, Argentina"
+ },
+ {
+   "IATA": "PAZ",
+   "City": "Poza Rico, Mexico"
+ },
+ {
+   "IATA": "POZ",
+   "City": "Poznan, Poland"
+ },
+ {
+   "IATA": "PRG",
+   "City": "Prague, Czech Republic"
+ },
+ {
+   "IATA": "RAI",
+   "City": "Praia, Cape Verde"
+ },
+ {
+   "IATA": "PRQ",
+   "City": "Pres. Roque Saenz Pena, CH, Argentina"
+ },
+ {
+   "IATA": "PPB",
+   "City": "Presidente Prudente, SP, Brazil"
+ },
+ {
+   "IATA": "PVK",
+   "City": "Preveza/Lefkas, Greece"
+ },
+ {
+   "IATA": "PRN",
+   "City": "Pristina, Serbia and Montenegro"
+ },
+ {
+   "IATA": "PPP",
+   "City": "Proserpine, QL, Australia"
+ },
+ {
+   "IATA": "PLS",
+   "City": "Providenciales, Turks and Caicos Islands"
+ },
+ {
+   "IATA": "PCL",
+   "City": "Pucallpa, Peru"
+ },
+ {
+   "IATA": "PBC",
+   "City": "Puebla, Mexico"
+ },
+ {
+   "IATA": "PYH",
+   "City": "Puerto Ayacucha, Venezuela"
+ },
+ {
+   "IATA": "PBE",
+   "City": "Puerto Berria, Colombia"
+ },
+ {
+   "IATA": "FUE",
+   "City": "Puerto del Rosario, Spain"
+ },
+ {
+   "IATA": "PUD",
+   "City": "Puerto Deseado, SC, Argentina"
+ },
+ {
+   "IATA": "PXM",
+   "City": "Puerto Escondido, Mexico"
+ },
+ {
+   "IATA": "PJM",
+   "City": "Puerto Jimenez, Costa Rica"
+ },
+ {
+   "IATA": "PEU",
+   "City": "Puerto Lempira, Honduras"
+ },
+ {
+   "IATA": "PMY",
+   "City": "Puerto Madryn, CB, Argentina"
+ },
+ {
+   "IATA": "PEM",
+   "City": "Puerto Maldonado, Peru"
+ },
+ {
+   "IATA": "PMC",
+   "City": "Puerto Montt, Chile"
+ },
+ {
+   "IATA": "PZO",
+   "City": "Puerto Ordaz, Venezuela"
+ },
+ {
+   "IATA": "POP",
+   "City": "Puerto Plata, Dominican Republic"
+ },
+ {
+   "IATA": "PPS",
+   "City": "Puerto Princesa, Philippines"
+ },
+ {
+   "IATA": "PSZ",
+   "City": "Puerto Suarez, Bolivia"
+ },
+ {
+   "IATA": "PVR",
+   "City": "Puerto Vallarta, Mexico"
+ },
+ {
+   "IATA": "PUY",
+   "City": "Pula, Croatia"
+ },
+ {
+   "IATA": "PNQ",
+   "City": "Pune, India"
+ },
+ {
+   "IATA": "PUQ",
+   "City": "Punta Arenas, Chile"
+ },
+ {
+   "IATA": "PUJ",
+   "City": "Punta Cana, Dominican Republic"
+ },
+ {
+   "IATA": "PDP",
+   "City": "Punta Del Este, Uruguay"
+ },
+ {
+   "IATA": "PND",
+   "City": "Punta Gorda, Belize"
+ },
+ {
+   "IATA": "PBP",
+   "City": "Punta Islita, Costa Rica"
+ },
+ {
+   "IATA": "PUT",
+   "City": "Puttaparthi, India"
+ },
+ {
+   "IATA": "PSU",
+   "City": "Putussibau, Indonesia"
+ },
+ {
+   "IATA": "FNJ",
+   "City": "Pyongyang, North Korea"
+ },
+ {
+   "IATA": "AQI",
+   "City": "Qaisumah, Saudi Arabia"
+ },
+ {
+   "IATA": "JJU",
+   "City": "Qaqortoq, Greenland"
+ },
+ {
+   "IATA": "IQM",
+   "City": "Qiemo, China"
+ },
+ {
+   "IATA": "TAO",
+   "City": "Qingdao, China"
+ },
+ {
+   "IATA": "NDG",
+   "City": "Qiqihar, China"
+ },
+ {
+   "IATA": "ZQN",
+   "City": "Queenstown, New Zealand"
+ },
+ {
+   "IATA": "UEL",
+   "City": "Quelimane, Mozambique"
+ },
+ {
+   "IATA": "XQP",
+   "City": "Quepos, Costa Rica"
+ },
+ {
+   "IATA": "QRO",
+   "City": "Queretaro, Mexico"
+ },
+ {
+   "IATA": "UET",
+   "City": "Quetta, Pakistan"
+ },
+ {
+   "IATA": "UIH",
+   "City": "Qui Nhon, Viet Nam"
+ },
+ {
+   "IATA": "UIB",
+   "City": "Quibdo, Colombia"
+ },
+ {
+   "IATA": "UIP",
+   "City": "Quimper, France"
+ },
+ {
+   "IATA": "ULP",
+   "City": "Quipi, QL, Australia"
+ },
+ {
+   "IATA": "UIO",
+   "City": "Quito, Ecuador"
+ },
+ {
+   "IATA": "RBP",
+   "City": "Rabaraba, Papua New Guinea"
+ },
+ {
+   "IATA": "RBA",
+   "City": "Rabat, Morocco"
+ },
+ {
+   "IATA": "RAB",
+   "City": "Rabaul, Papua New Guinea"
+ },
+ {
+   "IATA": "VKG",
+   "City": "Rach Gia, Viet Nam"
+ },
+ {
+   "IATA": "RAT",
+   "City": "Raduzhnyi, Russia"
+ },
+ {
+   "IATA": "RAH",
+   "City": "Rafha, Saudi Arabia"
+ },
+ {
+   "IATA": "RJN",
+   "City": "Rafsanjan, Iran"
+ },
+ {
+   "IATA": "RFP",
+   "City": "Raiatea, French Polynesia"
+ },
+ {
+   "IATA": "RAJ",
+   "City": "Rajkot, India"
+ },
+ {
+   "IATA": "RJH",
+   "City": "Rajshahi, Bangladesh"
+ },
+ {
+   "IATA": "RBV",
+   "City": "Ramato, Solomon Islands"
+ },
+ {
+   "IATA": "RAM",
+   "City": "Ramingining, NT, Australia"
+ },
+ {
+   "IATA": "IXR",
+   "City": "Ranchi, India"
+ },
+ {
+   "IATA": "UNN",
+   "City": "Ranong, Thailand"
+ },
+ {
+   "IATA": "RAR",
+   "City": "Rarotonga, Cook Islands"
+ },
+ {
+   "IATA": "RKT",
+   "City": "Ras Al Khaimah, United Arab Emirates"
+ },
+ {
+   "IATA": "RAS",
+   "City": "Rasht, Iran"
+ },
+ {
+   "IATA": "RBE",
+   "City": "Ratanakiri, Cambodia"
+ },
+ {
+   "IATA": "RAZ",
+   "City": "Rawala Kot, Pakistan"
+ },
+ {
+   "IATA": "RBJ",
+   "City": "Rebun, Japan"
+ },
+ {
+   "IATA": "REC",
+   "City": "Recife, PE, Brazil"
+ },
+ {
+   "IATA": "RCQ",
+   "City": "Reconquista, SF, Argentina"
+ },
+ {
+   "IATA": "REG",
+   "City": "Reggio Calabria, Italy"
+ },
+ {
+   "IATA": "RNL",
+   "City": "Rennell, Solomon Islands"
+ },
+ {
+   "IATA": "RNS",
+   "City": "Rennes, France"
+ },
+ {
+   "IATA": "RES",
+   "City": "Resistencia, CW, Argentina"
+ },
+ {
+   "IATA": "REU",
+   "City": "Reus, Spain and Canary Islands"
+ },
+ {
+   "IATA": "KEF",
+   "City": "Reykjavik, Iceland"
+ },
+ {
+   "IATA": "REX",
+   "City": "Reynossa, Mexico"
+ },
+ {
+   "IATA": "RHO",
+   "City": "Rhodes, Gabon"
+ },
+ {
+   "IATA": "RAO",
+   "City": "Ribeirao Preto, SP, Brazil"
+ },
+ {
+   "IATA": "RIB",
+   "City": "Riberalta, Bolivia"
+ },
+ {
+   "IATA": "RCB",
+   "City": "Richards Bay, South Africa"
+ },
+ {
+   "IATA": "RCM",
+   "City": "Richmond, QL, Australia"
+ },
+ {
+   "IATA": "RIX",
+   "City": "Riga, Latvia"
+ },
+ {
+   "IATA": "RJK",
+   "City": "Rijeka, Croatia"
+ },
+ {
+   "IATA": "RMI",
+   "City": "Rimini, Italy"
+ },
+ {
+   "IATA": "RBR",
+   "City": "Rio Branco, AC, Brazil"
+ },
+ {
+   "IATA": "RCU",
+   "City": "Rio Cuarto, CD, Argentina"
+ },
+ {
+   "IATA": "GIG",
+   "City": "Rio De Janeiro, RJ, Brazil"
+ },
+ {
+   "IATA": "RGL",
+   "City": "Rio Gallegos, Argentina - Internacional"
+ },
+ {
+   "IATA": "RIG",
+   "City": "Rio Grande, RS, Brazil"
+ },
+ {
+   "IATA": "RGA",
+   "City": "Rio Grande, TF, Argentina"
+ },
+ {
+   "IATA": "ROY",
+   "City": "Rio Mayo, CB, Argentina"
+ },
+ {
+   "IATA": "RVD",
+   "City": "Rio Verde, GO, Brazil"
+ },
+ {
+   "IATA": "RCH",
+   "City": "Riohacha, Colombia"
+ },
+ {
+   "IATA": "RIS",
+   "City": "Rishiri, Japan"
+ },
+ {
+   "IATA": "RUH",
+   "City": "Riyadh, Saudi Arabia"
+ },
+ {
+   "IATA": "RIY",
+   "City": "Riyan Mukalla, Yemen"
+ },
+ {
+   "IATA": "RNE",
+   "City": "Roane, France"
+ },
+ {
+   "IATA": "RTB",
+   "City": "Roatan, Honduras"
+ },
+ {
+   "IATA": "VKG",
+   "City": "Roch Gia, Viet Nam"
+ },
+ {
+   "IATA": "RSD",
+   "City": "Rock Sound, Bahamas"
+ },
+ {
+   "IATA": "ROK",
+   "City": "Rockhampton, QL, Australia"
+ },
+ {
+   "IATA": "RDZ",
+   "City": "Rodez, France"
+ },
+ {
+   "IATA": "RRG",
+   "City": "Rodrigues Island, Mauritius"
+ },
+ {
+   "IATA": "RVK",
+   "City": "Roervik, Norway"
+ },
+ {
+   "IATA": "ZXM",
+   "City": "Rognan, Norway"
+ },
+ {
+   "IATA": "RMA",
+   "City": "Roma, QL, Australia"
+ },
+ {
+   "IATA": "ROM",
+   "City": "Rome, Italy - All airports"
+ },
+ {
+   "IATA": "CIA",
+   "City": "Rome, Italy - Ciampino"
+ },
+ {
+   "IATA": "FCO",
+   "City": "Rome, Italy - Leonardo Da Vinci/Fiumicino"
+ },
+ {
+   "IATA": "RNP",
+   "City": "Rongelap Island, Marshall Islands"
+ },
+ {
+   "IATA": "RNB",
+   "City": "Ronneby, Sweden"
+ },
+ {
+   "IATA": "RRS",
+   "City": "Roros, Norway"
+ },
+ {
+   "IATA": "RUR",
+   "City": "Rorutu, French Polynesia"
+ },
+ {
+   "IATA": "ROS",
+   "City": "Rosario, SF, Argentina"
+ },
+ {
+   "IATA": "RPN",
+   "City": "Rosh Pina, Iceland"
+ },
+ {
+   "IATA": "RET",
+   "City": "Rost, Norway"
+ },
+ {
+   "IATA": "RLG",
+   "City": "Rostock-Laage, Germany"
+ },
+ {
+   "IATA": "ROV",
+   "City": "Rostov, Russia"
+ },
+ {
+   "IATA": "ROP",
+   "City": "Rota, Northern Mariana Islands"
+ },
+ {
+   "IATA": "ROT",
+   "City": "Rotorua, New Zealand"
+ },
+ {
+   "IATA": "RTM",
+   "City": "Rotterdam, Netherlands"
+ },
+ {
+   "IATA": "URO",
+   "City": "Rouen, France"
+ },
+ {
+   "IATA": "RVN",
+   "City": "Rovaniemi, Finland"
+ },
+ {
+   "IATA": "SZT",
+   "City": "S. Cristobal del Casas, Mexico"
+ },
+ {
+   "IATA": "QFZ",
+   "City": "Saarbruecken, Germany"
+ },
+ {
+   "IATA": "STX",
+   "City": "Saint Croix, U.S. Virgin Islands"
+ },
+ {
+   "IATA": "SLU",
+   "City": "Saint Lucia, ST. LUCIA"
+ },
+ {
+   "IATA": "SXM",
+   "City": "Saint Maarten, Netherlands Antilles"
+ },
+ {
+   "IATA": "LED",
+   "City": "Saint Petersburg, Russia - Pulkovo"
+ },
+ {
+   "IATA": "STT",
+   "City": "Saint Thomas, U.S. Virgin Islands"
+ },
+ {
+   "IATA": "LTT",
+   "City": "Saint Tropez, France - La Mole"
+ },
+ {
+   "IATA": "XPZ",
+   "City": "Saint Tropez, France"
+ },
+ {
+   "IATA": "SPN",
+   "City": "Saipan, Northern Mariana Islands"
+ },
+ {
+   "IATA": "SNO",
+   "City": "Sakon Nakhon, Thailand"
+ },
+ {
+   "IATA": "SLY",
+   "City": "Salehard, Russia"
+ },
+ {
+   "IATA": "SLX",
+   "City": "Salt Cay, Turks and Caicos Islands"
+ },
+ {
+   "IATA": "SLW",
+   "City": "Saltillo, Mexico"
+ },
+ {
+   "IATA": "SSA",
+   "City": "Salvadore, BA, Brazil"
+ },
+ {
+   "IATA": "SZG",
+   "City": "Salzburg, Austria"
+ },
+ {
+   "IATA": "KUF",
+   "City": "Samara, Russia"
+ },
+ {
+   "IATA": "SVB",
+   "City": "Sambaua, Madagascar"
+ },
+ {
+   "IATA": "UAS",
+   "City": "Samburu, Kenya"
+ },
+ {
+   "IATA": "SMI",
+   "City": "Samos, Greece"
+ },
+ {
+   "IATA": "ADZ",
+   "City": "San Andres Island, Colombia"
+ },
+ {
+   "IATA": "OES",
+   "City": "San Antonio Oesta, RN, Argentina"
+ },
+ {
+   "IATA": "SVZ",
+   "City": "San Antonio, Venezuela"
+ },
+ {
+   "IATA": "BRC",
+   "City": "San Carlos, Argentina"
+ },
+ {
+   "IATA": "SJO",
+   "City": "San Jose, Costa Rica - Juan Santa Maria"
+ },
+ {
+   "IATA": "SYQ",
+   "City": "San Jose, Costa Rica - Tobias Bolanos Int'l"
+ },
+ {
+   "IATA": "SJU",
+   "City": "San Juan, Puerto Rico"
+ },
+ {
+   "IATA": "UAQ",
+   "City": "San Juan, SJ, Argentina"
+ },
+ {
+   "IATA": "ULA",
+   "City": "San Julian, SC, Argentina"
+ },
+ {
+   "IATA": "SLP",
+   "City": "San Luis Potosi, Mexico"
+ },
+ {
+   "IATA": "LUQ",
+   "City": "San Luis, SL, Argentina"
+ },
+ {
+   "IATA": "SAI",
+   "City": "San Marino, San Marino"
+ },
+ {
+   "IATA": "CPC",
+   "City": "San Martin De Los Andes, Argentina"
+ },
+ {
+   "IATA": "NMG",
+   "City": "San Miguel, Panama"
+ },
+ {
+   "IATA": "SAP",
+   "City": "San Pedro Sula, Honduras"
+ },
+ {
+   "IATA": "AFA",
+   "City": "San Rafael, Argentina"
+ },
+ {
+   "IATA": "ZSA",
+   "City": "San Salvador, Bahamas"
+ },
+ {
+   "IATA": "SAL",
+   "City": "San Salvador, El Salvador"
+ },
+ {
+   "IATA": "EAS",
+   "City": "San Sebastian, Spain"
+ },
+ {
+   "IATA": "SAH",
+   "City": "Sana'a, Yemen"
+ },
+ {
+   "IATA": "NDY",
+   "City": "Sanday, United Kingdom"
+ },
+ {
+   "IATA": "NNB",
+   "City": "Santa Ana, Solomon Islands"
+ },
+ {
+   "IATA": "STB",
+   "City": "Santa Barbara, Ed, Venezuela"
+ },
+ {
+   "IATA": "SPC",
+   "City": "Santa Cruz De La Palma, Spain and Canary Islands - La Palma"
+ },
+ {
+   "IATA": "VVI",
+   "City": "Santa Cruz, Bolivia"
+ },
+ {
+   "IATA": "RIA",
+   "City": "Santa Maria, Brazil"
+ },
+ {
+   "IATA": "SMA",
+   "City": "Santa Maria, Portugal"
+ },
+ {
+   "IATA": "SMR",
+   "City": "Santa Marta, Colombia"
+ },
+ {
+   "IATA": "RSA",
+   "City": "Santa Rosa, LP, Argentina"
+ },
+ {
+   "IATA": "STM",
+   "City": "Santarem, PA, Brazil"
+ },
+ {
+   "IATA": "SMS",
+   "City": "Sante Marie, Madagascar"
+ },
+ {
+   "IATA": "SCL",
+   "City": "Santiago, Chile"
+ },
+ {
+   "IATA": "STI",
+   "City": "Santiago, Dominican Republic"
+ },
+ {
+   "IATA": "GEL",
+   "City": "Santo Angelo, Brazil"
+ },
+ {
+   "IATA": "NTO",
+   "City": "Santo Antao, Cape Verde"
+ },
+ {
+   "IATA": "HEX",
+   "City": "Santo Domingo, Dominican Republic - Herrera"
+ },
+ {
+   "IATA": "SDQ",
+   "City": "Santo Domingo, Dominican Republic - Las Americas"
+ },
+ {
+   "IATA": "STD",
+   "City": "Santo Domingo, Venezuela"
+ },
+ {
+   "IATA": "SYX",
+   "City": "Sanya, China"
+ },
+ {
+   "IATA": "SNE",
+   "City": "Sao Nicolau, Cape Verde"
+ },
+ {
+   "IATA": "CGH",
+   "City": "Sao Paulo, Brazil - Congonhas"
+ },
+ {
+   "IATA": "GRU",
+   "City": "Sao Paulo, Brazil - Guarulhos Intl"
+ },
+ {
+   "IATA": "VCP",
+   "City": "Sao Paulo, Brazil - Viracopos"
+ },
+ {
+   "IATA": "TMS",
+   "City": "Sao Tome Is., Sao Tome and Principe"
+ },
+ {
+   "IATA": "VXE",
+   "City": "Sao Vicente, Cape Verde"
+ },
+ {
+   "IATA": "CTS",
+   "City": "Sapporo, Japan - Chitose"
+ },
+ {
+   "IATA": "OKD",
+   "City": "Sapporo, Japan - Okadama"
+ },
+ {
+   "IATA": "SSR",
+   "City": "Sara, Vanuatu"
+ },
+ {
+   "IATA": "RTW",
+   "City": "Saratov, Russia"
+ },
+ {
+   "IATA": "ZRM",
+   "City": "Sarmi, Indonesia"
+ },
+ {
+   "IATA": "SUJ",
+   "City": "Satu Mare, Romania"
+ },
+ {
+   "IATA": "SWG",
+   "City": "Satwag, Papua New Guinea"
+ },
+ {
+   "IATA": "SLZ",
+   "City": "Sau Luiz, MA, Brazil"
+ },
+ {
+   "IATA": "SXK",
+   "City": "Saumlaki, Indonesia"
+ },
+ {
+   "IATA": "ZVK",
+   "City": "Savannakhet, Laos"
+ },
+ {
+   "IATA": "SVL",
+   "City": "Savonlinna, Finland"
+ },
+ {
+   "IATA": "SVU",
+   "City": "Savusavu, Fiji"
+ },
+ {
+   "IATA": "ZBY",
+   "City": "Sayaboury, Laos"
+ },
+ {
+   "IATA": "EGM",
+   "City": "Sege, Solomon Islands"
+ },
+ {
+   "IATA": "GXF",
+   "City": "Seiyun, Yemen"
+ },
+ {
+   "IATA": "QFK",
+   "City": "Selje, Norway"
+ },
+ {
+   "IATA": "SRG",
+   "City": "Semarang, Indonesia"
+ },
+ {
+   "IATA": "ZEG",
+   "City": "Senggo, Indonesia"
+ },
+ {
+   "IATA": "SEL",
+   "City": "Seoul, South Korea - All Airports"
+ },
+ {
+   "IATA": "GMP",
+   "City": "Seoul, South Korea - Gimpo International"
+ },
+ {
+   "IATA": "ICN",
+   "City": "Seoul, South Korea - Incheon International"
+ },
+ {
+   "IATA": "ZRI",
+   "City": "Servi, Indonesia"
+ },
+ {
+   "IATA": "SZM",
+   "City": "Sesriem, Namibia"
+ },
+ {
+   "IATA": "SVQ",
+   "City": "Sevilla, Spain and Canary Islands"
+ },
+ {
+   "IATA": "PVG",
+   "City": "Shanghai, China"
+ },
+ {
+   "IATA": "SNN",
+   "City": "Shannon, Ireland"
+ },
+ {
+   "IATA": "SWA",
+   "City": "Shantou, China"
+ },
+ {
+   "IATA": "SSH",
+   "City": "Sharm El Sheikh, Egypt"
+ },
+ {
+   "IATA": "SZD",
+   "City": "Sheffield, United Kingdom"
+ },
+ {
+   "IATA": "SZX",
+   "City": "Shenzhen, China"
+ },
+ {
+   "IATA": "LWK",
+   "City": "Shetland Islands, United Kingdom - Lerwick/Tingwall"
+ },
+ {
+   "IATA": "LSI",
+   "City": "Shetland Islands, United Kingdom - Sumburgh"
+ },
+ {
+   "IATA": "HIL",
+   "City": "Shillavo, Ethiopia"
+ },
+ {
+   "IATA": "CIT",
+   "City": "Shimkent, Kazakhstan"
+ },
+ {
+   "IATA": "SYZ",
+   "City": "Shiraz, Iran"
+ },
+ {
+   "IATA": "SYO",
+   "City": "Shonai, Japan"
+ },
+ {
+   "IATA": "JHQ",
+   "City": "Shute Harbor, Australia"
+ },
+ {
+   "IATA": "REP",
+   "City": "Siem Reap, Cambodia"
+ },
+ {
+   "IATA": "IXS",
+   "City": "Silchar, India"
+ },
+ {
+   "IATA": "SYM",
+   "City": "Simao, China"
+ },
+ {
+   "IATA": "NKD",
+   "City": "Sinak, Indonesia"
+ },
+ {
+   "IATA": "SIN",
+   "City": "Singapore, Singapore - Changi"
+ },
+ {
+   "IATA": "XSP",
+   "City": "Singapore, Singapore - Seletar"
+ },
+ {
+   "IATA": "SQG",
+   "City": "Sintang, Indonesia"
+ },
+ {
+   "IATA": "JHS",
+   "City": "Sisimiut, Greenland"
+ },
+ {
+   "IATA": "AKY",
+   "City": "Sittwe, Myanmar"
+ },
+ {
+   "IATA": "VAS",
+   "City": "Sivas, Turkey"
+ },
+ {
+   "IATA": "JSI",
+   "City": "Skiathos, Greece"
+ },
+ {
+   "IATA": "SKP",
+   "City": "Skopie, Macedonia (FYROM)"
+ },
+ {
+   "IATA": "KVB",
+   "City": "Skovde, Sweden"
+ },
+ {
+   "IATA": "SZK",
+   "City": "Skukuza, South Africa"
+ },
+ {
+   "IATA": "SXL",
+   "City": "Sligo, Ireland"
+ },
+ {
+   "IATA": "DWB",
+   "City": "Soalala, Madagascar"
+ },
+ {
+   "IATA": "SOO",
+   "City": "Soderham, Sweden"
+ },
+ {
+   "IATA": "SOF",
+   "City": "Sofia, Bulgaria"
+ },
+ {
+   "IATA": "SOG",
+   "City": "Sognolal, Norway"
+ },
+ {
+   "IATA": "SOC",
+   "City": "Solo City, Indonesia"
+ },
+ {
+   "IATA": "SQH",
+   "City": "Son-La, Viet Nam - Na-San"
+ },
+ {
+   "IATA": "SOJ",
+   "City": "Sorkjosen, Norway"
+ },
+ {
+   "IATA": "SOD",
+   "City": "Sorocaba, Brazil"
+ },
+ {
+   "IATA": "TZN",
+   "City": "South Andros, Bahamas"
+ },
+ {
+   "IATA": "XSC",
+   "City": "South Caicos, Turks and Caicos Islands"
+ },
+ {
+   "IATA": "SOU",
+   "City": "South Hampton, United Kingdom"
+ },
+ {
+   "IATA": "SOI",
+   "City": "South Molle Island, QL, Australia"
+ },
+ {
+   "IATA": "SPU",
+   "City": "Split, Croatia"
+ },
+ {
+   "IATA": "AXP",
+   "City": "Spring Point, Bahamas"
+ },
+ {
+   "IATA": "SXR",
+   "City": "Srinagar, India"
+ },
+ {
+   "IATA": "RUN",
+   "City": "St Denis de la Reunion, Reunion"
+ },
+ {
+   "IATA": "SKB",
+   "City": "St Kitts, St Kitts and Nevis"
+ },
+ {
+   "IATA": "FSP",
+   "City": "St Pierre, St Pierre and Miquelon"
+ },
+ {
+   "IATA": "SVD",
+   "City": "St Vincent, Saint Vincent and the Grenadines"
+ },
+ {
+   "IATA": "STX",
+   "City": "St. Croix Island, U.S. Virgin Islands"
+ },
+ {
+   "IATA": "EBU",
+   "City": "St. Etienne, France"
+ },
+ {
+   "IATA": "EUX",
+   "City": "St. Eustatius, Netherlands Antilles"
+ },
+ {
+   "IATA": "UVF",
+   "City": "St. Lucia, St. Lucia - Hawnorra"
+ },
+ {
+   "IATA": "UVF",
+   "City": "St. Lucia, St. Lucia"
+ },
+ {
+   "IATA": "LED",
+   "City": "St. Petersburg, Russia"
+ },
+ {
+   "IATA": "ZSE",
+   "City": "St. Pierre de la Reunion, Reunion"
+ },
+ {
+   "IATA": "STT",
+   "City": "St. Thomas Island, U.S. Virgin Islands"
+ },
+ {
+   "IATA": "SVG",
+   "City": "Stavanger, Norway"
+ },
+ {
+   "IATA": "STW",
+   "City": "Stavropol, Russia"
+ },
+ {
+   "IATA": "SML",
+   "City": "Stella Maris, Bahamas"
+ },
+ {
+   "IATA": "STO",
+   "City": "Stockholm, Sweden - All airports"
+ },
+ {
+   "IATA": "ARN",
+   "City": "Stockholm, Sweden - Arlanda"
+ },
+ {
+   "IATA": "BMA",
+   "City": "Stockholm, Sweden - Bromma"
+ },
+ {
+   "IATA": "SYY",
+   "City": "Stornoway, United Kingdom"
+ },
+ {
+   "IATA": "SQO",
+   "City": "Storuman, Sweden"
+ },
+ {
+   "IATA": "XER",
+   "City": "Strasbourg, France - Bus service"
+ },
+ {
+   "IATA": "SXB",
+   "City": "Strasbourg, France - Entzheim"
+ },
+ {
+   "IATA": "SOY",
+   "City": "Stronsay, United Kingdom"
+ },
+ {
+   "IATA": "TNX",
+   "City": "Stung Treng, Cambodia"
+ },
+ {
+   "IATA": "STR",
+   "City": "Stuttgart, Germany - Echterdingen"
+ },
+ {
+   "IATA": "ZWS",
+   "City": "Stuttgart, Germany - Rail service"
+ },
+ {
+   "IATA": "VAO",
+   "City": "Suavanao, Solomon Islands"
+ },
+ {
+   "IATA": "SRE",
+   "City": "Sucre, Bolivia"
+ },
+ {
+   "IATA": "SYU",
+   "City": "Sue Island, QL, Australia"
+ },
+ {
+   "IATA": "SUL",
+   "City": "Sui, Pakistan"
+ },
+ {
+   "IATA": "THS",
+   "City": "Sukhotthai, Thailand"
+ },
+ {
+   "IATA": "NTY",
+   "City": "Sun City, South Africa"
+ },
+ {
+   "IATA": "MCY",
+   "City": "Sunshine Coast, QL, Australia"
+ },
+ {
+   "IATA": "SUB",
+   "City": "Surabaya, Indonesia"
+ },
+ {
+   "IATA": "URT",
+   "City": "Surat Thani, Thailand"
+ },
+ {
+   "IATA": "SUV",
+   "City": "Suva, Fiji"
+ },
+ {
+   "IATA": "EVG",
+   "City": "Sveg, Sweden"
+ },
+ {
+   "IATA": "SVJ",
+   "City": "Svolvaer, Norway"
+ },
+ {
+   "IATA": "SYD",
+   "City": "Sydney, New South Wales, Australia"
+ },
+ {
+   "IATA": "ZYL",
+   "City": "Sylhet, Bangladesh"
+ },
+ {
+   "IATA": "SZZ",
+   "City": "Szczecin, Poland"
+ },
+ {
+   "IATA": "TCP",
+   "City": "Taba, Egypt"
+ },
+ {
+   "IATA": "TBJ",
+   "City": "Tabarka, Tunisia"
+ },
+ {
+   "IATA": "TBT",
+   "City": "Tabatinga, AM, Brazil"
+ },
+ {
+   "IATA": "TBO",
+   "City": "Tabora, Tanzania"
+ },
+ {
+   "IATA": "TBZ",
+   "City": "Tabriz, Iran"
+ },
+ {
+   "IATA": "TBG",
+   "City": "Tabubil, Papua New Guinea"
+ },
+ {
+   "IATA": "TUU",
+   "City": "Tabuk, Saudi Arabia"
+ },
+ {
+   "IATA": "TCG",
+   "City": "Tacheng, China"
+ },
+ {
+   "IATA": "THL",
+   "City": "Tachilek, Myanmar"
+ },
+ {
+   "IATA": "TAC",
+   "City": "Tacloban, Philippines"
+ },
+ {
+   "IATA": "TCQ",
+   "City": "Tacna, Peru"
+ },
+ {
+   "IATA": "TXG",
+   "City": "Taichung, Taiwan"
+ },
+ {
+   "IATA": "TIF",
+   "City": "Taif, Saudi Arabia"
+ },
+ {
+   "IATA": "TNN",
+   "City": "Tainan, Taiwan"
+ },
+ {
+   "IATA": "TPE",
+   "City": "Taipei, Taiwan - Chiang Kai Shek"
+ },
+ {
+   "IATA": "TSA",
+   "City": "Taipei, Taiwan - Sung Shan"
+ },
+ {
+   "IATA": "TTT",
+   "City": "Taitung, Taiwan"
+ },
+ {
+   "IATA": "TYN",
+   "City": "Taiyuan, China"
+ },
+ {
+   "IATA": "TAI",
+   "City": "Taiz, Yemen"
+ },
+ {
+   "IATA": "TLL",
+   "City": "Tallinn, Estonia"
+ },
+ {
+   "IATA": "TMR",
+   "City": "Tamanrasset, Algeria"
+ },
+ {
+   "IATA": "TNO",
+   "City": "Tamarindo, Costa Rica"
+ },
+ {
+   "IATA": "TMM",
+   "City": "Tamatave, Madagascar"
+ },
+ {
+   "IATA": "WTA",
+   "City": "Tambohorano, Madagasca"
+ },
+ {
+   "IATA": "TMC",
+   "City": "Tambolaka, Indonesia"
+ },
+ {
+   "IATA": "TMU",
+   "City": "Tambor, Costa Rica"
+ },
+ {
+   "IATA": "TMP",
+   "City": "Tampere, Finland"
+ },
+ {
+   "IATA": "TAM",
+   "City": "Tampico, Mexico"
+ },
+ {
+   "IATA": "TMW",
+   "City": "Tamworth, NS, Australia"
+ },
+ {
+   "IATA": "TMH",
+   "City": "Tanahmerah, Indonesia"
+ },
+ {
+   "IATA": "TNG",
+   "City": "Tangier, Morocco"
+ },
+ {
+   "IATA": "TJQ",
+   "City": "Tanjung Pandan, Indonesia"
+ },
+ {
+   "IATA": "TJS",
+   "City": "Tanjung Selor, Indonesia"
+ },
+ {
+   "IATA": "TAH",
+   "City": "Tanna, Vanuatu"
+ },
+ {
+   "IATA": "TAP",
+   "City": "Tapachula, Mexico"
+ },
+ {
+   "IATA": "TRK",
+   "City": "Tarakan, Indonesia"
+ },
+ {
+   "IATA": "TRA",
+   "City": "Taramajma, Japan"
+ },
+ {
+   "IATA": "TAR",
+   "City": "Taranto, Italy"
+ },
+ {
+   "IATA": "TPP",
+   "City": "Tarapoto, Peru"
+ },
+ {
+   "IATA": "TRW",
+   "City": "Tarawa, Kiribati"
+ },
+ {
+   "IATA": "TRO",
+   "City": "Taree, NS, Australia"
+ },
+ {
+   "IATA": "TIZ",
+   "City": "Tari, Papua New Guinea"
+ },
+ {
+   "IATA": "TJA",
+   "City": "Tarija, Bolivia"
+ },
+ {
+   "IATA": "TAS",
+   "City": "Tashkent, Uzbekistan"
+ },
+ {
+   "IATA": "TUO",
+   "City": "Taupo, New Zealand"
+ },
+ {
+   "IATA": "TRG",
+   "City": "Tauranga, New Zealand"
+ },
+ {
+   "IATA": "TVU",
+   "City": "Taveuni, Fiji"
+ },
+ {
+   "IATA": "TWU",
+   "City": "Tawau, Malaysia"
+ },
+ {
+   "IATA": "TEE",
+   "City": "Tbessa, Algeria"
+ },
+ {
+   "IATA": "TBS",
+   "City": "Tbilisi, Georgia"
+ },
+ {
+   "IATA": "TCH",
+   "City": "Tchibanga, Gabon"
+ },
+ {
+   "IATA": "TEU",
+   "City": "Te Anau, New Zealand"
+ },
+ {
+   "IATA": "MME",
+   "City": "Teesside, United Kingdom"
+ },
+ {
+   "IATA": "TFF",
+   "City": "Tefe, AM, Brazil"
+ },
+ {
+   "IATA": "TGU",
+   "City": "Tegucigalpa, Honduras"
+ },
+ {
+   "IATA": "THR",
+   "City": "Tehran, Iran - Mehrabad"
+ },
+ {
+   "IATA": "TKB",
+   "City": "Tekadu, Papua New Guinea"
+ },
+ {
+   "IATA": "TLV",
+   "City": "Tel Aviv, Israel"
+ },
+ {
+   "IATA": "TIM",
+   "City": "Tembagapura, Indonesia"
+ },
+ {
+   "IATA": "TXM",
+   "City": "Teminabuan, Indonesia"
+ },
+ {
+   "IATA": "ZCO",
+   "City": "Temuco, Chile"
+ },
+ {
+   "IATA": "TFN",
+   "City": "Tenerife, Spain and Canary Islands - Norte Los Rodeos"
+ },
+ {
+   "IATA": "TFS",
+   "City": "Tenerife, Spain and the Canary Islands - Sur Reina Sofia"
+ },
+ {
+   "IATA": "TCA",
+   "City": "Tennant Creek, NT, Australia"
+ },
+ {
+   "IATA": "TPQ",
+   "City": "Tepic, Mexico"
+ },
+ {
+   "IATA": "TER",
+   "City": "Terceira Island, Portugal"
+ },
+ {
+   "IATA": "THE",
+   "City": "Teresina, PI, Brazil"
+ },
+ {
+   "IATA": "TMJ",
+   "City": "Termez, Uzbekistan"
+ },
+ {
+   "IATA": "TTE",
+   "City": "Ternate, Indonesia"
+ },
+ {
+   "IATA": "TDB",
+   "City": "Tetabedi, Papua New Guinea"
+ },
+ {
+   "IATA": "TET",
+   "City": "Tete, Mozambique"
+ },
+ {
+   "IATA": "TTU",
+   "City": "Tetuan, Morocco"
+ },
+ {
+   "IATA": "TEZ",
+   "City": "Tezpur, India"
+ },
+ {
+   "IATA": "SNW",
+   "City": "Thandwe, Myanmar"
+ },
+ {
+   "IATA": "THG",
+   "City": "Thangool, QL, Australia"
+ },
+ {
+   "IATA": "XTG",
+   "City": "Thargomindah, QL, Australia"
+ },
+ {
+   "IATA": "TBI",
+   "City": "The Bight, Bahamas"
+ },
+ {
+   "IATA": "SKG",
+   "City": "Thessaloniki, Greece"
+ },
+ {
+   "IATA": "JTR",
+   "City": "Thira, Greece"
+ },
+ {
+   "IATA": "TRV",
+   "City": "Thiruvananthapuram, India"
+ },
+ {
+   "IATA": "THO",
+   "City": "Thorshofn, Iceland"
+ },
+ {
+   "IATA": "TIS",
+   "City": "Thursday Island, QL, Australia"
+ },
+ {
+   "IATA": "TSN",
+   "City": "Tianjn, China"
+ },
+ {
+   "IATA": "TID",
+   "City": "Tiaret, Algeria"
+ },
+ {
+   "IATA": "TGJ",
+   "City": "Tiga, New Caledonia"
+ },
+ {
+   "IATA": "TIJ",
+   "City": "Tijuana, Mexico"
+ },
+ {
+   "IATA": "TIH",
+   "City": "Tikehau Atoll, French Polynesia"
+ },
+ {
+   "IATA": "IKS",
+   "City": "Tiksi, Russia"
+ },
+ {
+   "IATA": "TIU",
+   "City": "Timaru, New Zealand"
+ },
+ {
+   "IATA": "TMX",
+   "City": "Timimoun, Algeria"
+ },
+ {
+   "IATA": "TSR",
+   "City": "Timosoara, Romania"
+ },
+ {
+   "IATA": "TIN",
+   "City": "Tindouf, Algeria"
+ },
+ {
+   "IATA": "TIQ",
+   "City": "Tinian, Northern Mariana Islands"
+ },
+ {
+   "IATA": "TIY",
+   "City": "Tioljikja, Mauritania"
+ },
+ {
+   "IATA": "TOD",
+   "City": "Tioman, Malaysia"
+ },
+ {
+   "IATA": "TIE",
+   "City": "Tippi, Ethiopia"
+ },
+ {
+   "IATA": "TIA",
+   "City": "Tirana, Albania"
+ },
+ {
+   "IATA": "TRE",
+   "City": "Tiree, United Kingdom"
+ },
+ {
+   "IATA": "TGM",
+   "City": "Tirgu Mures, Romania"
+ },
+ {
+   "IATA": "TRZ",
+   "City": "Tiruchirapally, India"
+ },
+ {
+   "IATA": "TIR",
+   "City": "Tirupati, India"
+ },
+ {
+   "IATA": "TIV",
+   "City": "Tivat, Serbia and Montenegro"
+ },
+ {
+   "IATA": "TLM",
+   "City": "Tlemcen, Algeria"
+ },
+ {
+   "IATA": "TAB",
+   "City": "Tobago, Trinidad and Tobago"
+ },
+ {
+   "IATA": "TOB",
+   "City": "Tobruk, Libya"
+ },
+ {
+   "IATA": "TKN",
+   "City": "Tokunoshima, Japan"
+ },
+ {
+   "IATA": "TKS",
+   "City": "Tokushima, Japan"
+ },
+ {
+   "IATA": "TYO",
+   "City": "Tokyo, Japan - All airports"
+ },
+ {
+   "IATA": "HND",
+   "City": "Tokyo, Japan - Haneda"
+ },
+ {
+   "IATA": "NRT",
+   "City": "Tokyo, Japan - Narita"
+ },
+ {
+   "IATA": "TOW",
+   "City": "Toledo, PR, Brazil"
+ },
+ {
+   "IATA": "TLC",
+   "City": "Toluco, Mexico"
+ },
+ {
+   "IATA": "TPR",
+   "City": "Tom Price, WA, Australia"
+ },
+ {
+   "IATA": "TMG",
+   "City": "Tomanggong, Malaysia"
+ },
+ {
+   "IATA": "TOM",
+   "City": "Tombouctou, Mali"
+ },
+ {
+   "IATA": "TOF",
+   "City": "Tomsk, Russia"
+ },
+ {
+   "IATA": "TGO",
+   "City": "Tongliao, China"
+ },
+ {
+   "IATA": "TGH",
+   "City": "Tongoa, Vanuatu"
+ },
+ {
+   "IATA": "TWB",
+   "City": "Toowoomba, QL, Australia"
+ },
+ {
+   "IATA": "TRC",
+   "City": "Torreon, Mexico"
+ },
+ {
+   "IATA": "TOH",
+   "City": "Torres, Vanuatu"
+ },
+ {
+   "IATA": "TYF",
+   "City": "Torsby, Sweden"
+ },
+ {
+   "IATA": "TOV",
+   "City": "Tortola, British Virgin Islands"
+ },
+ {
+   "IATA": "TTB",
+   "City": "Tortoli, Italy"
+ },
+ {
+   "IATA": "TTQ",
+   "City": "Tortuquero, Costa Rica"
+ },
+ {
+   "IATA": "TTJ",
+   "City": "Tottori, Japan"
+ },
+ {
+   "IATA": "TOU",
+   "City": "Touho, New Caledonia"
+ },
+ {
+   "IATA": "TLN",
+   "City": "Toulon, France"
+ },
+ {
+   "IATA": "TLS",
+   "City": "Toulouse, France"
+ },
+ {
+   "IATA": "XSH",
+   "City": "Tours, France - Rail service"
+ },
+ {
+   "IATA": "TUF",
+   "City": "Tours, France"
+ },
+ {
+   "IATA": "TSV",
+   "City": "Townsville, QL, Australia"
+ },
+ {
+   "IATA": "TOY",
+   "City": "Toyama, Japan"
+ },
+ {
+   "IATA": "TOE",
+   "City": "Tozeur, Tunisia"
+ },
+ {
+   "IATA": "TZX",
+   "City": "Trabzon, Turkey"
+ },
+ {
+   "IATA": "TST",
+   "City": "Trang, Thailand"
+ },
+ {
+   "IATA": "TPS",
+   "City": "Trapani, Italy"
+ },
+ {
+   "IATA": "TGN",
+   "City": "Traralgon, VI, Australia"
+ },
+ {
+   "IATA": "TCB",
+   "City": "Treasure Cay, Bahamas"
+ },
+ {
+   "IATA": "REL",
+   "City": "Trelew, CB, Argentina"
+ },
+ {
+   "IATA": "TRS",
+   "City": "Trieste, Italy"
+ },
+ {
+   "IATA": "TDD",
+   "City": "Trinidad, Bolivia"
+ },
+ {
+   "IATA": "POS",
+   "City": "Trinidad, Trinidad and Tobago"
+ },
+ {
+   "IATA": "TIP",
+   "City": "Tripoli, Latvia"
+ },
+ {
+   "IATA": "THN",
+   "City": "Trollhattan, Sweden"
+ },
+ {
+   "IATA": "TMT",
+   "City": "Trombetas, PA, Brazil"
+ },
+ {
+   "IATA": "TOS",
+   "City": "Tromso, Norway"
+ },
+ {
+   "IATA": "TRD",
+   "City": "Trondheim, Norway"
+ },
+ {
+   "IATA": "TJI",
+   "City": "Trujillo, Honduras"
+ },
+ {
+   "IATA": "TRU",
+   "City": "Trujillo, Peru"
+ },
+ {
+   "IATA": "TKK",
+   "City": "Truk, Micronesia"
+ },
+ {
+   "IATA": "TTS",
+   "City": "Tsaratanana, Madagascar"
+ },
+ {
+   "IATA": "WTS",
+   "City": "Tsiroanomandidy, Madagascar"
+ },
+ {
+   "IATA": "TSB",
+   "City": "Tsumeb, Namibia"
+ },
+ {
+   "IATA": "TSJ",
+   "City": "Tsushima, Japan"
+ },
+ {
+   "IATA": "TUB",
+   "City": "Tubuai, French Polynesia"
+ },
+ {
+   "IATA": "TUC",
+   "City": "Tucuman, TU, Argentina"
+ },
+ {
+   "IATA": "TUV",
+   "City": "Tucupita, Venezuela"
+ },
+ {
+   "IATA": "TUR",
+   "City": "Tucurui, PA, Brazil"
+ },
+ {
+   "IATA": "TFI",
+   "City": "Tufi, Papua New Guinea"
+ },
+ {
+   "IATA": "TUG",
+   "City": "Tuguegarao, Philippines"
+ },
+ {
+   "IATA": "TUA",
+   "City": "Tulcan, Ecuador"
+ },
+ {
+   "IATA": "TLE",
+   "City": "Tulear, Madagascar"
+ },
+ {
+   "IATA": "TUJ",
+   "City": "Tum, Ethiopia"
+ },
+ {
+   "IATA": "TCO",
+   "City": "Tumaco, Colombia"
+ },
+ {
+   "IATA": "TBP",
+   "City": "Tumbes, Peru"
+ },
+ {
+   "IATA": "TUN",
+   "City": "Tunis, Tunisia"
+ },
+ {
+   "IATA": "TXN",
+   "City": "Tunxi, China"
+ },
+ {
+   "IATA": "TUI",
+   "City": "Turaif, Saudi Arabia"
+ },
+ {
+   "IATA": "TUK",
+   "City": "Turbat, Pakistan"
+ },
+ {
+   "IATA": "TRN",
+   "City": "Turin, Italy"
+ },
+ {
+   "IATA": "TKU",
+   "City": "Turku, Finland"
+ },
+ {
+   "IATA": "TGZ",
+   "City": "Tuxtla Gutierrez, Mexico"
+ },
+ {
+   "IATA": "TJM",
+   "City": "Tyumen, Russia"
+ },
+ {
+   "IATA": "UBJ",
+   "City": "Ube, Japan"
+ },
+ {
+   "IATA": "UBA",
+   "City": "Uberaba, MG, Brazil"
+ },
+ {
+   "IATA": "UDI",
+   "City": "Uberlandia, MG, Brazil"
+ },
+ {
+   "IATA": "UBP",
+   "City": "Ubon Ratchathani, Thailand"
+ },
+ {
+   "IATA": "UDR",
+   "City": "Udaipur, Indonesia"
+ },
+ {
+   "IATA": "UTH",
+   "City": "Udon Thani, Thailand"
+ },
+ {
+   "IATA": "UFA",
+   "City": "Ufa, Russia"
+ },
+ {
+   "IATA": "UJE",
+   "City": "Ujae Island, Marshall Islands"
+ },
+ {
+   "IATA": "UPG",
+   "City": "Ujung Pandang, Indonesia"
+ },
+ {
+   "IATA": "UCT",
+   "City": "Ukhta, Russia"
+ },
+ {
+   "IATA": "ULN",
+   "City": "Ulaanbaatar, Mongolia"
+ },
+ {
+   "IATA": "HLH",
+   "City": "Ulanhot, China"
+ },
+ {
+   "IATA": "UUD",
+   "City": "Ulan-Ude, Russia"
+ },
+ {
+   "IATA": "ULB",
+   "City": "Ulei, Vanuatu"
+ },
+ {
+   "IATA": "ULY",
+   "City": "Uliastai, Mongolia"
+ },
+ {
+   "IATA": "ULI",
+   "City": "Ulithi, Micronesia"
+ },
+ {
+   "IATA": "USN",
+   "City": "Ulsan, South Korea"
+ },
+ {
+   "IATA": "ULD",
+   "City": "Ulundi, South Africa"
+ },
+ {
+   "IATA": "UME",
+   "City": "Umea, Sweden"
+ },
+ {
+   "IATA": "UTT",
+   "City": "Umtata, South Africa"
+ },
+ {
+   "IATA": "JUV",
+   "City": "Upernavik, Greenland"
+ },
+ {
+   "IATA": "UTN",
+   "City": "Upington, South Africa"
+ },
+ {
+   "IATA": "URJ",
+   "City": "Uraj, Russia"
+ },
+ {
+   "IATA": "URA",
+   "City": "Uralsk, Kazakhstan"
+ },
+ {
+   "IATA": "UGC",
+   "City": "Urgench, Uzbekistan"
+ },
+ {
+   "IATA": "OMH",
+   "City": "Urmieh, Iran"
+ },
+ {
+   "IATA": "URU",
+   "City": "Uroubi, Papua New Guinea"
+ },
+ {
+   "IATA": "UPN",
+   "City": "Uruapan, Mexico"
+ },
+ {
+   "IATA": "URG",
+   "City": "Uruguaiana, RS, Brazil"
+ },
+ {
+   "IATA": "URC",
+   "City": "Urumqi, China"
+ },
+ {
+   "IATA": "USL",
+   "City": "Useless Loop, WA, Australia"
+ },
+ {
+   "IATA": "USH",
+   "City": "Ushuaia, TF, Argentina"
+ },
+ {
+   "IATA": "USK",
+   "City": "Usinsk, Russia"
+ },
+ {
+   "IATA": "UIK",
+   "City": "Ust-Ilimsk, Russia"
+ },
+ {
+   "IATA": "UKK",
+   "City": "Ust-Kamenogorsk, Kazakhstan"
+ },
+ {
+   "IATA": "UTP",
+   "City": "Utapao, Thailand"
+ },
+ {
+   "IATA": "UII",
+   "City": "Utila, Honduras"
+ },
+ {
+   "IATA": "UTK",
+   "City": "Utirik Island, Marshall Islands"
+ },
+ {
+   "IATA": "UMD",
+   "City": "Uummannaq, Greeland"
+ },
+ {
+   "IATA": "UDJ",
+   "City": "Uzhgorod, Ukraine"
+ },
+ {
+   "IATA": "ANU",
+   "City": "V.C. Bird International, Antigua & Barbuda"
+ },
+ {
+   "IATA": "VAA",
+   "City": "Vaasa, Finland"
+ },
+ {
+   "IATA": "BDQ",
+   "City": "Vadodara, India"
+ },
+ {
+   "IATA": "VDS",
+   "City": "Vadso, Norway"
+ },
+ {
+   "IATA": "ZAL",
+   "City": "Valdivia, Chile"
+ },
+ {
+   "IATA": "VLC",
+   "City": "Valencia, Spain"
+ },
+ {
+   "IATA": "VLN",
+   "City": "Valencia, Venezuela"
+ },
+ {
+   "IATA": "XVS",
+   "City": "Valenciennes, France"
+ },
+ {
+   "IATA": "VLV",
+   "City": "Valera, Venezuela"
+ },
+ {
+   "IATA": "VLS",
+   "City": "Valesdir, Vanuatu"
+ },
+ {
+   "IATA": "VLL",
+   "City": "Valladolid, Spain and Canary Islands"
+ },
+ {
+   "IATA": "VUP",
+   "City": "Valledupar, Colombia"
+ },
+ {
+   "IATA": "VDE",
+   "City": "Valverde, Spain and Canary Islands - Hierro"
+ },
+ {
+   "IATA": "VAN",
+   "City": "Van, Turkey"
+ },
+ {
+   "IATA": "YVR",
+   "City": "Vancouver, BC"
+ },
+ {
+   "IATA": "VAI",
+   "City": "Vanimo, Papua New Guinea"
+ },
+ {
+   "IATA": "VBV",
+   "City": "Vanuabalavu, Fiji"
+ },
+ {
+   "IATA": "VRA",
+   "City": "Varadero, Cuba"
+ },
+ {
+   "IATA": "VNS",
+   "City": "Varanasi, India"
+ },
+ {
+   "IATA": "VAW",
+   "City": "Vardoe, Norway"
+ },
+ {
+   "IATA": "VAG",
+   "City": "Varginha, MG, Brazil"
+ },
+ {
+   "IATA": "VRK",
+   "City": "Varkaus, Finland"
+ },
+ {
+   "IATA": "VAR",
+   "City": "Varna, Bulgaria"
+ },
+ {
+   "IATA": "VST",
+   "City": "Vasteras, Sweden"
+ },
+ {
+   "IATA": "VAT",
+   "City": "Vatomatry, Madagascar"
+ },
+ {
+   "IATA": "VAV",
+   "City": "Vava'u, Tonga"
+ },
+ {
+   "IATA": "VXO",
+   "City": "Vaxjo, Sweden"
+ },
+ {
+   "IATA": "VCE",
+   "City": "Venice, Italy - Marco Polo"
+ },
+ {
+   "IATA": "TSF",
+   "City": "Venice, Italy - Treviso"
+ },
+ {
+   "IATA": "VER",
+   "City": "Veracruz, Mexico"
+ },
+ {
+   "IATA": "VRN",
+   "City": "Verona, Italy"
+ },
+ {
+   "IATA": "VEY",
+   "City": "Vestmannaeyjar, Iceland"
+ },
+ {
+   "IATA": "VFA",
+   "City": "Victoria Falls, Zimbabwe"
+ },
+ {
+   "IATA": "VCD",
+   "City": "Victoria River Downs, NT, Australia"
+ },
+ {
+   "IATA": "VDM",
+   "City": "Viedma, RN, Argentina"
+ },
+ {
+   "IATA": "VIE",
+   "City": "Vienna, Austria"
+ },
+ {
+   "IATA": "VTE",
+   "City": "Vientiane, Laos - Wattay"
+ },
+ {
+   "IATA": "VQS",
+   "City": "Vieques, Puerto Rico"
+ },
+ {
+   "IATA": "VGO",
+   "City": "Vigo, Spain"
+ },
+ {
+   "IATA": "VNX",
+   "City": "Vilanculos, Mozambique"
+ },
+ {
+   "IATA": "VHM",
+   "City": "Vilhelmina, Sweden"
+ },
+ {
+   "IATA": "BVH",
+   "City": "Vilhena, Brazil"
+ },
+ {
+   "IATA": "VLG",
+   "City": "Villa Gesell, BA, Argentina"
+ },
+ {
+   "IATA": "VME",
+   "City": "Villa Mercedes, SL, Argentina"
+ },
+ {
+   "IATA": "VSA",
+   "City": "Villahermosa, Mexico"
+ },
+ {
+   "IATA": "VNO",
+   "City": "Vilnius, Lithuania"
+ },
+ {
+   "IATA": "VII",
+   "City": "Vinh City, Viet Nam"
+ },
+ {
+   "IATA": "VIJ",
+   "City": "Virgin Gorda, British Virgin Islands"
+ },
+ {
+   "IATA": "VBY",
+   "City": "Visby, Sweden"
+ },
+ {
+   "IATA": "VTZ",
+   "City": "Vishakhapatnam, India"
+ },
+ {
+   "IATA": "VTB",
+   "City": "Vitebsk, Belarus"
+ },
+ {
+   "IATA": "VDC",
+   "City": "Vitoria da Conquista, BA, Brazil"
+ },
+ {
+   "IATA": "VIT",
+   "City": "Vitoria, Spain and Canary Islands"
+ },
+ {
+   "IATA": "VIV",
+   "City": "Vivigani, Papua New Guinea"
+ },
+ {
+   "IATA": "OGZ",
+   "City": "Vladikavkaz, Russia"
+ },
+ {
+   "IATA": "VVO",
+   "City": "Vladivostok, Russia"
+ },
+ {
+   "IATA": "VOH",
+   "City": "Vohemar, Madagascar"
+ },
+ {
+   "IATA": "VLK",
+   "City": "Volgodonsk, Russia"
+ },
+ {
+   "IATA": "VOG",
+   "City": "Volgograd, Russia"
+ },
+ {
+   "IATA": "VPN",
+   "City": "Vopnafjordur, Iceland"
+ },
+ {
+   "IATA": "VKT",
+   "City": "Vorkuta, Russia"
+ },
+ {
+   "IATA": "VOZ",
+   "City": "Voronezh, Russia"
+ },
+ {
+   "IATA": "WAE",
+   "City": "Wadi Ad Dawasir, Saudi Arabia"
+ },
+ {
+   "IATA": "WHF",
+   "City": "Wadi Halfa, Sudan"
+ },
+ {
+   "IATA": "WET",
+   "City": "Wagethe, Indonesia"
+ },
+ {
+   "IATA": "WGA",
+   "City": "Wagga Wagga, NS, Australia"
+ },
+ {
+   "IATA": "WBA",
+   "City": "Wahai, Indonesia"
+ },
+ {
+   "IATA": "WGP",
+   "City": "Waingapo, Indonesia"
+ },
+ {
+   "IATA": "WKJ",
+   "City": "Wakkanai, Japan"
+ },
+ {
+   "IATA": "WLH",
+   "City": "Walaha, Vanuatu"
+ },
+ {
+   "IATA": "WGE",
+   "City": "Walgett, NS, Australia"
+ },
+ {
+   "IATA": "WLS",
+   "City": "Wallis Island, Wallis and Futuna Islands"
+ },
+ {
+   "IATA": "WVB",
+   "City": "Walvis Bay, Namibia"
+ },
+ {
+   "IATA": "WMX",
+   "City": "Wamena, Indonesia"
+ },
+ {
+   "IATA": "WKA",
+   "City": "Wanaka, New Zealand"
+ },
+ {
+   "IATA": "WAG",
+   "City": "Wanganui, New Zealand"
+ },
+ {
+   "IATA": "AGE",
+   "City": "Wangerooge, Germany"
+ },
+ {
+   "IATA": "AGL",
+   "City": "Wanigela, Papua New Guinea"
+ },
+ {
+   "IATA": "WXN",
+   "City": "Wanxian, China"
+ },
+ {
+   "IATA": "WAW",
+   "City": "Warsaw, Poland"
+ },
+ {
+   "IATA": "WSR",
+   "City": "Wasior, Indonesia"
+ },
+ {
+   "IATA": "WSU",
+   "City": "Wasu, Papua New Guinea"
+ },
+ {
+   "IATA": "WAT",
+   "City": "Waterford, Ireland"
+ },
+ {
+   "IATA": "WUG",
+   "City": "Wau, Papua New Guinea"
+ },
+ {
+   "IATA": "WUU",
+   "City": "Wau, Sudan"
+ },
+ {
+   "IATA": "WED",
+   "City": "Wedau, Papua New Guinea"
+ },
+ {
+   "IATA": "EJH",
+   "City": "Wedjh, Saudi Arabia"
+ },
+ {
+   "IATA": "WEH",
+   "City": "Weihai, China"
+ },
+ {
+   "IATA": "WEI",
+   "City": "Weipa, QL, Australia"
+ },
+ {
+   "IATA": "WLG",
+   "City": "Wellington, New Zealand"
+ },
+ {
+   "IATA": "WNZ",
+   "City": "Wenzhou, China"
+ },
+ {
+   "IATA": "GWT",
+   "City": "Westerland, Germany"
+ },
+ {
+   "IATA": "WSZ",
+   "City": "Westport, New Zealand"
+ },
+ {
+   "IATA": "WRY",
+   "City": "Westray, United Kingdom"
+ },
+ {
+   "IATA": "WWK",
+   "City": "Wewak, Papua New Guinea"
+ },
+ {
+   "IATA": "WHK",
+   "City": "Whakatane, New Zealand"
+ },
+ {
+   "IATA": "WRE",
+   "City": "Whangarei, New Zealand"
+ },
+ {
+   "IATA": "WYA",
+   "City": "Whyalla, SA, Australia"
+ },
+ {
+   "IATA": "WIC",
+   "City": "Wick, United Kingdom"
+ },
+ {
+   "IATA": "WVN",
+   "City": "Wilhelmshaven, Germany"
+ },
+ {
+   "IATA": "WUN",
+   "City": "Wiluna, WA, Australia"
+ },
+ {
+   "IATA": "WNR",
+   "City": "Windarra, QL, Australia"
+ },
+ {
+   "IATA": "WIN",
+   "City": "Winton, QL, Australia"
+ },
+ {
+   "IATA": "WJA",
+   "City": "Woja, Marshall Islands"
+ },
+ {
+   "IATA": "WOT",
+   "City": "Wonan, Taiwan"
+ },
+ {
+   "IATA": "WJU",
+   "City": "WonJu, South Korea"
+ },
+ {
+   "IATA": "WTO",
+   "City": "Wotho Island, Marshall Islands"
+ },
+ {
+   "IATA": "WTE",
+   "City": "Wotje Island, Marshall Islands"
+ },
+ {
+   "IATA": "WRO",
+   "City": "Wroclaw, Poland"
+ },
+ {
+   "IATA": "WUD",
+   "City": "Wudinna, SA, Australia"
+ },
+ {
+   "IATA": "WUH",
+   "City": "Wuhan, China"
+ },
+ {
+   "IATA": "WUS",
+   "City": "Wuyishan, China"
+ },
+ {
+   "IATA": "WYN",
+   "City": "Wyndham, WA, Australia"
+ },
+ {
+   "IATA": "XIY",
+   "City": "Xi An, China - Xianyang"
+ },
+ {
+   "IATA": "XMN",
+   "City": "Xiamen, China"
+ },
+ {
+   "IATA": "XFN",
+   "City": "Xiangfan, China"
+ },
+ {
+   "IATA": "XIC",
+   "City": "Xichang, China"
+ },
+ {
+   "IATA": "XKH",
+   "City": "Xieng Khouang, Laos"
+ },
+ {
+   "IATA": "XIL",
+   "City": "Xilinhot, China"
+ },
+ {
+   "IATA": "XNN",
+   "City": "Xining, China"
+ },
+ {
+   "IATA": "XUZ",
+   "City": "Xuzhou, China"
+ },
+ {
+   "IATA": "YKS",
+   "City": "Yakutsk, Russia"
+ },
+ {
+   "IATA": "KYX",
+   "City": "Yalumet, Papua New Guinea"
+ },
+ {
+   "IATA": "XMY",
+   "City": "Yam Island, QL, Australia"
+ },
+ {
+   "IATA": "GAJ",
+   "City": "Yamagata, Japan"
+ },
+ {
+   "IATA": "ENY",
+   "City": "Yan'an, China"
+ },
+ {
+   "IATA": "YNB",
+   "City": "Yanbu, Saudi Arabia"
+ },
+ {
+   "IATA": "YNZ",
+   "City": "Yancheng, China"
+ },
+ {
+   "IATA": "XYA",
+   "City": "Yandina, Solomon Islands"
+ },
+ {
+   "IATA": "RGN",
+   "City": "Yangon, Myanmar"
+ },
+ {
+   "IATA": "YNJ",
+   "City": "Yanji, China"
+ },
+ {
+   "IATA": "YNT",
+   "City": "Yantai, China"
+ },
+ {
+   "IATA": "YAO",
+   "City": "Yaounde, Cameroon"
+ },
+ {
+   "IATA": "YAP",
+   "City": "Yap, Micronesia"
+ },
+ {
+   "IATA": "IAR",
+   "City": "Yaroslavl, Russia"
+ },
+ {
+   "IATA": "AZD",
+   "City": "Yazd, Iran"
+ },
+ {
+   "IATA": "EYL",
+   "City": "Yelimane, Mali"
+ },
+ {
+   "IATA": "RSU",
+   "City": "Yeosu, South Korea"
+ },
+ {
+   "IATA": "EVN",
+   "City": "Yerevan, Armenia"
+ },
+ {
+   "IATA": "YBP",
+   "City": "Yibin, China"
+ },
+ {
+   "IATA": "YIH",
+   "City": "Yichang, China"
+ },
+ {
+   "IATA": "INC",
+   "City": "Yinchuan, China"
+ },
+ {
+   "IATA": "YIN",
+   "City": "Yining, China"
+ },
+ {
+   "IATA": "YIW",
+   "City": "Yiwu, China"
+ },
+ {
+   "IATA": "JOG",
+   "City": "Yogyakarta, Indonesia"
+ },
+ {
+   "IATA": "YGJ",
+   "City": "Yonago, Japan"
+ },
+ {
+   "IATA": "OGN",
+   "City": "Yonaguni Jima, Japan"
+ },
+ {
+   "IATA": "OKR",
+   "City": "Yorke Island, QL, Australia"
+ },
+ {
+   "IATA": "RNJ",
+   "City": "Yoronjima, Japan"
+ },
+ {
+   "IATA": "UYN",
+   "City": "Yulin, China"
+ },
+ {
+   "IATA": "UUS",
+   "City": "Yuzhno-Sakhalinsk, Russia"
+ },
+ {
+   "IATA": "ZAD",
+   "City": "Zadar, Croatia"
+ },
+ {
+   "IATA": "ZAG",
+   "City": "Zagreb, Croatia"
+ },
+ {
+   "IATA": "ZAH",
+   "City": "Zahedan, Iran"
+ },
+ {
+   "IATA": "ZTH",
+   "City": "Zakinthos Island, Greece"
+ },
+ {
+   "IATA": "ZAM",
+   "City": "Zamboanga, Philippines"
+ },
+ {
+   "IATA": "ZNZ",
+   "City": "Zanzibar, Tanzania - Kisauni"
+ },
+ {
+   "IATA": "OZH",
+   "City": "Zaporozhye, Ukraine"
+ },
+ {
+   "IATA": "ZAZ",
+   "City": "Zaragoza, Spain and Canary Islands"
+ },
+ {
+   "IATA": "ZHA",
+   "City": "Zhanjiang, China"
+ },
+ {
+   "IATA": "ZAT",
+   "City": "Zhaotong, China"
+ },
+ {
+   "IATA": "CGO",
+   "City": "Zhengzha, China"
+ },
+ {
+   "IATA": "PZH",
+   "City": "Zhob, Pakistan"
+ },
+ {
+   "IATA": "HSN",
+   "City": "Zhoushan, China"
+ },
+ {
+   "IATA": "ZUH",
+   "City": "Zhuhai, China"
+ },
+ {
+   "IATA": "IEG",
+   "City": "Zielana, Poland"
+ },
+ {
+   "IATA": "ZIH",
+   "City": "Zihuatanejo/Ixtapa, Mexico"
+ },
+ {
+   "IATA": "OUZ",
+   "City": "Zouerate, Mauritania"
+ },
+ {
+   "IATA": "UGU",
+   "City": "Zugapa, Indonesia"
+ },
+ {
+   "IATA": "ZRH",
+   "City": "Zurich, Switzerland"
+ }
 ]
