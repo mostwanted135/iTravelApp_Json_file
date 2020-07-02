@@ -1,0 +1,17 @@
+[
+ 'EN - ENGLISH'
+,'IT - ITALIAN'
+,'DE - GERMAN'
+,'FR - FRENCH'
+,'TA - TAMIL'
+,'HI - HINDI'
+,'TE - TELUGU'
+,'ES - SPANISH'
+,'SV - SWEDISH'
+,'AR - ARABIC'
+,'CS - CZECH'
+,'JA - JAPANESE'
+,'ML - MALAYALAM'
+,'PT - PORTGUESE'
+,'ZH - CHINESE'
+]
